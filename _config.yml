@@ -1,6 +1,4 @@
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+remote_theme: pages-themes/midnight@v0.2.0
 
 # Where things are
 source              : .
@@ -33,7 +31,7 @@ unpublished         : false
 
 # Plugins
 whitelist           : []
-plugins             : []
+plugins             : [- jekyll-remote-theme]
 
 # Conversion
 markdown            : kramdown
