@@ -1,7 +1,7 @@
 
 ---
 
-**<p align="right"><a name="page_1">1</a></p>**
+<p align="right"><a name="page_1">1</a></p>
 
 ---
 
@@ -15,7 +15,7 @@ For more resources, visit [cephalofair.com/bnb](cephalofair.com/bnb)
 
 ---
 
-**<p align="right"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_2">2</a></p>**
+<p align="right"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_2">2</a></p>
 
 ---
 
@@ -113,7 +113,7 @@ Terrain [p.9](#page_9)
 
 ---
 
-**<p align="right"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_3">3</a></p>**
+<p align="right"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_3">3</a></p>
 
 ---
 
@@ -127,7 +127,7 @@ This document will provide you with details on how to play the game, but if you 
 
 ---
 
-**<p align="right"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_4">4</a></p>**
+<p align="right"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_4">4</a></p>
 
 ---
 
@@ -146,7 +146,7 @@ You will need to gather the following components for your chosen character to pl
 
 ---
 
-**<p align="right"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_5">5</a></p>**
+<p align="right"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_5">5</a></p>
 
 ---
 
@@ -160,7 +160,7 @@ Most of the rules of this game focus on how you play through a scenario. Since t
 
 ---
 
-**<p align="right"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_6">6</a></p>**
+<p align="right"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_6">6</a></p>
 
 ---
 
@@ -176,7 +176,7 @@ Each Scenario Phase consists of three distinct steps:
 
 ---
 
-**<p align="right"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_7">7</a></p>**
+<p align="right"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_7">7</a></p>
 
 ---
 
@@ -199,7 +199,7 @@ Each time you play a scenario, you will prepare the scenario by performing the f
 
 ---
 
-**<p align="right"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_8">8</a></p>**
+<p align="right"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_8">8</a></p>
 
 ---
 
@@ -207,7 +207,7 @@ Each time you play a scenario, you will prepare the scenario by performing the f
 
 Each card contains a scenario entry with everything you need to know to play through it. Most scenario entries contain the following information:
 
-*TODO: insert scenario card entry side component breakdown*
+![component breakdown for scenario card entry side](/assets/diagrams/CG_B&B_OnlineVisuals_ScenarioEntry.png)
 
 <ol type="A">
   <li>The scenario’s number, name, and level.</li>
@@ -222,7 +222,7 @@ Each card contains a scenario entry with everything you need to know to play thr
 
 The map side of each scenario card also displays the map details for the scenario. This includes the following information:
 
-*TODO: insert scenario card map side component breakdown*
+![component breakdown for scenario card map side](/assets/diagrams/CG_B&B_OnlineVisuals_ScenarioMap.png)
 
 <ol type="A">
   <li>Starting Hex: You place your miniature in this hex at the start of the scenario.</li>
@@ -233,7 +233,7 @@ The map side of each scenario card also displays the map details for the scenari
 
 ---
 
-**<p align="right"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_9">9</a></p>**
+<p align="right"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_9">9</a></p>
 
 ---
 
