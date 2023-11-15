@@ -9,7 +9,7 @@
 
 Last updated 11/09/2023
 
-For more resources, visit [cephalofair.com/bnb](cephalofair.com/bnb)
+For more resources, visit [cephalofair.com/bnb](https://cephalofair.com/bnb)
 
 © 2023 Cephalofair Games, LLC. All Rights Reserved.
 
@@ -154,7 +154,7 @@ You will need to gather the following components for your chosen character to pl
 
 Now that you’ve chosen a character, it is time to learn the rules. If you would prefer to watch a video instead, you can find that here:
 
-[cephalofair.com/bnb](cephalofair.com/bnb)
+[cephalofair.com/bnb](https://cephalofair.com/bnb)
 
 Most of the rules of this game focus on how you play through a scenario. Since this is intended to be a campaign game, where you play through a series of scenarios in order, there will be some explanation of how to do that after the basic rules.
 
@@ -244,21 +244,21 @@ A hex with no terrain outline is considered **featureless**. A hex with no figur
 
 #### Obstacles
 
-\[OBSTACLE\] Figures cannot enter a hex with an obstacle, except when flying or jumping (unless the jump movement would end there). Range can be counted through obstacles, and obstacles do not block ranged attacks.
+<img src="assets/icons/terrain_obstacle.png" height="28"> Figures cannot enter a hex with an obstacle, except when flying or jumping (unless the jump movement would end there). Range can be counted through obstacles, and obstacles do not block ranged attacks.
 
 #### Difficult Terrain
 
-\[DIFFICULT TERRAIN\] A figure requires 2 movement points to enter a difficult terrain hex, except when flying or jumping (even if the jump movement ends there).
+<img src="assets/icons/terrain_difficult_terrain.png" height="28"> A figure requires 2 movement points to enter a difficult terrain hex, except when flying or jumping (even if the jump movement ends there).
 
 #### Hazards
 
-\[HAZARD\] If any figure enters a hazard hex, unless they are flying or jumping, some effect is applied to that figure. Hazard effects are varied and are specified by each individual hazard on the scenario map. Figures do not suffer additional effects when starting a turn in or exiting a hazard hex, but the effects are applied if you end a jump movement in a hazard hex. If a figure occupies a hex with an **immobilize** \[IMMOBILIZE\] hazard (see p.20), treat them as an obstacle when determining the movement of other figures.
+<img src="assets/icons/terrain_hazard.png" height="28"> If any figure enters a hazard hex, unless they are flying or jumping, some effect is applied to that figure. Hazard effects are varied and are specified by each individual hazard on the scenario map. Figures do not suffer additional effects when starting a turn in or exiting a hazard hex, but the effects are applied if you end a jump movement in a hazard hex. If a figure occupies a hex with an **immobilize** \[IMMOBILIZE\] hazard (see p.20), treat them as an obstacle when determining the movement of other figures.
 
 #### Pressure Plates
 
-\[PRESSURE PLATE\] A pressure plate’s trigger and all of its effects are defined in the special rules for the scenario. Pressure plates are considered empty hexes.
+<img src="assets/icons/terrain_pressure_plate.png" height="28"> A pressure plate’s trigger and all of its effects are defined in the special rules for the scenario. Pressure plates are considered empty hexes.
 
 #### Objectives
 
-\[OBJECTIVE\]  An objective, when present, is important to the goal of a scenario; an objective is a physical object (such as a bell) which needs to be attacked or protected. Objectives can be targeted by attacks, but are immune to damage, all conditions, and forced movement. Objectives are otherwise considered to be and treated as obstacles. The special rules for the scenario will describe how the objective relates to the scenario’s goal.
+<img src="assets/icons/terrain_objective.png" height="28">  An objective, when present, is important to the goal of a scenario; an objective is a physical object (such as a bell) which needs to be attacked or protected. Objectives can be targeted by attacks, but are immune to damage, all conditions, and forced movement. Objectives are otherwise considered to be and treated as obstacles. The special rules for the scenario will describe how the objective relates to the scenario’s goal.
 
