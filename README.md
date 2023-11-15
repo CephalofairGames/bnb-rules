@@ -1,37 +1,45 @@
+
 ---
+
 **<p align="right"><a name="page_1">1</a></p>**
+
 ---
 
 # Buttons & Bugs Rulebook
+
 Last updated 11/09/2023
-For more resources, visit cephalofair.com/bnb
+
+For more resources, visit [cephalofair.com/bnb](cephalofair.com/bnb)
+
 © 2023 Cephalofair Games, LLC. All Rights Reserved.
 
 ---
-**<p align="right"><a name="page_2">🔝 2</a></p>
+
+**<p align="right"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_2">2</a></p>**
+
 ---
 
 # Table of Contents
 
-### Getting Started p.3
-1. Choose a Character p.4
-1. Learning the Rules p.5
-### Scenario Phase p.6
-#### Beginning a Scenario p.7
-#### Scenario Cards p.8
-Terrain p.9
-- Obstacles p.9
-- Difficult Terrain p.9
-- Hazards p.9
-- Pressure Plates p.9
-- Objectives p.9
+### Getting Started [p.3](#page_3)
+- Choose a Character [p.4](#page_4)
+- Learning the Rules [p.5](#page_5)
+### Scenario Phase [p.6](#page_6)
+#### Beginning a Scenario [p.7](#page_7)
+#### Scenario Cards [p.8](#page_8)
+Terrain [p.9](#page_9)
+- Obstacles [p.9](#page_9)
+- Difficult Terrain [p.9](#page_9)
+- Hazards [p.9](#page_9)
+- Pressure Plates [p.9](#page_9)
+- Objectives [p.9](#page_9)
 ####Playing a Scenario p.10
-1. Start of Round Effects p.10
-1. Card Selection p.10
-1. Ordering of Initiative p.11
+- Start of Round Effects p.10
+- Card Selection p.10
+- Ordering of Initiative p.11
   - Resolving Ties p.11
   - Monster Order p.11
-1. Character and Monster Turns p.12
+- Character and Monster Turns p.12
   - Actions and Abilities Overview p.12
     - Actions p.12
     - Abilities p.12
@@ -95,30 +103,40 @@ Terrain p.9
 - Character Progression p.35
 - Upgraded Ability Cards p.35
 ### Appendices
-Appendix A: Component Inventory p.36
-Appendix B: Monster Turn Guide p.37
-Appendix C: Important Reminders p.38
-Appendix D: Item Index p.39
-Appendix E: Index p.40
+- Appendix A: Component Inventory p.36
+- Appendix B: Monster Turn Guide p.37
+- Appendix C: Important Reminders p.38
+- Appendix D: Item Index p.39
+- Appendix E: Index p.40
 ### Credits p.41
 ### Quick Reference p.42
 
 ---
-**<p align="right"><a name="page_3">🔝 3</a></p>**
+
+**<p align="right"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_3">3</a></p>**
+
 ---
 
 # Getting Started
+
 Oh no! You have been shrunk by magic! To return to your former size, you’ll need to navigate this strange new world by playing through a series of scenarios that will lead you through the miniature world you now find yourself in. You may find a few friends along the way, but you’ll mostly meet a variety of enemies you will need to defeat in combat. Luckily, you are a capable mercenary with abilities, which are represented by cards. You’ll need to play the right cards at the right times to overcome the many threats that await you on your journey.
+
 There are six character classes to choose from, each with their own unique abilities and play styles. You will also be able to customize your character as you progress through items and advanced ability cards.
+
 This document will provide you with details on how to play the game, but if you played another Gloomhaven game, many of these rules will be familiar. We suggest reading all the way through anyways to get a full understanding of how the game works. Rules text highlighted in green is information unique to the Buttons & Bugs system and is different from Gloomhaven and Frosthaven.
 
 ---
-**<p align="right"><a name="page_4">🔝 4</a></p>**
+
+**<p align="right"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_4">4</a></p>**
+
 ---
 
 ## Choose a Character
+
 Creating a character and starting your journey in Buttons & Bugs is a simple process: you just choose a character class and start playing.
+
 You will need to gather the following components for your chosen character to play:
+
 - **Character Card:** This card provides a visual representation of your character, along with your hit point values at different levels and a place to put condition tokens. On the back, you can find a short description of the character and a list of your ability cards and upgrades.
 - **Character Mini:** This is a small plastic piece to represent your character.
 - **Ability Cards:** There are four double-sided level 1 cards and four double-sided level 2 cards. The appropriate cards are listed on your character card.
@@ -127,31 +145,45 @@ You will need to gather the following components for your chosen character to pl
 - **Character Hit Point Dial:** This is to track your hit points during a scenario.
 
 ---
-**<p align="right"><a name="page_5">🔝 5</a></p>**
+
+**<p align="right"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_5">5</a></p>**
+
 ---
 
 ## Learning the Rules
+
 Now that you’ve chosen a character, it is time to learn the rules. If you would prefer to watch a video instead, you can find that here:
+
 [cephalofair.com/bnb](cephalofair.com/bnb)
+
 Most of the rules of this game focus on how you play through a scenario. Since this is intended to be a campaign game, where you play through a series of scenarios in order, there will be some explanation of how to do that after the basic rules.
 
 ---
-**<p align="right"><a name="page_6">🔝 6</a></p>**
+
+**<p align="right"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_6">6</a></p>**
+
 ---
 
 # Scenario Phase
+
 Scenarios are self-contained missions designed to be played in a single sitting. The scenario deck contains 20 scenarios, but you will not play through them all in a single campaign. Unlike other Gloomhaven games, the story of Buttons & Bugs is mostly linear.
+
 Each Scenario Phase consists of three distinct steps:
+
 - **Beginning a Scenario:** In this step, you will prepare everything needed for the scenario, including your own character, the monsters you will fight against, and the map layout where the fight will occur.
 - **Playing a Scenario:** The scenario is played over a series of rounds. During each round, all figures on the map, both your character and the monsters, will take a turn. You will play through round after round until the scenario is lost or completed.
 - **Ending a Scenario:** In this step, you will resolve the effects of losing or completing the scenario.
 
 ---
-**<p align="right"><a name="page_7">🔝 7</a></p>**
+
+**<p align="right"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_7">7</a></p>**
+
 ---
 
 # Beginning a Scenario
+
 Each time you play a scenario, you will prepare the scenario by performing the following steps in order:
+
 1. Select a scenario to play and find the corresponding scenario card. **Note:** You can play any scenario, but for the best story experience, we suggest that you follow the conclusion text of each scenario.
 1. Read the scenario introduction, special rules, and goal in the scenario entry and check the scenario level.
 1. Retrieve the monster card for each monster type present in the scenario.
@@ -166,10 +198,13 @@ Each time you play a scenario, you will prepare the scenario by performing the f
 1. Apply any remaining scenario effects.
 
 ---
-**<p align="right"><a name="page_8">🔝 8</a></p>**
+
+**<p align="right"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_8">8</a></p>**
+
 ---
 
 ## Scenario Cards
+
 Each card contains a scenario entry with everything you need to know to play through it. Most scenario entries contain the following information:
 
 *TODO: insert scenario card entry side component breakdown*
@@ -197,25 +232,33 @@ The map side of each scenario card also displays the map details for the scenari
 </ol>
 
 ---
-**<p align="right"><a name="page_9">🔝 9</a></p>**
+
+**<p align="right"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_9">9</a></p>**
+
 ---
 
 ### Terrain
+
 Each scenario map contains various types of terrain. The type of terrain is defined by the colored border of the tile, as depicted on the scenario map, not necessarily by the illustration of the hex.
 A hex with no terrain outline is considered **featureless**. A hex with no figure is considered **unoccupied**. A hex that is both featureless and unoccupied is considered **empty**.
 
 #### Obstacles
+
 \[OBSTACLE\] Figures cannot enter a hex with an obstacle, except when flying or jumping (unless the jump movement would end there). Range can be counted through obstacles, and obstacles do not block ranged attacks.
 
 #### Difficult Terrain
+
 \[DIFFICULT TERRAIN\] A figure requires 2 movement points to enter a difficult terrain hex, except when flying or jumping (even if the jump movement ends there).
 
 #### Hazards
+
 \[HAZARD\] If any figure enters a hazard hex, unless they are flying or jumping, some effect is applied to that figure. Hazard effects are varied and are specified by each individual hazard on the scenario map. Figures do not suffer additional effects when starting a turn in or exiting a hazard hex, but the effects are applied if you end a jump movement in a hazard hex. If a figure occupies a hex with an **immobilize** \[IMMOBILIZE\] hazard (see p.20), treat them as an obstacle when determining the movement of other figures.
 
 #### Pressure Plates
+
 \[PRESSURE PLATE\] A pressure plate’s trigger and all of its effects are defined in the special rules for the scenario. Pressure plates are considered empty hexes.
 
 #### Objectives
+
 \[OBJECTIVE\]  An objective, when present, is important to the goal of a scenario; an objective is a physical object (such as a bell) which needs to be attacked or protected. Objectives can be targeted by attacks, but are immune to damage, all conditions, and forced movement. Objectives are otherwise considered to be and treated as obstacles. The special rules for the scenario will describe how the objective relates to the scenario’s goal.
 
