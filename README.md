@@ -22,18 +22,25 @@ For more resources, visit [cephalofair.com/bnb](https://cephalofair.com/bnb)
 # Table of Contents
 
 ### Getting Started [p.3](#page_3)
+
 - Choose a Character [p.4](#page_4)
 - Learning the Rules [p.5](#page_5)
+
 ### Scenario Phase [p.6](#page_6)
+
 #### Beginning a Scenario [p.7](#page_7)
+
 #### Scenario Cards [p.8](#page_8)
-Terrain [p.9](#page_9)
-- Obstacles [p.9](#page_9)
-- Difficult Terrain [p.9](#page_9)
-- Hazards [p.9](#page_9)
-- Pressure Plates [p.9](#page_9)
-- Objectives [p.9](#page_9)
-####Playing a Scenario p.10
+
+- Terrain [p.9](#page_9)
+  - Obstacles [p.9](#page_9)
+  - Difficult Terrain [p.9](#page_9)
+  - Hazards [p.9](#page_9)
+  - Pressure Plates [p.9](#page_9)
+  - Objectives [p.9](#page_9)
+
+#### Playing a Scenario p.10
+
 - Start of Round Effects p.10
 - Card Selection p.10
 - Ordering of Initiative p.11
@@ -95,20 +102,28 @@ Terrain [p.9](#page_9)
     - Monster Damage and Death p.32
   - End of Round p.33
     - Tracking Rounds p.33
+
 ### Ending a Scenario p.34
+
 - Lost Scenario p.34
 - Completed Scenario p.34
+
 ### The Adventure Begins p.35
+
 - Item Supplies p.35
 - Character Progression p.35
 - Upgraded Ability Cards p.35
+
 ### Appendices
+
 - Appendix A: Component Inventory p.36
 - Appendix B: Monster Turn Guide p.37
 - Appendix C: Important Reminders p.38
 - Appendix D: Item Index p.39
 - Appendix E: Index p.40
+
 ### Credits p.41
+
 ### Quick Reference p.42
 
 ---
@@ -225,10 +240,10 @@ The map side of each scenario card also displays the map details for the scenari
 ![component breakdown for scenario card map side](/assets/diagrams/CG_B&B_OnlineVisuals_ScenarioMap.png)
 
 <ol type="A">
-  <li>Starting Hex: You place your miniature in this hex at the start of the scenario.</li>
-  <li>Terrain: These are hexes indicating additional map features (see p.9).</li>
-  <li>Monster Placements: These hexes show monster placements. Place each monster cube in the hex showing the corresponding cube color.</li>
-  <li>Notable Hexes: These hexes, marked by letters, are explained in the special rules of the scenario.</li>
+  <li><strong>Starting Hex:</strong> You place your miniature in this hex at the start of the scenario.</li>
+  <li><strong>Terrain:</strong> These are hexes indicating additional map features (see p.9).</li>
+  <li><strong>Monster Placements:</strong> These hexes show monster placements. Place each monster cube in the hex showing the corresponding cube color.</li>
+  <li><strong>Notable Hexes:</strong> These hexes, marked by letters, are explained in the special rules of the scenario.</li>
 </ol>
 
 ---
@@ -252,7 +267,7 @@ A hex with no terrain outline is considered **featureless**. A hex with no figur
 
 #### Hazards
 
-<img src="assets/icons/terrain_hazard.png" height="28"> If any figure enters a hazard hex, unless they are flying or jumping, some effect is applied to that figure. Hazard effects are varied and are specified by each individual hazard on the scenario map. Figures do not suffer additional effects when starting a turn in or exiting a hazard hex, but the effects are applied if you end a jump movement in a hazard hex. If a figure occupies a hex with an **immobilize** \[IMMOBILIZE\] hazard (see p.20), treat them as an obstacle when determining the movement of other figures.
+<img src="assets/icons/terrain_hazard.png" height="28"> If any figure enters a hazard hex, unless they are flying or jumping, some effect is applied to that figure. Hazard effects are varied and are specified by each individual hazard on the scenario map. Figures do not suffer additional effects when starting a turn in or exiting a hazard hex, but the effects are applied if you end a jump movement in a hazard hex. If a figure occupies a hex with an **immobilize** <img src="assets/icons/condition_immobilize.png" height="18"> hazard (see p.20), treat them as an obstacle when determining the movement of other figures.
 
 #### Pressure Plates
 
