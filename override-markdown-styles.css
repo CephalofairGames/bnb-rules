@@ -1,6 +1,6 @@
 img {
 	max-width: 100%;
-	vertical-align: top;
+	vertical-align: baseline;
 } 
 
 h1,h2,h3,h4,h5,h6 { font-weight:600 } 
@@ -59,4 +59,5 @@ blockquote {
 
 .inline-icon {
 	height: 18px;
+	vertical-align: 0%;
 }

@@ -550,7 +550,7 @@ Difficult terrain is ignored completely when jumping.
 
 #### Flying
 
-<img src="assets/icons/ability_flying.png" class="inline-icon"/> "**Flying**" is an active bonus (see [p.21](#page_21)). Flying allows a figure to completely ignore all enemies, obstacles, objectives, and hazards, including in the last hex. However, a flying figure still cannot end their movement in a hex occupied by another figure (and vice versa).
+<img src="assets/icons/ability_flight.png" class="inline-icon"/> "**Flying**" is an active bonus (see [p.21](#page_21)). Flying allows a figure to completely ignore all enemies, obstacles, objectives, and hazards, including in the last hex. However, a flying figure still cannot end their movement in a hex occupied by another figure (and vice versa).
 
 ---
 
@@ -762,7 +762,7 @@ Some abilities cause figures to suffer damage without an attack being performed.
 
 ### Recover
 
-<img src="assets/icons/ability_recover.png" class="inline-icon"/> **Recover** is a positive, non-targeted ability that allows you to recover discarded, flipped, or lost ability cards (see p.28). You look through your hand, discard pile, or lost pile, select cards up to the number specified by the ability, and return those cards to your hand on their A-side.
+<img src="assets/icons/ability_recover_card.png" class="inline-icon"/> **Recover** is a positive, non-targeted ability that allows you to recover discarded, flipped, or lost ability cards (see p.28). You look through your hand, discard pile, or lost pile, select cards up to the number specified by the ability, and return those cards to your hand on their A-side.
 
 ---
 
@@ -874,6 +874,7 @@ Some lost actions have the <img src="assets/icons/use_nonreturn_card.png" class=
 
 When you would suffer any amount of damage, you must either reduce your hit point dial by that amount or negate the damage. Damage can be negated in two ways:
 - **Ability or Effect:** You may use an active ability or effect which negates damage.
+
 > - **Card Loss:** You may negate damage by discarding or losing cards in one of three ways:
 >   - **Discard** one A-side card of your choice from your **hand**.
 >   - **Discard** two B-side cards of your choice from your **hand**.
@@ -1145,6 +1146,7 @@ Each monster performs all of its abilities from top to bottom (move, attack, and
 - A separate attack modifier is rolled for each target of an attack ability.
 - A shield bonus only reduces damage from attacks, not from other sources, but the bonus applies to all incoming attacks while active.
 - Even if an attack deals no damage (e.g., when a <img src="assets/icons/modifier_miss.png" class="inline-icon"/> modifier is rolled), all added effects of the attack are still applied.
+
 > - You may negate all damage from one source by discarding or losing cards in one of three ways:
 >   - **Discard** one A-side card of your choice from your **hand**.
 >   - **Discard** two B-side cards of your choice from your **hand**.
@@ -1161,6 +1163,7 @@ Each monster performs all of its abilities from top to bottom (move, attack, and
 ### Character
 
 > - You initially use the base modifier table on the modifier tray. Advanced attack modifier tables are used during higher level scenarios.
+
 - You cannot perform two top actions or two bottom actions.
 - For the basic actions, "<img src="assets/icons/ability_attack.png" class="inline-icon"/> **2**" is always a top action, and "<img src="assets/icons/ability_move.png" class="inline-icon"/> **2**" is always a bottom action.
 
@@ -1173,6 +1176,7 @@ Each monster performs all of its abilities from top to bottom (move, attack, and
 
 > - The scenario level is listed in the scenario entry and determines the number of level 2 ability cards and items you can select.
 > - You can upgrade one ability card for each level beyond the first.
+
 - You can each equip a number of <img src="assets/icons/equip_item.png" class="inline-icon"/> items equal to half the scenario level (rounded up).
 - The end of a scenario can only occur at the end of a round, even if the objective is met mid-round.
 
