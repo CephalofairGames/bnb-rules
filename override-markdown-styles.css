@@ -13,10 +13,13 @@ hr {
 }
 
 blockquote {
-	all: none;
+	color:#111;
 	background-color: #d8d0e7;
 	border-left: 4px solid #b59de1;
 	padding-left: 15px;
+	font-size:16px;
+	letter-spacing:0px;
+	font-style:normal
 }
 
 .new-to-bnb {
