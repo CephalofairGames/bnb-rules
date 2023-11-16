@@ -284,7 +284,7 @@ Each time you play a scenario, you will prepare the scenario by performing the f
 
 Each card contains a scenario entry with everything you need to know to play through it. Most scenario entries contain the following information:
 
-![component breakdown for scenario card entry side](/assets/diagrams/CG_B&B_OnlineVisuals_ScenarioEntry.png)
+![component breakdown for scenario card entry side](/assets/diagrams/component_diagram_scenarioentry.png)
 
 <ol type="A">
   <li>The scenario’s number, name, and level.</li>
@@ -299,7 +299,7 @@ Each card contains a scenario entry with everything you need to know to play thr
 
 The map side of each scenario card also displays the map details for the scenario. This includes the following information:
 
-![component breakdown for scenario card map side](/assets/diagrams/CG_B&B_OnlineVisuals_ScenarioMap.png)
+![component breakdown for scenario card map side](/assets/diagrams/component_diagram_scenariomap.png)
 
 <ol type="A">
   <li><strong>Starting Hex:</strong> You place your miniature in this hex at the start of the scenario.</li>
