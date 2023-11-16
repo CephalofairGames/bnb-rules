@@ -362,8 +362,11 @@ A hex with no terrain outline is considered **featureless**. A hex with no figur
   </div>
 </blockquote>
 
+---
 
-🔝 10
+<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_10" class="page-number">10</a></p>
+
+---
 
 # Playing a Scenario
 
@@ -385,7 +388,11 @@ After all start-of-round effects are applied, select two ability cards from your
 
 Alternatively, if you have at least two cards in your hand and/or discard pile, you can instead declare a long rest at this time (see p.27). You will perform your long rest on initiative 99 as your entire turn for the round and will not play any cards.
 
-🔝 11
+---
+
+<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_11" class="page-number">11</a></p>
+
+---
 
 ## Ordering of Initiative
 
@@ -401,7 +408,11 @@ If there is a tie in initiative between you and a monster, you act first.
 
 Each monster takes its turn based on initiative order. All monsters of a single type take their turns at the same initiative in ascending numeric order (see p.30).
 
-🔝 12
+---
+
+<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_12" class="page-number">12</a></p>
+
+---
 
 ## Character and Monster Turns
 
@@ -429,7 +440,11 @@ Abilities in an action are always performed in the order they are written. Figur
 
 Character abilities can be skipped, unless they are mandatory (see p.27).
 
-🔝 13
+---
+
+<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_13" class="page-number">13</a></p>
+
+---
 
 ### Important Ability Concepts
 
@@ -451,7 +466,11 @@ In general, negative abilities can only target enemies, and positive abilities c
 
 If any ability specifies the target as "self," the effect can only be applied to the acting figure.
 
-🔝 14
+---
+
+<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_14" class="page-number">14</a></p>
+
+---
 
 #### Range
 
@@ -471,7 +490,11 @@ Abilities with an area of effect allow the acting figure to target multiple hexe
 
 If an ability with an area of effect gains "+1 ," an additional figure within the ability’s range, but outside the area of effect, can be targeted. This does not mean that the entire area of effect can be applied again, however; only one additional hex may be targeted.
 
-🔝 15
+---
+
+<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_15" class="page-number">15</a></p>
+
+---
 
 #### Added Effects
 
@@ -481,7 +504,11 @@ Added effects can be skipped, but you must choose to do so before rolling an att
 
 More complex added effects might be written below the ability, but not all text below an ability is an added effect. Any text that provides rules for how the ability is performed (e.g., a targeting restriction) is an inherent part of the ability, not an added effect, and cannot be skipped.
 
-🔝 16
+---
+
+<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_16" class="page-number">16</a></p>
+
+---
 
 #### Elements
 
@@ -500,7 +527,11 @@ If an ability depicts multiple separate elemental consumptions, the acting figur
 
  A mixed element icon, which depicts two elements within the same border, represents one of those two elements (but not both of them). An added effect that requires consuming a mixed element can be paid for by consuming a single infused element of the indicated element pair. A mixed element infusion can be consumed as if it were either of the two elements.
 
-🔝 17
+---
+
+<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_17" class="page-number">17</a></p>
+
+---
 
 ## Abilities
 
@@ -521,7 +552,11 @@ Difficult terrain is ignored completely when jumping.
 
  "Flying" is an active bonus (see p.21). Flying allows a figure to completely ignore all enemies, obstacles, objectives, and hazards, including in the last hex. However, a flying figure still cannot end their movement in a hex occupied by another figure (and vice versa).
 
-🔝 18
+---
+
+<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_18" class="page-number">18</a></p>
+
+---
 
 ### Attack
 
@@ -560,7 +595,11 @@ An attack modifier can have the following:
   <li><strong>Added Effects:</strong> Some modifiers have conditions (see p.20) or other added effects. When activated, these added effects function exactly as if written on the attack ability.</li>
 </ol>
 
-🔝 19
+---
+
+<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_19" class="page-number">19</a></p>
+
+---
 
 #### Attack Effects
 
@@ -586,7 +625,11 @@ Any ranged attack on an adjacent enemy automatically gains disadvantage.
 
  "Pierce X" is an added effect that reduces the target’s shield bonus (see p.22) by X. Multiple "X" effects can be combined. For example, if an attack with "2" gains "3," the effect would reduce the target’s shield bonus by 5 for that attack.
 
-🔝 20
+---
+
+<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_20" class="page-number">20</a></p>
+
+---
 
 ### Conditions
 
@@ -618,7 +661,11 @@ A condition effect can also be added to other abilities as an added effect, caus
 
  Muddle: The figure gains disadvantage on all of their attacks. Muddle is removed at the end of the figure’s next turn.
 
-🔝 21
+---
+
+<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_21" class="page-number">21</a></p>
+
+---
 
 ### Heal
 
@@ -645,7 +692,11 @@ A character may voluntarily remove a card with a persistent bonus (but not a rou
 Actions with active bonus abilities might also have other abilities, but these other abilities are only performed when the card is played.
 There is a wide variety of active bonus abilities. While these abilities are usually defined by text, there are two common ones with additional rules.
 
-🔝 22
+---
+
+<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_22" class="page-number">22</a></p>
+
+---
 
 #### Shield
 
@@ -663,7 +714,11 @@ A retaliate bonus is not an attack or targeted effect, therefore the damage cann
 
 A retaliate ability applies to the acting figure unless otherwise specified.
 
-🔝 23
+---
+
+<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_23" class="page-number">23</a></p>
+
+---
 
 ### Forced Movement
 
@@ -683,7 +738,11 @@ Push and pull can also be added to other abilities as an added effect, allowing 
 
 Multiple push or pull effects are combined. For example, if an ability with "1" gains "2," the result is a "3" ability.
 
-🔝 24
+---
+
+<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_24" class="page-number">24</a></p>
+
+---
 
 ### Control
 
@@ -703,7 +762,11 @@ Some abilities cause figures to suffer damage without an attack being performed.
 
  Recover is a positive, non-targeted ability that allows you to recover discarded, flipped, or lost ability cards (see p.28). You look through your hand, discard pile, or lost pile, select cards up to the number specified by the ability, and return those cards to your hand on their A-side.
 
-🔝 25
+---
+
+<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_25" class="page-number">25</a></p>
+
+---
 
 ## Character Turns
 
@@ -730,7 +793,11 @@ An ability card has the following:
   <li><strong>Basic Action Icons:</strong> An ability card can always be used for a basic "2" top action or "2" bottom action. If a card is used this way, the card is flipped and returned to your hand (if it was on the A-side) or discarded (if it was on the B-side) as if it has no other icons.</li>
 </ol>
 
-🔝 26
+---
+
+<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_26" class="page-number">26</a></p>
+
+---
 
 ### Items
 
@@ -759,7 +826,11 @@ You can use any item as long as it is available, but you can only bring a limite
 
 Some items do not have either of these icons. This means the item applies a passive effect. There are no limits on how many times an item with a passive effect can be used.
 
-🔝 27
+---
+
+<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_27" class="page-number">27</a></p>
+
+---
 
 ### Mandatory Triggers
 
@@ -779,7 +850,11 @@ During the Card Selection step (see p.10), you may declare a long rest. This con
 1. Perform "Heal 2, self " (optional).
 1. Recover all of your spent items (optional). Items can be used during the same turn in which they are recovered.
 
-🔝 28
+---
+
+<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_28" class="page-number">28</a></p>
+
+---
 
 ### Lost Actions
 
@@ -810,7 +885,11 @@ You can become exhausted in two ways:
 
 If you become exhausted, you lose the scenario.
 
-🔝 29
+---
+
+<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_29" class="page-number">29</a></p>
+
+---
 
 ## Monster Turns
 
@@ -837,7 +916,11 @@ A monster card can have the following:
 
 Each monster performs only the abilities listed on the action rolled for its monster type for the current round. For example, if their rolled action does not list a move ability, they will not move. If their rolled action does not list an attack ability, they will not attack.
 
-🔝 30
+---
+
+<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_30" class="page-number">30</a></p>
+
+---
 
 ### Monster Acting Order
 
@@ -859,7 +942,11 @@ Monsters always prioritize a path that includes the fewest hazards, even when th
 
 If you are invisible or if the monster cannot reach a valid hex, given infinite movement, from which it can perform its attack, the monster does not move or attack but still performs any other abilities listed on its ability card.
 
-🔝 31
+---
+
+<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_31" class="page-number">31</a></p>
+
+---
 
 ### Monster Movement
 
@@ -880,7 +967,11 @@ A monster only attacks on its turn if "X" is listed in its rolled actions. The r
 - **Negative Targeted Abilities:** These are targeted in the same way as attack abilities, but will not affect how the monster moves.
 - **Positive Conditions:** The monster applies the condition to itself or an ally within the specified range. It always targets the monster at the closest range that does not already have the condition. If there is a tie for closest range, it targets the monster that acts earliest in the initiative order.
 
-🔝 32
+---
+
+<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_32" class="page-number">32</a></p>
+
+---
 
 ### Monsters and Elements
 
@@ -908,7 +999,11 @@ When a monster dies, remove its cube from the map and clear all conditions from 
 
 No attack effects can be applied to a monster after it dies. If a monster dies while performing one of its own abilities, it cannot perform any other abilities.
 
-🔝 33
+---
+
+<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_33" class="page-number">33</a></p>
+
+---
 
 ## End of Round
 
@@ -924,7 +1019,11 @@ After all figures on the map have taken a turn, the End of Round step begins. Pe
 
 If a scenario has effects that occur at specific times, the rounds can be tracked using a spare monster hit point dial. Advance the round dial by one at the end of each round.
 
-🔝 34
+---
+
+<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_34" class="page-number">34</a></p>
+
+---
 
 # Ending a Scenario
 
@@ -942,7 +1041,11 @@ If the scenario was lost, you must attempt the scenario again.
 
 If the scenario was completed, read the conclusion of the scenario, which is found in the scenario entry on the scenario card. The conclusion will indicate which scenario to play next in the campaign.
 
-🔝 35
+---
+
+<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_35" class="page-number">35</a></p>
+
+---
 
 # The Adventure Begins
 
@@ -966,7 +1069,11 @@ Each level 1 card you have can be upgraded for a specific level 2 card at the st
 
 A list of the ability cards and their respective upgrades is listed on the back of each character card.
 
-🔝 36
+---
+
+<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_36" class="page-number">36</a></p>
+
+---
 
 # Appendix A: Component Inventory
 - 1 Learn to Play book
@@ -986,7 +1093,11 @@ A list of the ability cards and their respective upgrades is listed on the back 
 
 **Missing parts?** If you discover that you are missing any parts from your game, you can request replacements at [cephalofair.com/contact](https://cephalofair.com/contact).
 
-🔝 37
+---
+
+<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_37" class="page-number">37</a></p>
+
+---
 
 # Appendix B: Monster Turn Guide
 
@@ -1013,7 +1124,11 @@ Each monster performs all of its abilities from top to bottom (move, attack, and
 - If the monster could move to multiple hexes that maximize the previous priorities, it moves to the hex that requires the fewest movement points.
 - In cases where monster movement is still ambiguous, you decide.
 
-🔝 38
+---
+
+<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_38" class="page-number">38</a></p>
+
+---
 
 # Appendix C: Important Reminders
 
@@ -1053,7 +1168,11 @@ Each monster performs all of its abilities from top to bottom (move, attack, and
 - You can each equip a number of  items equal to half the scenario level (rounded up).
 - The end of a scenario can only occur at the end of a round, even if the objective is met mid-round.
 
-🔝 39
+---
+
+<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_39" class="page-number">39</a></p>
+
+---
 
 # Appendix D: Item Index
 
@@ -1105,8 +1224,11 @@ Each monster performs all of its abilities from top to bottom (move, attack, and
 | Brightlure Gem	          |      |	18	|  |	After your attack, [consume wind/light] to control the target of the attack: 1.	 |
 | Duskhaze Gem	            |      |	18	|  |	During an enemy's attack,  to gain 1 and  that enemy.	 |
 
+---
 
-🔝 40
+<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_40" class="page-number">40</a></p>
+
+---
 
 # Appendix E: Index
 
@@ -1114,7 +1236,11 @@ Each monster performs all of its abilities from top to bottom (move, attack, and
 
 Ability xx, xx–xx, xx
 
-🔝 41
+---
+
+<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_41" class="page-number">41</a></p>
+
+---
 
 # Credits
 
@@ -1218,7 +1344,11 @@ Ruel Gaviola
 
 “Thank you to my wife, Krista, who tirelessly supports my game design shenanigans.” —Joe Klipfel
 
-🔝 42
+---
+
+<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_42" class="page-number">42</a></p>
+
+---
 
 # Quick Reference
 
