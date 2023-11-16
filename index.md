@@ -200,7 +200,7 @@ Oh no! You have been shrunk by magic! To return to your former size, you’ll ne
 
 There are six character classes to choose from, each with their own unique abilities and play styles. You will also be able to customize your character as you progress through items and advanced ability cards.
 
-This document will provide you with details on how to play the game, but if you played another Gloomhaven game, many of these rules will be familiar. We suggest reading all the way through anyways to get a full understanding of how the game works. Rules text highlighted in green is information unique to the Buttons & Bugs system and is different from Gloomhaven and Frosthaven.
+This document will provide you with details on how to play the game, but if you played another Gloomhaven game, many of these rules will be familiar. We suggest reading all the way through anyways to get a full understanding of how the game works. <span class="new-to-bnb">Rules text highlighted in green is information unique to the Buttons & Bugs system and is different from Gloomhaven and Frosthaven.</span>
 
 ---
 
@@ -280,13 +280,13 @@ Each Scenario Phase consists of three distinct steps:
 
 ---
 
-## Scenario Cards
-
-Each card contains a scenario entry with everything you need to know to play through it. Most scenario entries contain the following information:
-
-![component breakdown for scenario card entry side](/assets/diagrams/component_diagram_scenarioentry.png)
-
-<ol type="A">
+> ## Scenario Cards
+> 
+> Each card contains a scenario entry with everything you need to know to play through it. Most scenario entries contain the following information:
+> 
+> ![component breakdown for scenario card entry side](/assets/diagrams/component_diagram_scenarioentry.png)
+> 
+> <ol type="A">
   <li>The scenario’s number, name, and level.</li>
   <li>The character required to play the scenario, if any.</li>
   <li>The narrative introduction to the scenario.</li>
@@ -296,12 +296,12 @@ Each card contains a scenario entry with everything you need to know to play thr
   <li>The narrative conclusion to the scenario.</li>
   <li>The scenario or scenarios to be played next in the campaign.</li>
 </ol>
-
-The map side of each scenario card also displays the map details for the scenario. This includes the following information:
-
-![component breakdown for scenario card map side](/assets/diagrams/component_diagram_scenariomap.png)
-
-<ol type="A">
+> 
+> The map side of each scenario card also displays the map details for the scenario. This includes the following information:
+> 
+> ![component breakdown for scenario card map side](/assets/diagrams/component_diagram_scenariomap.png)
+> 
+> <ol type="A">
   <li><strong>Starting Hex:</strong> You place your miniature in this hex at the start of the scenario.</li>
   <li><strong>Terrain:</strong> These are hexes indicating additional map features (see p.9).</li>
   <li><strong>Monster Placements:</strong> These hexes show monster placements. Place each monster cube in the hex showing the corresponding cube color.</li>
@@ -333,9 +333,9 @@ A hex with no terrain outline is considered **featureless**. A hex with no figur
   <p>A figure requires 2 movement points to enter a difficult terrain hex, except when flying or jumping (even if the jump movement ends there).</p>
 </div>
 
-#### Hazards
-
-<div class="float-container">
+> #### Hazards
+> 
+> <div class="float-container">
   <span class="floating-image"><img src="assets/icons/terrain_hazard.png" height="48"/></span>
   <p>If any figure enters a hazard hex, unless they are flying or jumping, some effect is applied to that figure. Hazard effects are varied and are specified by each individual hazard on the scenario map. Figures do not suffer additional effects when starting a turn in or exiting a hazard hex, but the effects are applied if you end a jump movement in a hazard hex. If a figure occupies a hex with an <strong>immobilize</strong> <img src="assets/icons/condition_immobilize.png" height="20"/> hazard (see p.20), treat them as an obstacle when determining the movement of other figures.</p>
 </div>
@@ -347,9 +347,9 @@ A hex with no terrain outline is considered **featureless**. A hex with no figur
   <p>A pressure plate’s trigger and all of its effects are defined in the special rules for the scenario. Pressure plates are considered empty hexes.</p>
 </div>
 
-#### Objectives
-
-<div class="float-container">
+> #### Objectives
+> 
+> <div class="float-container">
   <span class="floating-image"><img src="assets/icons/terrain_objective.png" height="48"/></span>
   <p>An objective, when present, is important to the goal of a scenario; an objective is a physical object (such as a bell) which needs to be attacked or protected. Objectives can be targeted by attacks, but are immune to damage, all conditions, and forced movement. Objectives are otherwise considered to be and treated as obstacles. The special rules for the scenario will describe how the objective relates to the scenario’s goal.</p>
 </div>
