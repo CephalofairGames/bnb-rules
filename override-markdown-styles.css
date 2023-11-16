@@ -17,9 +17,9 @@ blockquote {
 	background-color:#d8d0e7;
 	border-left:4px solid #b59de1;
 	padding-left:15px;
-	font-size:18px;
-	letter-spacing:-1px;
-	font-style:italic
+	font-size:16px;
+	letter-spacing:0;
+	font-style:normal
 }
 
 .page-anchor {
