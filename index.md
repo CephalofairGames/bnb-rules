@@ -321,21 +321,36 @@ A hex with no terrain outline is considered **featureless**. A hex with no figur
 
 #### Obstacles
 
-<img src="assets/icons/terrain_obstacle.png" height="28"> Figures cannot enter a hex with an obstacle, except when flying or jumping (unless the jump movement would end there). Range can be counted through obstacles, and obstacles do not block ranged attacks.
+<div class="float-container">
+  <span class="floating-image"><img src="assets/icons/terrain_obstacle.png" height="48"/></span>
+  <p>Figures cannot enter a hex with an obstacle, except when flying or jumping (unless the jump movement would end there). Range can be counted through obstacles, and obstacles do not block ranged attacks.</p>
+</div>
 
 #### Difficult Terrain
 
-<img src="assets/icons/terrain_difficult_terrain.png" height="28"> A figure requires 2 movement points to enter a difficult terrain hex, except when flying or jumping (even if the jump movement ends there).
+<div class="float-container">
+  <span class="floating-image"><img src="assets/icons/terrain_difficult_terrain.png" height="48"/></span>
+  <p>A figure requires 2 movement points to enter a difficult terrain hex, except when flying or jumping (even if the jump movement ends there).</p>
+</div>
 
 #### Hazards
 
-<img src="assets/icons/terrain_hazard.png" height="28"> If any figure enters a hazard hex, unless they are flying or jumping, some effect is applied to that figure. Hazard effects are varied and are specified by each individual hazard on the scenario map. Figures do not suffer additional effects when starting a turn in or exiting a hazard hex, but the effects are applied if you end a jump movement in a hazard hex. If a figure occupies a hex with an **immobilize** <img src="assets/icons/condition_immobilize.png" height="18"> hazard (see p.20), treat them as an obstacle when determining the movement of other figures.
+<div class="float-container">
+  <span class="floating-image"><img src="assets/icons/terrain_hazard.png" height="48"/></span>
+  <p>If any figure enters a hazard hex, unless they are flying or jumping, some effect is applied to that figure. Hazard effects are varied and are specified by each individual hazard on the scenario map. Figures do not suffer additional effects when starting a turn in or exiting a hazard hex, but the effects are applied if you end a jump movement in a hazard hex. If a figure occupies a hex with an <strong>immobilize</strong> <img src="assets/icons/condition_immobilize.png" height="20"/> hazard (see p.20), treat them as an obstacle when determining the movement of other figures.</p>
+</div>
 
 #### Pressure Plates
 
-<img src="assets/icons/terrain_pressure_plate.png" height="28"> A pressure plate’s trigger and all of its effects are defined in the special rules for the scenario. Pressure plates are considered empty hexes.
+<div class="float-container">
+  <span class="floating-image"><img src="assets/icons/terrain_pressure_plate.png" height="48"/></span>
+  <p>A pressure plate’s trigger and all of its effects are defined in the special rules for the scenario. Pressure plates are considered empty hexes.</p>
+</div>
 
 #### Objectives
 
-<img src="assets/icons/terrain_objective.png" height="28">  An objective, when present, is important to the goal of a scenario; an objective is a physical object (such as a bell) which needs to be attacked or protected. Objectives can be targeted by attacks, but are immune to damage, all conditions, and forced movement. Objectives are otherwise considered to be and treated as obstacles. The special rules for the scenario will describe how the objective relates to the scenario’s goal.
+<div class="float-container">
+  <span class="floating-image"><img src="assets/icons/terrain_objective.png" height="48"/></span>
+  <p>An objective, when present, is important to the goal of a scenario; an objective is a physical object (such as a bell) which needs to be attacked or protected. Objectives can be targeted by attacks, but are immune to damage, all conditions, and forced movement. Objectives are otherwise considered to be and treated as obstacles. The special rules for the scenario will describe how the objective relates to the scenario’s goal.</p>
+</div>
 
