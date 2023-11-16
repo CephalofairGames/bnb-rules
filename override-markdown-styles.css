@@ -12,6 +12,16 @@ hr {
 	margin-bottom:8px
 }
 
+blockquote {
+	color:#111;
+	background-color:#d8d0e7;
+	border-left:4px solid #b59de1;
+	padding-left:15px;
+	font-size:18px;
+	letter-spacing:-1px;
+	font-style:italic
+}
+
 .page-anchor {
 	margin:0
 }
