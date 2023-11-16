@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="override-markdown-styles.css"/>
+
 ---
 
 <p align="right" class="page-anchor"><a name="page_1" class="page-number">1</a></p>
