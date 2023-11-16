@@ -1,5 +1,3 @@
-![image45](https://github.com/ValancedBreakfast/site-testing/assets/34880412/e3b0a170-0bf3-408e-989d-ba4e293ca4f9)<link rel="stylesheet" href="override-markdown-styles.css"/>
-
 ---
 
 <p align="right" class="page-anchor"><a name="page_1" class="page-number">1</a></p>
