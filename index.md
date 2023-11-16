@@ -40,92 +40,92 @@ For more resources, visit [cephalofair.com/bnb](https://cephalofair.com/bnb)
   - Pressure Plates [p.9](#page_9)
   - Objectives [p.9](#page_9)
 
-#### Playing a Scenario p.10
+#### Playing a Scenario [p.10](#page_10)
 
-- Start of Round Effects p.10
-- Card Selection p.10
-- Ordering of Initiative p.11
-  - Resolving Ties p.11
-  - Monster Order p.11
-- Character and Monster Turns p.12
-  - Actions and Abilities Overview p.12
-    - Actions p.12
-    - Abilities p.12
-  - Important Ability Concepts p.13
-    - Target p.13
-    - Allies, Enemies, and Self p.13
-    - Range p.14
-    - Area of Effect p.14
-    - Added Effects p.15
-    - Elements p.16
-  - Abilities p.17
-    - Move p.17
-      - Jump p.17
-      - Flying p.17
-    - Attack p.18
-      - Attack Modification Order p.18
-      - Attack Modifier Tables p.18
-      - Attack Effects p.19
-      - Advantage and Disadvantage p.19
-      - Pierce p.19
-    - Conditions p.20
-      - Positive Conditions p.20
-      - Negative Conditions p.20
-    - Heal p.21
-    - Active Bonuses p.21
-      - Shield p.22
-      - Retaliate p.22
-    - Forced Movement p.23
-    - Control p.24
-    - Suffer Damage p.24
-    - Recover p.24
-  - Character Turns p.25
-    - Ability Cards p.25
-    - Items p.26
-      - Item Limits p.26
-      - Item Usage p.26
-    - Mandatory Triggers p.27
-    - Resting p.27
-    - Lost Actions p.28
-    - Character Damage p.28
-    - Exhaustion p.28
-  - Monster Turns p.29
-    - Monster Cards p.29
-    - Monster Acting Order p.30
-    - Focus p.30
-      - Path Priority p.30
-      - No Focus p.30
-    - Monster Movement p.31
-    - Monster Attacks p.31
-    - Other Monster Abilities p.31
-    - Monsters and Elements p.32
-    - Spawning Monsters p.32
-    - Monster Damage and Death p.32
-  - End of Round p.33
-    - Tracking Rounds p.33
+- Start of Round Effects [p.10](#page_10)
+- Card Selection [p.10](#page_10)
+- Ordering of Initiative [p.11](#page_11)
+  - Resolving Ties [p.11](#page_11)
+  - Monster Order [p.11](#page_11)
+- Character and Monster Turns [p.12](#page_12)
+  - Actions and Abilities Overview [p.12](#page_12)
+    - Actions [p.12](#page_12)
+    - Abilities [p.12](#page_12)
+  - Important Ability Concepts [p.13](#page_13)
+    - Target [p.13](#page_13)
+    - Allies, Enemies, and Self [p.13](#page_13)
+    - Range [p.14](#page_14)
+    - Area of Effect [p.14](#page_14)
+    - Added Effects [p.15](#page_15)
+    - Elements [p.16](#page_16)
+  - Abilities [p.17](#page_17)
+    - Move [p.17](#page_17)
+      - Jump [p.17](#page_17)
+      - Flying [p.17](#page_17)
+    - Attack [p.18](#page_18)
+      - Attack Modification Order [p.18](#page_18)
+      - Attack Modifier Tables [p.18](#page_18)
+      - Attack Effects [p.19](#page_19)
+      - Advantage and Disadvantage [p.19](#page_19)
+      - Pierce [p.19](#page_19)
+    - Conditions [p.20](#page_20)
+      - Positive Conditions [p.20](#page_20)
+      - Negative Conditions [p.20](#page_20)
+    - Heal [p.21](#page_21)
+    - Active Bonuses [p.21](#page_21)
+      - Shield [p.22](#page_22)
+      - Retaliate [p.22](#page_22)
+    - Forced Movement [p.23](#page_23)
+    - Control [p.24](#page_24)
+    - Suffer Damage [p.24](#page_24)
+    - Recover [p.24](#page_24)
+  - Character Turns [p.25](#page_25)
+    - Ability Cards [p.25](#page_25)
+    - Items [p.26](#page_26)
+      - Item Limits [p.26](#page_26)
+      - Item Usage [p.26](#page_26)
+    - Mandatory Triggers [p.27](#page_27)
+    - Resting [p.27](#page_27)
+    - Lost Actions [p.28](#page_28)
+    - Character Damage [p.28](#page_28)
+    - Exhaustion [p.28](#page_28)
+  - Monster Turns [p.29](#page_29)
+    - Monster Cards [p.29](#page_29)
+    - Monster Acting Order [p.30](#page_30)
+    - Focus [p.30](#page_30)
+      - Path Priority [p.30](#page_30)
+      - No Focus [p.30](#page_30)
+    - Monster Movement [p.31](#page_31)
+    - Monster Attacks [p.31](#page_31)
+    - Other Monster Abilities [p.31](#page_31)
+    - Monsters and Elements [p.32](#page_32)
+    - Spawning Monsters [p.32](#page_32)
+    - Monster Damage and Death [p.32](#page_32)
+  - End of Round [p.33](#page_33)
+    - Tracking Rounds [p.33](#page_33)
 
-### Ending a Scenario p.34
+### Ending a Scenario [p.34](#page_34)
 
-- Lost Scenario p.34
-- Completed Scenario p.34
+- Lost Scenario [p.34](#page_34)
+- Completed Scenario [p.34](#page_34)
 
-### The Adventure Begins p.35
+### The Adventure Begins [p.35](#page_35)
 
-- Item Supplies p.35
-- Character Progression p.35
-- Upgraded Ability Cards p.35
+- Item Supplies [p.35](#page_35)
+- Character Progression [p.35](#page_35)
+- Upgraded Ability Cards [p.35](#page_35)
 
 ### Appendices
 
-- Appendix A: Component Inventory p.36
-- Appendix B: Monster Turn Guide p.37
-- Appendix C: Important Reminders p.38
-- Appendix D: Item Index p.39
-- Appendix E: Index p.40
+- Appendix A: Component Inventory [p.36](#page_36)
+- Appendix B: Monster Turn Guide [p.37](#page_37)
+- Appendix C: Important Reminders [p.38](#page_38)
+- Appendix D: Item Index [p.39](#page_39)
+- Appendix E: Index [p.40](#page_40)
 
-### Credits p.41
+### Credits [p.41](#page_41)
 
-### Quick Reference p.42
+### Quick Reference [p.42](#page_42)
 
 ---
 
