@@ -56,3 +56,7 @@ blockquote {
 	float: left;
 	width: 56px;
 }
+
+.inline-icon {
+	height: 18px;
+}
