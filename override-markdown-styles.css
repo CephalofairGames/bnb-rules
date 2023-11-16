@@ -1,29 +1,27 @@
 img {
-	max-width:100%;
-	vertical-align:top;
+	max-width: 100%;
+	vertical-align: top;
 } 
 
 h1,h2,h3,h4,h5,h6 { font-weight:600 } 
 
 hr {
 	border-top: 1px;
-	color:#888;
-	margin-top:8px;
-	margin-bottom:8px
+	color: #888;
+	margin-top: 8px;
+	margin-bottom: 8px
 }
 
 blockquote {
-	color:#111;
-	background-color:#d8d0e7;
-	border-left:4px solid #b59de1;
-	padding-left:15px;
-	font-size:16px;
-	letter-spacing:0;
-	font-style:normal
+	all: none;
+	color: #111;
+	background-color: #d8d0e7;
+	border-left: 4px solid #b59de1;
+	padding-left: 15px;
 }
 
 .page-anchor {
-	margin:0
+	margin: 0
 }
 
 .page-anchor a { color:#888; text-decoration:none } 
@@ -33,11 +31,11 @@ blockquote {
 .page-number { font-weight:700 }
 
 .table-of-contents {
-	padding-bottom:15px
+	padding-bottom: 15px
 }
 
 .table-of-contents h3, .table-of-contents h4 {
-	margin-bottom:8px
+	margin-bottom: 8px
 }
 
 .table-of-contents ul {
