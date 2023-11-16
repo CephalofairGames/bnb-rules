@@ -2,7 +2,7 @@
 
 ---
 
-<p align="right"><a name="page_1">1</a></p>
+<p align="right" class="page-anchor"><a name="page_1" class="page-number">1</a></p>
 
 ---
 
@@ -16,7 +16,7 @@ For more resources, visit [cephalofair.com/bnb](https://cephalofair.com/bnb)
 
 ---
 
-<p align="right"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_2">2</a></p>
+<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_2" class="page-number">2</a></p>
 
 ---
 
@@ -129,7 +129,7 @@ For more resources, visit [cephalofair.com/bnb](https://cephalofair.com/bnb)
 
 ---
 
-<p align="right"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_3">3</a></p>
+<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_3" class="page-number">3</a></p>
 
 ---
 
@@ -143,7 +143,7 @@ This document will provide you with details on how to play the game, but if you 
 
 ---
 
-<p align="right"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_4">4</a></p>
+<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_4" class="page-number">4</a></p>
 
 ---
 
@@ -162,7 +162,7 @@ You will need to gather the following components for your chosen character to pl
 
 ---
 
-<p align="right"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_5">5</a></p>
+<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_5" class="page-number">5</a></p>
 
 ---
 
@@ -176,7 +176,7 @@ Most of the rules of this game focus on how you play through a scenario. Since t
 
 ---
 
-<p align="right"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_6">6</a></p>
+<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_6" class="page-number">6</a></p>
 
 ---
 
@@ -192,7 +192,7 @@ Each Scenario Phase consists of three distinct steps:
 
 ---
 
-<p align="right"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_7">7</a></p>
+<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_7" class="page-number">7</a></p>
 
 ---
 
@@ -215,7 +215,7 @@ Each time you play a scenario, you will prepare the scenario by performing the f
 
 ---
 
-<p align="right"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_8">8</a></p>
+<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_8" class="page-number">8</a></p>
 
 ---
 
@@ -249,7 +249,7 @@ The map side of each scenario card also displays the map details for the scenari
 
 ---
 
-<p align="right"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_9">9</a></p>
+<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_9" class="page-number">9</a></p>
 
 ---
 
