@@ -58,6 +58,16 @@ blockquote {
 }
 
 .inline-icon {
-	height: 20px;
+	height: 16px;
 	vertical-align: -10%;
+}
+
+.inline-condition {
+	height: 20px;
+	vertical-align: -20%;
+}
+
+.inline-element {
+	height: 20px;
+	vertical-align: -20%;
 }

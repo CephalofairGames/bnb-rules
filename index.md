@@ -342,7 +342,7 @@ A hex with no terrain outline is considered **featureless**. A hex with no figur
 <blockquote>
   <div class="float-container">
     <span class="floating-image"><img src="assets/icons/terrain_hazard.png" height="48"/></span>
-    <p>If any figure enters a hazard hex, unless they are flying or jumping, some effect is applied to that figure. Hazard effects are varied and are specified by each individual hazard on the scenario map. Figures do not suffer additional effects when starting a turn in or exiting a hazard hex, but the effects are applied if you end a jump movement in a hazard hex. If a figure occupies a hex with an <strong>immobilize</strong> <img src="assets/icons/condition_immobilize.png" class="inline-icon"/> hazard (see p.20), treat them as an obstacle when determining the movement of other figures.</p>
+    <p>If any figure enters a hazard hex, unless they are flying or jumping, some effect is applied to that figure. Hazard effects are varied and are specified by each individual hazard on the scenario map. Figures do not suffer additional effects when starting a turn in or exiting a hazard hex, but the effects are applied if you end a jump movement in a hazard hex. If a figure occupies a hex with an <strong>immobilize</strong> <img src="assets/icons/condition_immobilize.png" class="inline-condition"/> hazard (see p.20), treat them as an obstacle when determining the movement of other figures.</p>
   </div>
 </blockquote>
 
@@ -498,7 +498,7 @@ If an ability with an area of effect gains "**+1** <img src="assets/icons/abilit
 
 #### Added Effects
 
-Added effects are attached to an ability and modify it in some way. Common added effects like "<img src="assets/icons/condition_push.png" class="inline-icon"/> **X**," "<img src="assets/icons/condition_pull.png" class="inline-icon"/> **X**," or conditions are usually listed in a highlighted section to the right of the ability. All conditional effects — those dependent on consuming an element (see [p.16](#page_16)) or paying some other cost — are listed below the ability in a highlighted section with a dotted line border.
+Added effects are attached to an ability and modify it in some way. Common added effects like "<img src="assets/icons/condition_push.png" class="inline-condition"/> **X**," "<img src="assets/icons/condition_pull.png" class="inline-condition"/> **X**," or conditions are usually listed in a highlighted section to the right of the ability. All conditional effects — those dependent on consuming an element (see [p.16](#page_16)) or paying some other cost — are listed below the ability in a highlighted section with a dotted line border.
 
 Added effects can be skipped, but you must choose to do so before rolling an attack modifier. Conditional effects can also be skipped; you are not required to pay the cost and, even if you do, you may still choose not to apply the effect. In the case of a skippable effect attached to a multi-target attack ability, you may skip the effect on an attack-by-attack basis, in each case choosing before rolling an attack modifier, unless otherwise stated.
 
@@ -514,7 +514,7 @@ More complex added effects might be written below the ability, but not all text 
 > 
 > Some actions have an elemental affinity associated with them (fire, ice, air, earth, light, or dark). Element infusions on your played ability cards, ability cards in your hand and active area, as well as element infusions on rolled monster actions, are each available to be consumed once each round. Multiple infusions of the same element can be available to be consumed in the same round.
 > 
-> | <img src="assets/icons/element_fire.png" class="inline-icon"/> | <img src="assets/icons/element_ice.png" class="inline-icon"/> | <img src="assets/icons/element_wind.png" class="inline-icon"/> | <img src="assets/icons/element_earth.png" class="inline-icon"/> | <img src="assets/icons/element_light.png" class="inline-icon"/> | <img src="assets/icons/element_dark.png" class="inline-icon"/> |
+> | <img src="assets/icons/element_fire.png"/> | <img src="assets/icons/element_ice.png"/> | <img src="assets/icons/element_wind.png"/> | <img src="assets/icons/element_earth.png"/> | <img src="assets/icons/element_light.png"/> | <img src="assets/icons/element_dark.png"/> |
 > | Fire | Ice | Air | Earth | Light | Dark |
 > 
 > An infused element is available as long as it is visible and has not yet been consumed in the current round (mandatory). An infused element on an ability card is no longer available once that card is discarded, lost, or flipped to its other side. When an ability card is flipped to its B-side or recovered to your hand, the infused element on the visible side of that card becomes available. Only one instance of an infused element on a rolled monster action is available, even if multiple enemies of that type are on the board. An infused element on a rolled monster action is no longer available once all monsters of that type are killed.
@@ -523,9 +523,9 @@ More complex added effects might be written below the ability, but not all text 
 > 
 > If an ability depicts multiple separate elemental consumptions, the acting figure chooses which ones to activate. If a single elemental consumption depicts multiple elements, all of those elements must be consumed to activate it. Each instance of an infused element can be consumed no more than once per round.
 > 
-> <img src="assets/icons/element_wild.png" class="inline-icon"/> The wild icon represents any one of the six elements (but not all of them). An added effect that requires consuming a wild element can be paid for by consuming any single infused element. A wild element infusion can be consumed as if it were any one of the six elements.
+> <img src="assets/icons/element_wild.png" class="inline-element"/> The wild icon represents any one of the six elements (but not all of them). An added effect that requires consuming a wild element can be paid for by consuming any single infused element. A wild element infusion can be consumed as if it were any one of the six elements.
 > 
-> <img src="assets/icons/element_fire_ice.png" class="inline-icon"/> A mixed element icon, which depicts two elements within the same border, represents one of those two elements (but not both of them). An added effect that requires consuming a mixed element can be paid for by consuming a single infused element of the indicated element pair. A mixed element infusion can be consumed as if it were either of the two elements.
+> <img src="assets/icons/element_fire_ice.png" class="inline-element"/> A mixed element icon, which depicts two elements within the same border, represents one of those two elements (but not both of them). An added effect that requires consuming a mixed element can be paid for by consuming a single infused element of the indicated element pair. A mixed element infusion can be consumed as if it were either of the two elements.
 
 ---
 
@@ -586,14 +586,14 @@ These steps are repeated for each individual target of the attack ability, which
 > 
 > You have your own attack modifier table, while all monsters share a single table.
 > 
-> Each character class and all monsters start with a standard table of six <img src="assets/icons/modifier_plus_0.png" class="inline-icon"/>, four <img src="assets/icons/modifier_plus_1.png" class="inline-icon"/>, four <img src="assets/icons/modifier_minus_1.png" class="inline-icon"/>, one <img src="assets/icons/modifier_plus_2.png" class="inline-icon"/>, one <img src="assets/icons/modifier_minus_2.png" class="inline-icon"/>, one <img src="assets/icons/modifier_2x.png" class="inline-icon"/>, and one <img src="assets/icons/modifier_miss.png" class="inline-icon"/>, but each character class table improves as the campaign progresses (see [p.35](#page_35)), allowing for other effects.
+> Each character class and all monsters start with a standard table of six <img src="assets/icons/modifier_plus_0.png" class="inline-element"/>, four <img src="assets/icons/modifier_plus_1.png" class="inline-element"/>, four <img src="assets/icons/modifier_minus_1.png" class="inline-element"/>, one <img src="assets/icons/modifier_plus_2.png" class="inline-element"/>, one <img src="assets/icons/modifier_minus_2.png" class="inline-element"/>, one <img src="assets/icons/modifier_2x.png" class="inline-element"/>, and one <img src="assets/icons/modifier_miss.png" class="inline-element"/>, but each character class table improves as the campaign progresses (see [p.35](#page_35)), allowing for other effects.
 > 
 > An attack modifier can have the following:
 
 <quoteblock>
   <ol type="A">
-    <li><strong>Modifier Value:</strong> This value modifies the attack value. The <img src="assets/icons/modifier_miss.png" class="inline-icon"/> modifier reduces the final attack value to zero. The <img src="assets/icons/modifier_2x.png" class="inline-icon"/> modifier doubles the current attack value.</li>
-    <li><strong>Added Effects:</strong> Some modifiers have conditions (see [p.20](#page_20)) or other added effects. When activated, these added effects function exactly as if written on the attack ability.</li>
+    <li><strong>Modifier Value:</strong> This value modifies the attack value. The <img src="assets/icons/modifier_miss.png" class="inline-element"/> modifier reduces the final attack value to zero. The <img src="assets/icons/modifier_2x.png" class="inline-element"/> modifier doubles the current attack value.</li>
+    <li><strong>Added Effects:</strong> Some modifiers have conditions (see <a href="#page_20">p.20</a>) or other added effects. When activated, these added effects function exactly as if written on the attack ability.</li>
   </ol>
 </quoteblock>
 
@@ -605,7 +605,7 @@ These steps are repeated for each individual target of the attack ability, which
 
 #### Attack Effects
 
-An attack effect is an effect attached to an attack. These effects are applied either during damage resolution or after the attack resolves. If applied after the attack resolves, the attack effect is still applied, even if the attack deals no damage (including due to a <img src="assets/icons/modifier_miss.png" class="inline-icon"/> modifier).
+An attack effect is an effect attached to an attack. These effects are applied either during damage resolution or after the attack resolves. If applied after the attack resolves, the attack effect is still applied, even if the attack deals no damage (including due to a <img src="assets/icons/modifier_miss.png" class="inline-element"/> modifier).
 
 The attacker must choose whether to apply any attack effects before they roll an attack modifier. All attack effects except "**add** <img src="assets/icons/ability_target.png" class="inline-icon"/>" are applied before any retaliate bonus (see [p.22](#page_22)). The "**add** <img src="assets/icons/ability_target.png" class="inline-icon"/>" effect allows the attacker to perform additional attacks, and each attack must be resolved completely before another can be performed.
 
@@ -625,7 +625,7 @@ Any ranged attack on an adjacent enemy automatically gains disadvantage.
 
 #### Pierce
 
-<img src="assets/icons/condition_pierce.png" class="inline-icon"/> "**Pierce X**" is an added effect that reduces the target’s shield bonus (see [p.22](#page_22)) by X. Multiple "<img src="assets/icons/condition_pierce.png" class="inline-icon"/> **X**" effects can be combined. For example, if an attack with "<img src="assets/icons/condition_pierce.png" class="inline-icon"/> **2**" gains "<img src="assets/icons/condition_pierce.png" class="inline-icon"/> **3**," the effect would reduce the target’s shield bonus by 5 for that attack.
+<img src="assets/icons/condition_pierce.png" class="inline-condition"/> "**Pierce X**" is an added effect that reduces the target’s shield bonus (see [p.22](#page_22)) by X. Multiple "<img src="assets/icons/condition_pierce.png" class="inline-condition"/> **X**" effects can be combined. For example, if an attack with "<img src="assets/icons/condition_pierce.png" class="inline-condition"/> **2**" gains "<img src="assets/icons/condition_pierce.png" class="inline-condition"/> **3**," the effect would reduce the target’s shield bonus by 5 for that attack.
 
 ---
 
@@ -647,21 +647,21 @@ A condition effect can also be added to other abilities as an added effect, caus
 
 #### Positive Conditions
 
-<img src="assets/icons/condition_invisible.png" class="inline-icon"/> Invisible: The figure cannot be targeted by any enemy, though non-targeted abilities remain unaffected. The invisible figure and their allies can still interact with each other. Invisible is removed at the end of the figure’s next turn.
+<img src="assets/icons/condition_invisible.png" class="inline-condition"/> Invisible: The figure cannot be targeted by any enemy, though non-targeted abilities remain unaffected. The invisible figure and their allies can still interact with each other. Invisible is removed at the end of the figure’s next turn.
 
-<img src="assets/icons/condition_strengthen.png" class="inline-icon"/> Strengthen: The figure gains advantage on all of their attacks. Strengthen is removed at the end of the figure’s next turn.
+<img src="assets/icons/condition_strengthen.png" class="inline-condition"/> Strengthen: The figure gains advantage on all of their attacks. Strengthen is removed at the end of the figure’s next turn.
 
 #### Negative Conditions
 
-<img src="assets/icons/condition_wound.png" class="inline-icon"/> Wound: The figure suffers 1 damage at the start of each of their turns. Wound is removed when the figure is healed, and the figure is healed by the ability as normal. (You can place the token covering a monster’s ability text to help you remember.)
+<img src="assets/icons/condition_wound.png" class="inline-condition"/> Wound: The figure suffers 1 damage at the start of each of their turns. Wound is removed when the figure is healed, and the figure is healed by the ability as normal. (You can place the token covering a monster’s ability text to help you remember.)
 
-<img src="assets/icons/condition_poison.png" class="inline-icon"/> Poison: All attacks targeting the figure gain "**+1** <img src="assets/icons/ability_attack.png" class="inline-icon"/>." Poison is removed when the figure is healed but, unlike wound, poison prevents the heal from increasing the figure’s current hit point value. (You can place the token by your or the monster’s hit points to help you remember.)
+<img src="assets/icons/condition_poison.png" class="inline-condition"/> Poison: All attacks targeting the figure gain "**+1** <img src="assets/icons/ability_attack.png" class="inline-icon"/>." Poison is removed when the figure is healed but, unlike wound, poison prevents the heal from increasing the figure’s current hit point value. (You can place the token by your or the monster’s hit points to help you remember.)
 
-<img src="assets/icons/condition_immobilize.png" class="inline-icon"/> Immobilize: The figure cannot perform any move abilities. Immobilize is removed at the end of the figure’s next turn.
+<img src="assets/icons/condition_immobilize.png" class="inline-condition"/> Immobilize: The figure cannot perform any move abilities. Immobilize is removed at the end of the figure’s next turn.
 
-<img src="assets/icons/condition_disarm.png" class="inline-icon"/> Disarm: The figure cannot perform any attack abilities. Disarm is removed at the end of the figure’s next turn.
+<img src="assets/icons/condition_disarm.png" class="inline-condition"/> Disarm: The figure cannot perform any attack abilities. Disarm is removed at the end of the figure’s next turn.
 
-<img src="assets/icons/condition_muddle.png" class="inline-icon"/> Muddle: The figure gains disadvantage on all of their attacks. Muddle is removed at the end of the figure’s next turn.
+<img src="assets/icons/condition_muddle.png" class="inline-condition"/> Muddle: The figure gains disadvantage on all of their attacks. Muddle is removed at the end of the figure’s next turn.
 
 ---
 
@@ -728,9 +728,9 @@ Forced movement is any negative targeted ability that allows a figure to control
 
 There are two primary forced movement abilities:
 
-<img src="assets/icons/condition_push.png" class="inline-icon"/> "**Push X**" forces the target to move up to X hexes away from the acting figure. Each individual hex entered must place the target farther by range from the acting figure.
+<img src="assets/icons/condition_push.png" class="inline-condition"/> "**Push X**" forces the target to move up to X hexes away from the acting figure. Each individual hex entered must place the target farther by range from the acting figure.
 
-<img src="assets/icons/condition_pull.png" class="inline-icon"/> "**Pull X**" forces the target to move up to X hexes toward the acting figure. Each individual hex entered must place the target closer by range to the acting figure.
+<img src="assets/icons/condition_pull.png" class="inline-condition"/> "**Pull X**" forces the target to move up to X hexes toward the acting figure. Each individual hex entered must place the target closer by range to the acting figure.
 
 When you perform a push or a pull, you decide the direction and distance that the target moves. When you push or pull the target into a hazard hex, it suffers the effects of that hazard hex unless it’s flying.
 
@@ -738,7 +738,7 @@ When a monster performs a push or a pull, you decide the direction, but the targ
 
 Push and pull can also be added to other abilities as an added effect, allowing the forced movement of one or more targets of that ability after its main effect is resolved. If the ability is an attack, the target can be forced to move even if the attack dealt no damage, but they cannot be forced to move if the attack killed or exhausted them.
 
-Multiple push or pull effects are combined. For example, if an ability with "<img src="assets/icons/condition_push.png" class="inline-icon"/> **1**" gains "<img src="assets/icons/condition_push.png" class="inline-icon"/> **2**," the result is a "<img src="assets/icons/condition_push.png" class="inline-icon"/> **3**" ability.
+Multiple push or pull effects are combined. For example, if an ability with "<img src="assets/icons/condition_push.png" class="inline-condition"/> **1**" gains "<img src="assets/icons/condition_push.png" class="inline-condition"/> **2**," the result is a "<img src="assets/icons/condition_push.png" class="inline-condition"/> **3**" ability.
 
 ---
 
@@ -1113,8 +1113,8 @@ If the scenario was completed, read the conclusion of the scenario, which is fou
 ## 1. Initial Check
 
 1. Check for Conditions and Attack Ability
-  - Any monster with <img src="assets/icons/condition_disarm.png" class="inline-icon"/> or without an attack ability moves as if for a single-target melee attack but does not perform an attack.
-  - Any monster with <img src="assets/icons/condition_immobilize.png" class="inline-icon"/> ignores all move abilities but performs any other viable actions.
+  - Any monster with <img src="assets/icons/condition_disarm.png" class="inline-condition"/> or without an attack ability moves as if for a single-target melee attack but does not perform an attack.
+  - Any monster with <img src="assets/icons/condition_immobilize.png" class="inline-condition"/> ignores all move abilities but performs any other viable actions.
 1. Check for Movement Paths 
   - Check for movement paths to attack hexes (i.e., hexes from which an attack can be performed). If no path exists (due to obstacles or other figures), the monster will not move or attack.
 
@@ -1145,7 +1145,7 @@ Each monster performs all of its abilities from top to bottom (move, attack, and
 
 - A separate attack modifier is rolled for each target of an attack ability.
 - A shield bonus only reduces damage from attacks, not from other sources, but the bonus applies to all incoming attacks while active.
-- Even if an attack deals no damage (e.g., when a <img src="assets/icons/modifier_miss.png" class="inline-icon"/> modifier is rolled), all added effects of the attack are still applied.
+- Even if an attack deals no damage (e.g., when a <img src="assets/icons/modifier_miss.png" class="inline-element"/> modifier is rolled), all added effects of the attack are still applied.
 
 > - You may negate all damage from one source by discarding or losing cards in one of three ways:
 >   - **Discard** one A-side card of your choice from your **hand**.
@@ -1190,23 +1190,23 @@ Each monster performs all of its abilities from top to bottom (move, attack, and
 
 | Item                      | Type | Scen. | Use | Effect |
 | :---                      |:---: | :---: |:---:| :---   |
-| Venomous Fang	            | <img src="assets/icons/equip_single_hand.png" class="inline-icon"/> |	 1	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	During your melee attack, add <img src="assets/icons/condition_poison.png" class="inline-icon"/>.	 |
-| Rosethorn Knife	          | <img src="assets/icons/equip_single_hand.png" class="inline-icon"/> |	 1	|                                                                 |	During your attack, <img src="assets/icons/element_spend_ice_earth.png" class="inline-icon"/> to add <img src="assets/icons/condition_pierce.png" class="inline-icon"/> 1.	 |
+| Venomous Fang	            | <img src="assets/icons/equip_single_hand.png" class="inline-icon"/> |	 1	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	During your melee attack, add <img src="assets/icons/condition_poison.png" class="inline-condition"/>.	 |
+| Rosethorn Knife	          | <img src="assets/icons/equip_single_hand.png" class="inline-icon"/> |	 1	|                                                                 |	During your attack, <img src="assets/icons/element_spend_ice_earth.png" class="inline-element"/> to add <img src="assets/icons/condition_pierce.png" class="inline-condition"/> 1.	 |
 | Button Shield	            | <img src="assets/icons/equip_single_hand.png" class="inline-icon"/> |	 3	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	During an enemy's attack, gain <img src="assets/icons/ability_shield.png" class="inline-icon"/> 1.	 |
-| Spring Hammer	            | <img src="assets/icons/equip_dual_hand.png" class="inline-icon"/>   |	 3	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	During your melee attack, add <img src="assets/icons/condition_push.png" class="inline-icon"/> 2.	 |
-| Tanglevine Whip	          | <img src="assets/icons/equip_single_hand.png" class="inline-icon"/> |	 4	|                                                                 |	During your attack, <img src="assets/icons/element_spend_earth_light.png" class="inline-icon"/> to add <img src="assets/icons/condition_immobilize.png" class="inline-icon"/>.	 |
-| Iron Nail	                | <img src="assets/icons/equip_dual_hand.png" class="inline-icon"/>   |	 4	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	During your turn, add <img src="assets/icons/condition_pierce.png" class="inline-icon"/> 2 to all your melee attacks.	 |
+| Spring Hammer	            | <img src="assets/icons/equip_dual_hand.png" class="inline-icon"/>   |	 3	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	During your melee attack, add <img src="assets/icons/condition_push.png" class="inline-condition"/> 2.	 |
+| Tanglevine Whip	          | <img src="assets/icons/equip_single_hand.png" class="inline-icon"/> |	 4	|                                                                 |	During your attack, <img src="assets/icons/element_spend_earth_light.png" class="inline-element"/> to add <img src="assets/icons/condition_immobilize.png" class="inline-condition"/>.	 |
+| Iron Nail	                | <img src="assets/icons/equip_dual_hand.png" class="inline-icon"/>   |	 4	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	During your turn, add <img src="assets/icons/condition_pierce.png" class="inline-condition"/> 2 to all your melee attacks.	 |
 | Chestnut Shell Shield	    | <img src="assets/icons/equip_single_hand.png" class="inline-icon"/> |	 8	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	During an enemy's attack, gain <img src="assets/icons/ability_shield.png" class="inline-icon"/> 1, <img src="assets/icons/ability_retaliate.png" class="inline-icon"/> 1.	 |
-| Fishing Hook and Line	    | <img src="assets/icons/equip_dual_hand.png" class="inline-icon"/>   |	 8	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	During your ranged attack, add <img src="assets/icons/condition_pierce.png" class="inline-icon"/> 2, <img src="assets/icons/condition_pull.png" class="inline-icon"/> 2.	 |
-| Sewing Needles	          | <img src="assets/icons/equip_single_hand.png" class="inline-icon"/> |	11	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	During your attack, add <img src="assets/icons/condition_pierce.png" class="inline-icon"/> 1.	 |
+| Fishing Hook and Line	    | <img src="assets/icons/equip_dual_hand.png" class="inline-icon"/>   |	 8	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	During your ranged attack, add <img src="assets/icons/condition_pierce.png" class="inline-condition"/> 2, <img src="assets/icons/condition_pull.png" class="inline-condition"/> 2.	 |
+| Sewing Needles	          | <img src="assets/icons/equip_single_hand.png" class="inline-icon"/> |	11	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	During your attack, add <img src="assets/icons/condition_pierce.png" class="inline-condition"/> 1.	 |
 | Coin Shield	              | <img src="assets/icons/equip_single_hand.png" class="inline-icon"/> |	12	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	During an enemy's attack, gain <img src="assets/icons/ability_shield.png" class="inline-icon"/> 2.	 |
 | Sharpened Pencil	        | <img src="assets/icons/equip_dual_hand.png" class="inline-icon"/>   |	12	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	During your single-target melee attack, add: <img src="assets/icons/area_melee_line_3.png" class="inline-icon"/>	 |
 | Shrunken Longsword	      | <img src="assets/icons/equip_single_hand.png" class="inline-icon"/> |	13	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	During your melee attack, add +1 <img src="assets/icons/ability_attack.png" class="inline-icon"/>.	 |
-| Shrunken Longbow	        | <img src="assets/icons/equip_dual_hand.png" class="inline-icon"/>   |	13	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	During your ranged attack, add +1 <img src="assets/icons/ability_attack.png" class="inline-icon"/>, <img src="assets/icons/condition_pierce.png" class="inline-icon"/> 1.	 |
+| Shrunken Longbow	        | <img src="assets/icons/equip_dual_hand.png" class="inline-icon"/>   |	13	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	During your ranged attack, add +1 <img src="assets/icons/ability_attack.png" class="inline-icon"/>, <img src="assets/icons/condition_pierce.png" class="inline-condition"/> 1.	 |
 | Playing Card Shield	      | <img src="assets/icons/equip_dual_hand.png" class="inline-icon"/>   |	15	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	During an enemy's attack, gain <img src="assets/icons/ability_shield.png" class="inline-icon"/> 4.	 |
-| Glass Shard	              | <img src="assets/icons/equip_single_hand.png" class="inline-icon"/> |	15	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	During your melee attack, add <img src="assets/icons/condition_wound.png" class="inline-icon"/>.	 |
-| Pocket Knife	            | <img src="assets/icons/equip_dual_hand.png" class="inline-icon"/>   |	19	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	During your melee attack, add +1 <img src="assets/icons/ability_attack.png" class="inline-icon"/>, <img src="assets/icons/condition_pierce.png" class="inline-icon"/> 2, <img src="assets/icons/condition_wound.png" class="inline-icon"/>.	 |
-| Iridescent Shell Shield	  | <img src="assets/icons/equip_single_hand.png" class="inline-icon"/> |	19	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	During your turn, gain <img src="assets/icons/ability_shield.png" class="inline-icon"/> 1 for the round. Create <img src="assets/icons/element_wild.png" class="inline-icon"/>.	 |
+| Glass Shard	              | <img src="assets/icons/equip_single_hand.png" class="inline-icon"/> |	15	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	During your melee attack, add <img src="assets/icons/condition_wound.png" class="inline-condition"/>.	 |
+| Pocket Knife	            | <img src="assets/icons/equip_dual_hand.png" class="inline-icon"/>   |	19	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	During your melee attack, add +1 <img src="assets/icons/ability_attack.png" class="inline-icon"/>, <img src="assets/icons/condition_pierce.png" class="inline-condition"/> 2, <img src="assets/icons/condition_wound.png" class="inline-condition"/>.	 |
+| Iridescent Shell Shield	  | <img src="assets/icons/equip_single_hand.png" class="inline-icon"/> |	19	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	During your turn, gain <img src="assets/icons/ability_shield.png" class="inline-icon"/> 1 for the round. Create <img src="assets/icons/element_wild.png" class="inline-element"/>.	 |
 
 | Item                      | Type | Scen. | Use | Effect |
 | :---                      |:---: | :---: |:---:| :---   |
@@ -1214,27 +1214,27 @@ Each monster performs all of its abilities from top to bottom (move, attack, and
 | Bottle Cap Helm	          | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	 1	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	During an enemy's attack, treat its <img src="assets/icons/dice_result_plus.png" class="inline-icon"/> attack modifier as a <img src="assets/icons/dice_result_neutral.png" class="inline-icon"/> attack modifier.	 |
 | Old Spring                | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	 1	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	During your turn, add <img src="assets/icons/ability_jump.png" class="inline-icon"/> to all your movement.	 |
 | Shrunken Weathered Boots  | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	 1	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	During your movement, add +1 <img src="assets/icons/ability_move.png" class="inline-icon"/>.	 |
-| Drop of Clean Water       | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	 2	|                                                                 |	During your turn, <img src="assets/icons/element_spend_ice_wind.png" class="inline-icon"/> to remove one negative condition.	 |
+| Drop of Clean Water       | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	 2	|                                                                 |	During your turn, <img src="assets/icons/element_spend_ice_wind.png" class="inline-element"/> to remove one negative condition.	 |
 | Drop of Power Potion	    | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	 2	| <img src="assets/icons/use_lost.png" class="inline-icon"/>     |	During your turn, add +1 <img src="assets/icons/ability_attack.png" class="inline-icon"/> to all your attacks.	 |
 | Leftover Table Scraps	    | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	 5	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	During your turn, <img src="assets/icons/ability_heal.png" class="inline-icon"/> 1 self.	 |
 | Magnetic Needle	          | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	 5	| <img src="assets/icons/use_lost.png" class="inline-icon"/>     |	During your turn, control one enemy within <img src="assets/icons/ability_range.png" class="inline-icon"/> 5: <img src="assets/icons/ability_move.png" class="inline-icon"/> 2.	 |
-| Nightshade Pollen	        | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	 6	|                                                                 |	After an enemy's attack, <img src="assets/icons/element_spend_earth_dark.png" class="inline-icon"/> to <img src="assets/icons/condition_poison.png" class="inline-icon"/> that enemy.	 |
-| Robin's Feather Arrows	  | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	 6	|                                                                 |	During your single-target ranged attack, <img src="assets/icons/element_spend_fire_wind.png" class="inline-icon"/> to add +1 <img src="assets/icons/ability_range.png" class="inline-icon"/>, <img src="assets/icons/condition_pierce.png" class="inline-icon"/> 1.	 |
+| Nightshade Pollen	        | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	 6	|                                                                 |	After an enemy's attack, <img src="assets/icons/element_spend_earth_dark.png" class="inline-element"/> to <img src="assets/icons/condition_poison.png" class="inline-condition"/> that enemy.	 |
+| Robin's Feather Arrows	  | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	 6	|                                                                 |	During your single-target ranged attack, <img src="assets/icons/element_spend_fire_wind.png" class="inline-element"/> to add +1 <img src="assets/icons/ability_range.png" class="inline-icon"/>, <img src="assets/icons/condition_pierce.png" class="inline-condition"/> 1.	 |
 | Volatile Powder	          | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	 7	| <img src="assets/icons/use_lost.png" class="inline-icon"/>     |	During your single-target ranged attack, add: <img src="assets/icons/area_ranged_triangle.png" class="inline-icon"/>	 |
 | Drop of Healing Potion	  | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	 7	| <img src="assets/icons/use_lost.png" class="inline-icon"/>     |	During your turn, <img src="assets/icons/ability_heal.png" class="inline-icon"/> 3 self.	 |
 | Lubricating Oil	          | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	 9	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	During your movement, add +2 <img src="assets/icons/ability_move.png" class="inline-icon"/>.	 |
 | Brass Cog	                | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	 9	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	After determining initiative, increase or decrease your initiative by 10.	 |
 | Drop of Stamina Potion	  | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	10	| <img src="assets/icons/use_lost.png" class="inline-icon"/>     |	During your turn, <img src="assets/icons/ability_recover_card.png" class="inline-icon"/> one level 1 card from your hand or discard pile to its A-side.	 |
-| Drop of Element Potion	  | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	10	| <img src="assets/icons/use_lost.png" class="inline-icon"/>     |	During your turn, create <img src="assets/icons/element_wild.png" class="inline-icon"/><img src="assets/icons/element_wild.png" class="inline-icon"/>.	 |
-| Pinch of Doom Powder	    | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	11	| <img src="assets/icons/use_lost.png" class="inline-icon"/>     |	During your attack, add <img src="assets/icons/condition_disarm.png" class="inline-icon"/>, <img src="assets/icons/condition_poison.png" class="inline-icon"/>.	 |
+| Drop of Element Potion	  | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	10	| <img src="assets/icons/use_lost.png" class="inline-icon"/>     |	During your turn, create <img src="assets/icons/element_wild.png" class="inline-element"/><img src="assets/icons/element_wild.png" class="inline-element"/>.	 |
+| Pinch of Doom Powder	    | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	11	| <img src="assets/icons/use_lost.png" class="inline-icon"/>     |	During your attack, add <img src="assets/icons/condition_disarm.png" class="inline-condition"/>, <img src="assets/icons/condition_poison.png" class="inline-condition"/>.	 |
 | Lucky Cat's-Eye Marble	  | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	14	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	During your attack, treat your <img src="assets/icons/dice_result_minus.png" class="inline-icon"/> attack modifier as a <img src="assets/icons/dice_result_neutral.png" class="inline-icon"/> attack modifier.	 |
-| Embernettle	              | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	14	|                                                                 |	During an enemy's attack, <img src="assets/icons/element_spend_fire_earth.png" class="inline-icon"/> to <img src="assets/icons/condition_wound.png" class="inline-icon"/> that enemy.	 |
+| Embernettle	              | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	14	|                                                                 |	During an enemy's attack, <img src="assets/icons/element_spend_fire_earth.png" class="inline-element"/> to <img src="assets/icons/condition_wound.png" class="inline-condition"/> that enemy.	 |
 | Drop of Stamina Elixir	  | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	16	| <img src="assets/icons/use_lost.png" class="inline-icon"/>     |	During your turn, <img src="assets/icons/ability_recover_card.png" class="inline-icon"/> one card from your hand or discard pile to its A-side.	 |
 | Drop of Haste Elixir	    | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	16	| <img src="assets/icons/use_lost.png" class="inline-icon"/>     |	After performing the top action of an ability card, also perform its bottom action.	 |
-| Drop of Strength Potion	  | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	17	| <img src="assets/icons/use_lost.png" class="inline-icon"/>     |	During your turn, <img src="assets/icons/condition_strengthen.png" class="inline-icon"/> self.	 |
-| Prismatic Gem	            | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	17	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	During your attack, <img src="assets/icons/element_spend_wild.png" class="inline-icon"/> to add +1 <img src="assets/icons/ability_attack.png" class="inline-icon"/>.	 |
-| Brightlure Gem	          | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	18	|                                                                 |	After your attack, <img src="assets/icons/element_spend_wind_light.png" class="inline-icon"/> to control the target of the attack: <img src="assets/icons/ability_move.png" class="inline-icon"/> 1.	 |
-| Duskhaze Gem	            | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	18	|                                                                 |	During an enemy's attack, <img src="assets/icons/element_spend_wind_dark.png" class="inline-icon"/> to gain <img src="assets/icons/ability_shield.png" class="inline-icon"/> 1 and <img src="assets/icons/condition_muddle.png" class="inline-icon"/> that enemy.	 |
+| Drop of Strength Potion	  | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	17	| <img src="assets/icons/use_lost.png" class="inline-icon"/>     |	During your turn, <img src="assets/icons/condition_strengthen.png" class="inline-condition"/> self.	 |
+| Prismatic Gem	            | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	17	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	During your attack, <img src="assets/icons/element_spend_wild.png" class="inline-element"/> to add +1 <img src="assets/icons/ability_attack.png" class="inline-icon"/>.	 |
+| Brightlure Gem	          | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	18	|                                                                 |	After your attack, <img src="assets/icons/element_spend_wind_light.png" class="inline-element"/> to control the target of the attack: <img src="assets/icons/ability_move.png" class="inline-icon"/> 1.	 |
+| Duskhaze Gem	            | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	18	|                                                                 |	During an enemy's attack, <img src="assets/icons/element_spend_wind_dark.png" class="inline-element"/> to gain <img src="assets/icons/ability_shield.png" class="inline-icon"/> 1 and <img src="assets/icons/condition_muddle.png" class="inline-condition"/> that enemy.	 |
 
 ---
 
