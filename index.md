@@ -484,9 +484,15 @@ Figures treat the hex they occupy as adjacent for the purpose of targeting.
 
 Abilities with an area of effect allow the acting figure to target multiple hexes at the same time. Rotating and mirroring the depicted area of effect is permitted.
 
-<img src="assets/icons/hex_player.png" class="inline-icon"/> Gray indicates the hex which the acting figure occupies. Any attack with an area of effect that includes a gray hex is always considered a melee attack (see [p.18](#page_18)).
+<div class="float-container">
+  <span class="floating-image"><img src="assets/icons/hex_player.png" height="48"/></span>
+  <p>Gray indicates the hex which the acting figure occupies. Any attack with an area of effect that includes a gray hex is always considered a melee attack (see <a href="#page_18">p.18</a>).</p>
+</div>
 
-<img src="assets/icons/hex_attack.png" class="inline-icon"/> Red indicates the hexes in which figures can be targeted. Only one red hex needs to be within the ability’s range. This initial hex does not need to contain a figure.
+<div class="float-container">
+  <span class="floating-image"><img src="assets/icons/hex_attack.png" height="48"/></span>
+  <p>Red indicates the hexes in which figures can be targeted. Only one red hex needs to be within the ability’s range. This initial hex does not need to contain a figure.</p>
+</div>
 
 If an ability with an area of effect gains "**+1** <img src="assets/icons/ability_target.png" class="inline-icon"/>," an additional figure within the ability’s range, but outside the area of effect, can be targeted. This does not mean that the entire area of effect can be applied again, however; only one additional hex may be targeted.
 
@@ -794,7 +800,7 @@ An ability card has the following:
     <li>An action might include an active ability icon (see <a href="#page_21">p.21</a>), in which case the card is placed in your active area.</li>
     <li>An action might include a lost icon (see <a href="#page_28">p.28</a>), in which case the card is placed in the lost pile after its action is performed.</li>
   </ol></li>
-  <li><strong>Basic Action Icons:</strong> An ability card can always be used for a basic "<img src="assets/icons/ability_attack.png"/> **2**" top action or "<img src="assets/icons/ability_move.png"/> **2**" bottom action. <span class="new-to-bnb">If a card is used this way, the card is flipped and returned to your hand (if it was on the A-side) or discarded (if it was on the B-side) as if it has no other icons.</span></li>
+  <li><strong>Basic Action Icons:</strong> An ability card can always be used for a basic "<img src="assets/icons/ability_attack.png" class="inline-icon"/> **2**" top action or "<img src="assets/icons/ability_move.png" class="inline-icon"/> **2**" bottom action. <span class="new-to-bnb">If a card is used this way, the card is flipped and returned to your hand (if it was on the A-side) or discarded (if it was on the B-side) as if it has no other icons.</span></li>
 </ol>
 
 ---
