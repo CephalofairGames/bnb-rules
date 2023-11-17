@@ -58,7 +58,7 @@ blockquote {
 }
 
 .inline-icon {
-	height: 17px;
+	height: 18px;
 	vertical-align: -10%;
 }
 
@@ -69,5 +69,5 @@ blockquote {
 
 .inline-element {
 	height: 20px;
-	vertical-align: -20%;
+	vertical-align: -15%;
 }

@@ -647,21 +647,21 @@ A condition effect can also be added to other abilities as an added effect, caus
 
 #### Positive Conditions
 
-<img src="assets/icons/condition_invisible.png" class="inline-condition"/> Invisible: The figure cannot be targeted by any enemy, though non-targeted abilities remain unaffected. The invisible figure and their allies can still interact with each other. Invisible is removed at the end of the figure’s next turn.
+<img src="assets/icons/condition_invisible.png" class="inline-condition"/> **Invisible:** The figure cannot be targeted by any enemy, though non-targeted abilities remain unaffected. The invisible figure and their allies can still interact with each other. Invisible is removed at the end of the figure’s next turn.
 
-<img src="assets/icons/condition_strengthen.png" class="inline-condition"/> Strengthen: The figure gains advantage on all of their attacks. Strengthen is removed at the end of the figure’s next turn.
+<img src="assets/icons/condition_strengthen.png" class="inline-condition"/> **Strengthen:** The figure gains advantage on all of their attacks. Strengthen is removed at the end of the figure’s next turn.
 
 #### Negative Conditions
 
-<img src="assets/icons/condition_wound.png" class="inline-condition"/> Wound: The figure suffers 1 damage at the start of each of their turns. Wound is removed when the figure is healed, and the figure is healed by the ability as normal. (You can place the token covering a monster’s ability text to help you remember.)
+<img src="assets/icons/condition_wound.png" class="inline-condition"/> **Wound:** The figure suffers 1 damage at the start of each of their turns. Wound is removed when the figure is healed, and the figure is healed by the ability as normal. (You can place the token covering a monster’s ability text to help you remember.)
 
-<img src="assets/icons/condition_poison.png" class="inline-condition"/> Poison: All attacks targeting the figure gain "**+1** <img src="assets/icons/ability_attack.png" class="inline-icon"/>." Poison is removed when the figure is healed but, unlike wound, poison prevents the heal from increasing the figure’s current hit point value. (You can place the token by your or the monster’s hit points to help you remember.)
+<img src="assets/icons/condition_poison.png" class="inline-condition"/> **Poison:** All attacks targeting the figure gain "**+1** <img src="assets/icons/ability_attack.png" class="inline-icon"/>." Poison is removed when the figure is healed but, unlike wound, poison prevents the heal from increasing the figure’s current hit point value. (You can place the token by your or the monster’s hit points to help you remember.)
 
-<img src="assets/icons/condition_immobilize.png" class="inline-condition"/> Immobilize: The figure cannot perform any move abilities. Immobilize is removed at the end of the figure’s next turn.
+<img src="assets/icons/condition_immobilize.png" class="inline-condition"/> **Immobilize:** The figure cannot perform any move abilities. Immobilize is removed at the end of the figure’s next turn.
 
-<img src="assets/icons/condition_disarm.png" class="inline-condition"/> Disarm: The figure cannot perform any attack abilities. Disarm is removed at the end of the figure’s next turn.
+<img src="assets/icons/condition_disarm.png" class="inline-condition"/> **Disarm:** The figure cannot perform any attack abilities. Disarm is removed at the end of the figure’s next turn.
 
-<img src="assets/icons/condition_muddle.png" class="inline-condition"/> Muddle: The figure gains disadvantage on all of their attacks. Muddle is removed at the end of the figure’s next turn.
+<img src="assets/icons/condition_muddle.png" class="inline-condition"/> **Muddle:** The figure gains disadvantage on all of their attacks. Muddle is removed at the end of the figure’s next turn.
 
 ---
 
@@ -794,7 +794,7 @@ An ability card has the following:
     <li>An action might include an active ability icon (see <a href="#page_21">p.21</a>), in which case the card is placed in your active area.</li>
     <li>An action might include a lost icon (see <a href="#page_28">p.28</a>), in which case the card is placed in the lost pile after its action is performed.</li>
   </ol></li>
-  <li><strong>Basic Action Icons:</strong> An ability card can always be used for a basic "2" top action or "2" bottom action. <span class="new-to-bnb">If a card is used this way, the card is flipped and returned to your hand (if it was on the A-side) or discarded (if it was on the B-side) as if it has no other icons.</span></li>
+  <li><strong>Basic Action Icons:</strong> An ability card can always be used for a basic "<img src="assets/icons/ability_attack.png"/> **2**" top action or "<img src="assets/icons/ability_move.png"/> **2**" bottom action. <span class="new-to-bnb">If a card is used this way, the card is flipped and returned to your hand (if it was on the A-side) or discarded (if it was on the B-side) as if it has no other icons.</span></li>
 </ol>
 
 ---
