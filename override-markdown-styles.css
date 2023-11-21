@@ -36,46 +36,32 @@ blockquote {
 
 .page-number { font-weight:700 }
 
-/* Create two equal columns that floats next to each other */
-.column {
-  float: left;
-  width: 50%;
-  padding: 10px;
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-.table-of-contents {
+.three-columns {
 	padding-bottom: 15px;
 }
 
-.table-of-contents table, .table-of-contents td {
+.three-columns table, .three-columns td {
 	border: none;
 	vertical-align: top;
 }
 
-.table-of-contents td {
+.three-columns td {
 	width: 33%;
 }
 
-.table-of-contents h3, .table-of-contents h4 {
+.three-columns h3, .three-columns h4 {
 	font-size:14px;
 	font-weight:600;
 	margin-top: 8px;
 	margin-bottom: 0px;
 }
 
-.table-of-contents p {
+.three-columns p {
 	font-size:12px;
 	margin: 0px;
 }
 
-.table-of-contents ul {
+.three-columns ul {
 	list-style-type: none;
 }
 
