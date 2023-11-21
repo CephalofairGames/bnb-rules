@@ -64,6 +64,8 @@ For more resources, visit [cephalofair.com/bnb](https://cephalofair.com/bnb)
 <p>Added Effects <a href="#page_15">p.15</a></p>
 <p>Elements <a href="#page_16">p.16</a></p>
 
+</td><td>
+
 <p>Abilities <a href="#page_17">p.17</a></p>
 <p>Move <a href="#page_17">p.17</a></p>
 <p>Jump <a href="#page_17">p.17</a></p>
@@ -80,9 +82,6 @@ For more resources, visit [cephalofair.com/bnb](https://cephalofair.com/bnb)
 <p>Negative Conditions <a href="#page_20">p.20</a></p>
 <p>Heal <a href="#page_21">p.21</a></p>
 <p>Active Bonuses <a href="#page_21">p.21</a></p>
-
-</td><td>
-
 <p>Shield <a href="#page_22">p.22</a></p>
 <p>Retaliate <a href="#page_22">p.22</a></p>
 <p>Forced Movement <a href="#page_23">p.23</a></p>
@@ -98,6 +97,9 @@ For more resources, visit [cephalofair.com/bnb](https://cephalofair.com/bnb)
 <p>Mandatory Triggers <a href="#page_27">p.27</a></p>
 <p>Resting <a href="#page_27">p.27</a></p>
 <p>Lost Actions <a href="#page_28">p.28</a></p>
+
+</td><td>
+
 <p>Character Damage <a href="#page_28">p.28</a></p>
 <p>Exhaustion <a href="#page_28">p.28</a></p>
 
