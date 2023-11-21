@@ -23,169 +23,125 @@ For more resources, visit [cephalofair.com/bnb](https://cephalofair.com/bnb)
 # Table of Contents
 
 <div class="table-of-contents">
+<div class="row">
+<div class="column">
+  
+<h4 id="getting-started-p3">Getting Started <a href="#page_3">p.3</a></h4>
 
-<h3 id="getting-started-p3">Getting Started <a href="#page_3">p.3</a></h3>
+<p>Choose a Character <a href="#page_4">p.4</a></p>
+<p>Learning the Rules <a href="#page_5">p.5</a></p>
 
-<ul>
-  <li>Choose a Character <a href="#page_4">p.4</a></li>
-  <li>Learning the Rules <a href="#page_5">p.5</a></li>
-</ul>
-
-<h3 id="scenario-phase-p6">Scenario Phase <a href="#page_6">p.6</a></h3>
+<h4 id="scenario-phase-p6">Scenario Phase <a href="#page_6">p.6</a></h4>
 
 <h4 id="beginning-a-scenario-p7">Beginning a Scenario <a href="#page_7">p.7</a></h4>
 
 <h4 id="scenario-cards-p8">Scenario Cards <a href="#page_8">p.8</a></h4>
 
-<ul>
-  <li>Terrain <a href="#page_9">p.9</a>
-    <ul>
-      <li>Obstacles <a href="#page_9">p.9</a></li>
-      <li>Difficult Terrain <a href="#page_9">p.9</a></li>
-      <li>Hazards <a href="#page_9">p.9</a></li>
-      <li>Pressure Plates <a href="#page_9">p.9</a></li>
-      <li>Objectives <a href="#page_9">p.9</a></li>
-    </ul>
-  </li>
-</ul>
+<p>Terrain <a href="#page_9">p.9</a></p>
+<p>Obstacles <a href="#page_9">p.9</a></p>
+<p>Difficult Terrain <a href="#page_9">p.9</a></p>
+<p>Hazards <a href="#page_9">p.9</a></p>
+<p>Pressure Plates <a href="#page_9">p.9</a></p>
+<p>Objectives <a href="#page_9">p.9</a></p>
 
 <h4 id="playing-a-scenario-p10">Playing a Scenario <a href="#page_10">p.10</a></h4>
 
-<ol>
-  <li>Start of Round Effects <a href="#page_10">p.10</a></li>
-  <li>Card Selection <a href="#page_10">p.10</a></li>
-  <li>Ordering of Initiative <a href="#page_11">p.11</a>
-    <ul>
-      <li>Resolving Ties <a href="#page_11">p.11</a></li>
-      <li>Monster Order <a href="#page_11">p.11</a></li>
-    </ul>
-  </li>
-  <li>Character and Monster Turns <a href="#page_12">p.12</a>
-    <ul>
-      <li>Actions and Abilities Overview <a href="#page_12">p.12</a>
-        <ul>
-          <li>Actions <a href="#page_12">p.12</a></li>
-          <li>Abilities <a href="#page_12">p.12</a></li>
-        </ul>
-      </li>
-      <li>Important Ability Concepts <a href="#page_13">p.13</a>
-        <ul>
-          <li>Target <a href="#page_13">p.13</a></li>
-          <li>Allies, Enemies, and Self <a href="#page_13">p.13</a></li>
-          <li>Range <a href="#page_14">p.14</a></li>
-          <li>Area of Effect <a href="#page_14">p.14</a></li>
-          <li>Added Effects <a href="#page_15">p.15</a></li>
-          <li>Elements <a href="#page_16">p.16</a></li>
-        </ul>
-      </li>
-      <li>Abilities <a href="#page_17">p.17</a>
-        <ul>
-          <li>Move <a href="#page_17">p.17</a>
-            <ul>
-              <li>Jump <a href="#page_17">p.17</a></li>
-              <li>Flying <a href="#page_17">p.17</a></li>
-            </ul>
-          </li>
-          <li>Attack <a href="#page_18">p.18</a>
-            <ul>
-              <li>Attack Modification Order <a href="#page_18">p.18</a></li>
-              <li>Attack Modifier Tables <a href="#page_18">p.18</a></li>
-              <li>Attack Effects <a href="#page_19">p.19</a></li>
-              <li>Advantage and Disadvantage <a href="#page_19">p.19</a></li>
-              <li>Pierce <a href="#page_19">p.19</a></li>
-            </ul>
-          </li>
-          <li>Conditions <a href="#page_20">p.20</a>
-            <ul>
-              <li>Positive Conditions <a href="#page_20">p.20</a></li>
-              <li>Negative Conditions <a href="#page_20">p.20</a></li>
-            </ul>
-          </li>
-          <li>Heal <a href="#page_21">p.21</a></li>
-          <li>Active Bonuses <a href="#page_21">p.21</a>
-            <ul>
-              <li>Shield <a href="#page_22">p.22</a></li>
-              <li>Retaliate <a href="#page_22">p.22</a></li>
-            </ul>
-          </li>
-          <li>Forced Movement <a href="#page_23">p.23</a></li>
-          <li>Control <a href="#page_24">p.24</a></li>
-          <li>Suffer Damage <a href="#page_24">p.24</a></li>
-          <li>Recover <a href="#page_24">p.24</a></li>
-        </ul>
-      </li>
-      <li>Character Turns <a href="#page_25">p.25</a>
-        <ul>
-          <li>Ability Cards <a href="#page_25">p.25</a></li>
-          <li>Items <a href="#page_26">p.26</a>
-            <ul>
-              <li>Item Limits <a href="#page_26">p.26</a></li>
-              <li>Item Usage <a href="#page_26">p.26</a></li>
-            </ul>
-          </li>
-          <li>Mandatory Triggers <a href="#page_27">p.27</a></li>
-          <li>Resting <a href="#page_27">p.27</a></li>
-          <li>Lost Actions <a href="#page_28">p.28</a></li>
-          <li>Character Damage <a href="#page_28">p.28</a></li>
-          <li>Exhaustion <a href="#page_28">p.28</a></li>
-        </ul>
-      </li>
-      <li>Monster Turns <a href="#page_29">p.29</a>
-        <ul>
-          <li>Monster Cards <a href="#page_29">p.29</a></li>
-          <li>Monster Acting Order <a href="#page_30">p.30</a></li>
-          <li>Focus <a href="#page_30">p.30</a>
-            <ul>
-              <li>Path Priority <a href="#page_30">p.30</a></li>
-              <li>No Focus <a href="#page_30">p.30</a></li>
-            </ul>
-          </li>
-          <li>Monster Movement <a href="#page_31">p.31</a></li>
-          <li>Monster Attacks <a href="#page_31">p.31</a></li>
-          <li>Other Monster Abilities <a href="#page_31">p.31</a></li>
-          <li>Monsters and Elements <a href="#page_32">p.32</a></li>
-          <li>Spawning Monsters <a href="#page_32">p.32</a></li>
-          <li>Monster Damage and Death <a href="#page_32">p.32</a></li>
-        </ul>
-      </li>
-      <li>End of Round <a href="#page_33">p.33</a>
-        <ul>
-          <li>Tracking Rounds <a href="#page_33">p.33</a></li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-</ol>
+<p>Start of Round Effects <a href="#page_10">p.10</a></p>
+<p>Card Selection <a href="#page_10">p.10</a></p>
+<p>Ordering of Initiative <a href="#page_11">p.11</a></p>
+<p>Resolving Ties <a href="#page_11">p.11</a></p>
+<p>Monster Order <a href="#page_11">p.11</a></p>
 
-<h3 id="ending-a-scenario-p34">Ending a Scenario <a href="#page_34">p.34</a></h3>
+<p>Character and Monster Turns <a href="#page_12">p.12</a></p>
+<p>Actions and Abilities Overview <a href="#page_12">p.12</a></p>
+<p>Actions <a href="#page_12">p.12</a></p>
+<p>Abilities <a href="#page_12">p.12</a></p>
+<p>Important Ability Concepts <a href="#page_13">p.13</a></p>
+<p>Target <a href="#page_13">p.13</a></p>
+<p>Allies, Enemies, and Self <a href="#page_13">p.13</a></p>
+<p>Range <a href="#page_14">p.14</a></p>
+<p>Area of Effect <a href="#page_14">p.14</a></p>
+<p>Added Effects <a href="#page_15">p.15</a></p>
+<p>Elements <a href="#page_16">p.16</a></p>
 
-<ul>
-  <li>Lost Scenario <a href="#page_34">p.34</a></li>
-  <li>Completed Scenario <a href="#page_34">p.34</a></li>
-</ul>
+<p>Abilities <a href="#page_17">p.17</a></p>
+<p>Move <a href="#page_17">p.17</a></p>
+<p>Jump <a href="#page_17">p.17</a></p>
+<p>Flying <a href="#page_17">p.17</a></p>
+<p>Attack <a href="#page_18">p.18</a></p>
+<p>Attack Modification Order <a href="#page_18">p.18</a></p>
+<p>Attack Modifier Tables <a href="#page_18">p.18</a></p>
+<p>Attack Effects <a href="#page_19">p.19</a></p>
+<p>Advantage and Disadvantage <a href="#page_19">p.19</a></p>
+<p>Pierce <a href="#page_19">p.19</a></p>
 
-<h3 id="the-adventure-begins-p35">The Adventure Begins <a href="#page_35">p.35</a></h3>
+<p>Conditions <a href="#page_20">p.20</a></p>
+<p>Positive Conditions <a href="#page_20">p.20</a></p>
+<p>Negative Conditions <a href="#page_20">p.20</a></p>
+<p>Heal <a href="#page_21">p.21</a></p>
+<p>Active Bonuses <a href="#page_21">p.21</a></p>
 
-<ul>
-  <li>Item Supplies <a href="#page_35">p.35</a></li>
-  <li>Character Progression <a href="#page_35">p.35</a></li>
-  <li>Upgraded Ability Cards <a href="#page_35">p.35</a></li>
-</ul>
+</div><div class="column">
 
-<h3 id="appendices">Appendices</h3>
+<p>Shield <a href="#page_22">p.22</a></p>
+<p>Retaliate <a href="#page_22">p.22</a></p>
+<p>Forced Movement <a href="#page_23">p.23</a></p>
+<p>Control <a href="#page_24">p.24</a></p>
+<p>Suffer Damage <a href="#page_24">p.24</a></p>
+<p>Recover <a href="#page_24">p.24</a></p>
 
-<ul>
-  <li>Appendix A: Component Inventory <a href="#page_36">p.36</a></li>
-  <li>Appendix B: Monster Turn Guide <a href="#page_37">p.37</a></li>
-  <li>Appendix C: Important Reminders <a href="#page_38">p.38</a></li>
-  <li>Appendix D: Item Index <a href="#page_39">p.39</a></li>
-  <li>Appendix E: Index <a href="#page_40">p.40</a></li>
-</ul>
+<p>Character Turns <a href="#page_25">p.25</a></p>
+<p>Ability Cards <a href="#page_25">p.25</a></p>
+<p>Items <a href="#page_26">p.26</a></p>
+<p>Item Limits <a href="#page_26">p.26</a></p>
+<p>Item Usage <a href="#page_26">p.26</a></p>
+<p>Mandatory Triggers <a href="#page_27">p.27</a></p>
+<p>Resting <a href="#page_27">p.27</a></p>
+<p>Lost Actions <a href="#page_28">p.28</a></p>
+<p>Character Damage <a href="#page_28">p.28</a></p>
+<p>Exhaustion <a href="#page_28">p.28</a></p>
 
-<h3 id="credits-p41">Credits <a href="#page_41">p.41</a></h3>
+<p>Monster Turns <a href="#page_29">p.29</a></p>
+<p>Monster Cards <a href="#page_29">p.29</a></p>
+<p>Monster Acting Order <a href="#page_30">p.30</a></p>
+<p>Focus <a href="#page_30">p.30</a></p>
+<p>Path Priority <a href="#page_30">p.30</a></p>
+<p>No Focus <a href="#page_30">p.30</a></p>
+<p>Monster Movement <a href="#page_31">p.31</a></p>
+<p>Monster Attacks <a href="#page_31">p.31</a></p>
+<p>Other Monster Abilities <a href="#page_31">p.31</a></p>
+<p>Monsters and Elements <a href="#page_32">p.32</a></p>
+<p>Spawning Monsters <a href="#page_32">p.32</a></p>
+<p>Monster Damage and Death <a href="#page_32">p.32</a></p>
 
-<h3 id="quick-reference-p42">Quick Reference <a href="#page_42">p.42</a></h3>
+<p>End of Round <a href="#page_33">p.33</a></p>
+<p>Tracking Rounds <a href="#page_33">p.33</a></p>
 
+<h4 id="ending-a-scenario-p34">Ending a Scenario <a href="#page_34">p.34</a></h4>
+
+<p>Lost Scenario <a href="#page_34">p.34</a></p>
+<p>Completed Scenario <a href="#page_34">p.34</a></p>
+
+<h4 id="the-adventure-begins-p35">The Adventure Begins <a href="#page_35">p.35</a></h4>
+
+<p>Item Supplies <a href="#page_35">p.35</a></p>
+<p>Character Progression <a href="#page_35">p.35</a></p>
+<p>Upgraded Ability Cards <a href="#page_35">p.35</a></p>
+
+<h4 id="appendices">Appendices</h4>
+
+<p>Appendix A: Component Inventory <a href="#page_36">p.36</a></p>
+<p>Appendix B: Monster Turn Guide <a href="#page_37">p.37</a></p>
+<p>Appendix C: Important Reminders <a href="#page_38">p.38</a></p>
+<p>Appendix D: Item Index <a href="#page_39">p.39</a></p>
+<p>Appendix E: Index <a href="#page_40">p.40</a></p>
+
+<h4 id="credits-p41">Credits <a href="#page_41">p.41</a></h4>
+
+<h4 id="quick-reference-p42">Quick Reference <a href="#page_42">p.42</a></h4>
+
+</div>
+</div>
 </div>
 
 ---
