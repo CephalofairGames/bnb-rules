@@ -23,8 +23,8 @@ For more resources, visit [cephalofair.com/bnb](https://cephalofair.com/bnb)
 # Table of Contents
 
 <div class="table-of-contents">
-<div class="row">
-<div class="column">
+<table>
+<tr><td>
   
 <h4 id="getting-started-p3">Getting Started <a href="#page_3">p.3</a></h4>
 
@@ -81,7 +81,7 @@ For more resources, visit [cephalofair.com/bnb](https://cephalofair.com/bnb)
 <p>Heal <a href="#page_21">p.21</a></p>
 <p>Active Bonuses <a href="#page_21">p.21</a></p>
 
-</div><div class="column">
+</td></tr><tr><td>
 
 <p>Shield <a href="#page_22">p.22</a></p>
 <p>Retaliate <a href="#page_22">p.22</a></p>
@@ -140,8 +140,8 @@ For more resources, visit [cephalofair.com/bnb](https://cephalofair.com/bnb)
 
 <h4 id="quick-reference-p42">Quick Reference <a href="#page_42">p.42</a></h4>
 
-</div>
-</div>
+</td></tr>
+</table>
 </div>
 
 ---
