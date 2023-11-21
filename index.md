@@ -1225,95 +1225,95 @@ Ability xx, xx–xx, xx
   
 <p>Inspired by <em>Gloomholdin</em></p>
 
-<h2 id="design-and-development">Design and Development</h2>
+<h3 id="design-and-development">Design and Development</h3>
 
-<h3 id="designers">Designers</h3>
+<h4 id="designers">Designers</h4>
 
 <p>Joe Klipfel and Nikki Valens</p>
 
-<h3 id="developer-and-project-manager">Developer and Project Manager</h3>
+<h4 id="developer-and-project-manager">Developer and Project Manager</h4>
 
 <p>Nikki Valens</p>
 
-<h3 id="scenario-20-design">Scenario 20 Design</h3>
+<h4 id="scenario-20-design">Scenario 20 Design</h4>
 
 <p>Misty Burgess</p>
 
-<h2 id="illustration">Illustration</h2>
+<h3 id="illustration">Illustration</h3>
 
-<h3 id="cover-character-and-monster-artist">Cover, Character, and Monster Artist</h3>
+<h4 id="cover-character-and-monster-artist">Cover, Character, and Monster Artist</h4>
 
 <p>Mofei Wang</p>
 
-<h3 id="map-artist">Map Artist</h3>
+<h4 id="map-artist">Map Artist</h4>
 
 <p>Yannis Cardin</p>
 
-<h3 id="art-directors">Art Directors</h3>
+<h4 id="art-directors">Art Directors</h4>
 
 <p>BJ Hensley and Arch Anderson</p>
 
-<h2 id="3d-modeling">3D Modeling</h2>
+<h3 id="3d-modeling">3D Modeling</h3>
 
-<h3 id="miniature-sculptors">Miniature Sculptors</h3>
+<h4 id="miniature-sculptors">Miniature Sculptors</h4>
 
 <p>Chris Lewis</p>
 
-<h2 id="graphic-design">Graphic Design</h2>
+<h3 id="graphic-design">Graphic Design</h3>
 
-<h3 id="lead-graphic-designer">Lead Graphic Designer</h3>
+<h4 id="lead-graphic-designer">Lead Graphic Designer</h4>
 
 <p>Arch Anderson</p>
 
-<h3 id="graphic-designer">Graphic Designer</h3>
+<h4 id="graphic-designer">Graphic Designer</h4>
 
 <p>Jason D. Kingsley</p>
 
-<h3 id="learn-to-play-layout-artist">Learn to Play Layout Artist</h3>
+<h4 id="learn-to-play-layout-artist">Learn to Play Layout Artist</h4>
 
 <p>Jason D. Kingsley</p>
 
 </td><td>
 
-<h2 id="writing">Writing</h2>
+<h3 id="writing">Writing</h3>
 
-<h3 id="narrative-writer">Narrative Writer</h3>
+<h4 id="narrative-writer">Narrative Writer</h4>
 
 <p>Isaac Childres</p>
 
-<h3 id="technical-writers">Technical Writers</h3>
+<h4 id="technical-writers">Technical Writers</h4>
 
 <p>Nikki Valens, Isaac Childres, Jason D. Kingsley</p>
 
-<h3 id="editor">Editor</h3>
+<h4 id="editor">Editor</h4>
 
 <p>Jaym Gates</p>
 
-<h2 id="production">Production</h2>
+<h3 id="production">Production</h3>
 
-<h3 id="executive-producer-and-production-lead">Executive Producer and Production Lead</h3>
+<h4 id="executive-producer-and-production-lead">Executive Producer and Production Lead</h4>
 
 <p>Price Johnson</p>
 
-<h2 id="playtesting">Playtesting</h2>
+<h3 id="playtesting">Playtesting</h3>
 
-<h3 id="playtest-coordinator">Playtest Coordinator</h3>
+<h4 id="playtest-coordinator">Playtest Coordinator</h4>
 
 <p>Nikki Valens</p>
 
-<h3 id="campaign-playtesters">Campaign Playtesters</h3>
+<h4 id="campaign-playtesters">Campaign Playtesters</h4>
 
 <p>Amr Ammourazz, Calvin Wong Tze Loon 黃子倫, David Gregg, Duncan Henry, Fiona van den Heiligenberg, Hong Di-Anne, Joseph Bozarth, Kyle Kemp, Larry, Braden, and Maks Marburger, Misty Burgess, Rachel Woodfint, Z Svela</p>
 
 </td><td>
 
-<h3 id="additional-playtesters">Additional Playtesters</h3>
+<h4 id="additional-playtesters">Additional Playtesters</h4>
 
 <p>Alexander Norback, Alisandra Livingston, Andrew Brown, Ben Donovan, Brook Laing, Carl Skelton, Clay Kramer, Conrad Gregory Oakes, Corbin Neuhauser, Dan Sawade, Daniel J Burras, David Hodd, David Ross Pascoe, John Morgan, Joshua Ryan Jones, Joshua Trotta, Julian Naydichev, Julie Lauzon, Kelly Nulty, Mike Clemson, Mike Clinton, Nathan Moteberg, Nicole Koprince, Peter Koprince, Ragnar Sigurður Ragnarsson, Ryan Huntley, Samuel Muriello, Sean Lim</p>
 
-<h2 id="crowdfunding">Crowdfunding</h2>
+<h3 id="crowdfunding">Crowdfunding</h3>
 
-<h3 id="marketing-and-crowdfunding-manager">Marketing and Crowdfunding Manager</h3>
+<h4 id="marketing-and-crowdfunding-manager">Marketing and Crowdfunding Manager</h4>
 
 <p>Ross Thompson</p>
 
@@ -1321,9 +1321,9 @@ Ability xx, xx–xx, xx
 
 <p>Ruel Gaviola</p>
 
-<h3 id="backerkit">BackerKit</h3>
+<h4 id="backerkit">BackerKit</h4>
 
-<h2 id="special-thanks">Special Thanks</h2>
+<h3 id="special-thanks">Special Thanks</h3>
 
 <p>“Thank you to my wife, Krista, who tirelessly supports my game design shenanigans.” —Joe Klipfel</p>
 
