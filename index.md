@@ -97,11 +97,10 @@ For more resources, visit [cephalofair.com/bnb](https://cephalofair.com/bnb)
 <p>Mandatory Triggers <a href="#page_27">p.27</a></p>
 <p>Resting <a href="#page_27">p.27</a></p>
 <p>Lost Actions <a href="#page_28">p.28</a></p>
-
-</td><td>
-
 <p>Character Damage <a href="#page_28">p.28</a></p>
 <p>Exhaustion <a href="#page_28">p.28</a></p>
+
+</td><td>
 
 <p>Monster Turns <a href="#page_29">p.29</a></p>
 <p>Monster Cards <a href="#page_29">p.29</a></p>
