@@ -52,11 +52,13 @@ blockquote {
 
 .table-of-contents {
 	font-size:12px;
+	margin: 0px;
 	padding-bottom: 15px;
+	border: none;
 }
 
 .table-of-contents h3, .table-of-contents h4 {
-	font-size:16px;
+	font-size:12px;
 	margin: 0px;
 }
 
