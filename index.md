@@ -22,7 +22,7 @@ For more resources, visit [cephalofair.com/bnb](https://cephalofair.com/bnb)
 
 # Table of Contents
 
-<div class="table-of-contents">
+<div class="three-columns">
 <table>
 <tr><td>
   
@@ -1058,7 +1058,7 @@ If the scenario was completed, read the conclusion of the scenario, which is fou
 - 2 Modifier trays
 - 4 Monster trays
 - 5 Hit Point dials
-- 30 Condition tokens
+- 24 Condition tokens
 - 6 Plastic Character miniatures
 - 10 Plastic cubes
 - 1 Custom die
@@ -1219,7 +1219,7 @@ Ability xx, xx–xx, xx
 
 # Credits
 
-<div class="table-of-contents">
+<div class="three-columns">
 <table>
 <tr><td>
   
