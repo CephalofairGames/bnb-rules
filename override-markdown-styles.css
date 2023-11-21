@@ -51,13 +51,19 @@ blockquote {
 }
 
 .table-of-contents {
-	font-size:12px;
-	margin: 0px;
 	padding-bottom: 15px;
+}
+
+.table-of-contents table, .table-of-contents td {
 	border: none;
 }
 
 .table-of-contents h3, .table-of-contents h4 {
+	font-size:12px;
+	margin: 0px;
+}
+
+.table-of-contents p {
 	font-size:12px;
 	margin: 0px;
 }
