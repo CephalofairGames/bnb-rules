@@ -81,7 +81,7 @@ For more resources, visit [cephalofair.com/bnb](https://cephalofair.com/bnb)
 <p>Heal <a href="#page_21">p.21</a></p>
 <p>Active Bonuses <a href="#page_21">p.21</a></p>
 
-</td></tr><tr><td>
+</td><td>
 
 <p>Shield <a href="#page_22">p.22</a></p>
 <p>Retaliate <a href="#page_22">p.22</a></p>
