@@ -97,11 +97,10 @@ For more resources, visit [cephalofair.com/bnb](https://cephalofair.com/bnb)
 <p>Mandatory Triggers <a href="#page_27">p.27</a></p>
 <p>Resting <a href="#page_27">p.27</a></p>
 <p>Lost Actions <a href="#page_28">p.28</a></p>
-
-</td><td>
-
 <p>Character Damage <a href="#page_28">p.28</a></p>
 <p>Exhaustion <a href="#page_28">p.28</a></p>
+
+</td><td>
 
 <p>Monster Turns <a href="#page_29">p.29</a></p>
 <p>Monster Cards <a href="#page_29">p.29</a></p>
@@ -1220,105 +1219,118 @@ Ability xx, xx–xx, xx
 
 # Credits
 
-Inspired by *Gloomholdin*
+<div class="table-of-contents">
+<table>
+<tr><td>
+  
+<p>Inspired by <em>Gloomholdin</em></p>
 
-## Design and Development
+<h3 id="design-and-development">Design and Development</h3>
 
-### Designers
+<h4 id="designers">Designers</h4>
 
-Joe Klipfel and Nikki Valens
+<p>Joe Klipfel and Nikki Valens</p>
 
-### Developer and Project Manager
+<h4 id="developer-and-project-manager">Developer and Project Manager</h4>
 
-Nikki Valens
+<p>Nikki Valens</p>
 
-### Scenario 20 Design
+<h4 id="scenario-20-design">Scenario 20 Design</h4>
 
-Misty Burgess
+<p>Misty Burgess</p>
 
-## Illustration
+<h3 id="illustration">Illustration</h3>
 
-### Cover, Character, and Monster Artist
+<h4 id="cover-character-and-monster-artist">Cover, Character, and Monster Artist</h4>
 
-Mofei Wang
+<p>Mofei Wang</p>
 
-### Map Artist
+<h4 id="map-artist">Map Artist</h4>
 
-Yannis Cardin
+<p>Yannis Cardin</p>
 
-### Art Directors
+<h4 id="art-directors">Art Directors</h4>
 
-BJ Hensley and Arch Anderson
+<p>BJ Hensley and Arch Anderson</p>
 
-## 3D Modeling
+<h3 id="3d-modeling">3D Modeling</h3>
 
-### Miniature Sculptors
+<h4 id="miniature-sculptors">Miniature Sculptors</h4>
 
-Chris Lewis
+<p>Chris Lewis</p>
 
-## Graphic Design
+<h3 id="graphic-design">Graphic Design</h3>
 
-### Lead Graphic Designer
+<h4 id="lead-graphic-designer">Lead Graphic Designer</h4>
 
-Arch Anderson
+<p>Arch Anderson</p>
 
-### Graphic Designer
+<h4 id="graphic-designer">Graphic Designer</h4>
 
-Jason D. Kingsley
+<p>Jason D. Kingsley</p>
 
-### Learn to Play Layout Artist
+<h4 id="learn-to-play-layout-artist">Learn to Play Layout Artist</h4>
 
-Jason D. Kingsley
+<p>Jason D. Kingsley</p>
 
-## Writing
+</td><td>
 
-### Narrative Writer
+<h3 id="writing">Writing</h3>
 
-Isaac Childres
+<h4 id="narrative-writer">Narrative Writer</h4>
 
-### Technical Writers
+<p>Isaac Childres</p>
 
-Nikki Valens, Isaac Childres, Jason D. Kingsley
+<h4 id="technical-writers">Technical Writers</h4>
 
-### Editor
+<p>Nikki Valens, Isaac Childres, Jason D. Kingsley</p>
 
-Jaym Gates
+<h4 id="editor">Editor</h4>
 
-## Production
+<p>Jaym Gates</p>
 
-### Executive Producer and Production Lead
+<h3 id="production">Production</h3>
 
-Price Johnson
+<h4 id="executive-producer-and-production-lead">Executive Producer and Production Lead</h4>
 
-## Playtesting
+<p>Price Johnson</p>
 
-### Playtest Coordinator
+<h3 id="playtesting">Playtesting</h3>
 
-Nikki Valens
+<h4 id="playtest-coordinator">Playtest Coordinator</h4>
 
-### Campaign Playtesters
+<p>Nikki Valens</p>
 
-Amr Ammourazz, Calvin Wong Tze Loon 黃子倫, David Gregg, Duncan Henry, Fiona van den Heiligenberg, Hong Di-Anne, Joseph Bozarth, Kyle Kemp, Larry, Braden, and Maks Marburger, Misty Burgess, Rachel Woodfint, Z Svela
+<h4 id="campaign-playtesters">Campaign Playtesters</h4>
 
-### Additional Playtesters
+<p>Amr Ammourazz, Calvin Wong Tze Loon 黃子倫, David Gregg, Duncan Henry, Fiona van den Heiligenberg, Hong Di-Anne, Joseph Bozarth, Kyle Kemp, Larry, Braden, and Maks Marburger, Misty Burgess, Rachel Woodfint, Z Svela</p>
 
-Alexander Norback, Alisandra Livingston, Andrew Brown, Ben Donovan, Brook Laing, Carl Skelton, Clay Kramer, Conrad Gregory Oakes, Corbin Neuhauser, Dan Sawade, Daniel J Burras, David Hodd, David Ross Pascoe, John Morgan, Joshua Ryan Jones, Joshua Trotta, Julian Naydichev, Julie Lauzon, Kelly Nulty, Mike Clemson, Mike Clinton, Nathan Moteberg, Nicole Koprince, Peter Koprince, Ragnar Sigurður Ragnarsson, Ryan Huntley, Samuel Muriello, Sean Lim
+</td><td>
 
-## Crowdfunding
+<h4 id="additional-playtesters">Additional Playtesters</h4>
 
-### Marketing and Crowdfunding Manager
+<p>Alexander Norback, Alisandra Livingston, Andrew Brown, Ben Donovan, Brook Laing, Carl Skelton, Clay Kramer, Conrad Gregory Oakes, Corbin Neuhauser, Dan Sawade, Daniel J Burras, David Hodd, David Ross Pascoe, John Morgan, Joshua Ryan Jones, Joshua Trotta, Julian Naydichev, Julie Lauzon, Kelly Nulty, Mike Clemson, Mike Clinton, Nathan Moteberg, Nicole Koprince, Peter Koprince, Ragnar Sigurður Ragnarsson, Ryan Huntley, Samuel Muriello, Sean Lim</p>
 
-Ross Thompson
+<h3 id="crowdfunding">Crowdfunding</h3>
 
-### Twitch Producer
+<h4 id="marketing-and-crowdfunding-manager">Marketing and Crowdfunding Manager</h4>
 
-Ruel Gaviola
+<p>Ross Thompson</p>
 
-### BackerKit
+<h3 id="twitch-producer">Twitch Producer</h3>
 
-## Special Thanks
+<p>Ruel Gaviola</p>
 
-“Thank you to my wife, Krista, who tirelessly supports my game design shenanigans.” —Joe Klipfel
+<h4 id="backerkit">BackerKit</h4>
+
+<h3 id="special-thanks">Special Thanks</h3>
+
+<p>“Thank you to my wife, Krista, who tirelessly supports my game design shenanigans.” —Joe Klipfel</p>
+
+</td></tr>
+</table>
+</div>
+
 
 ---
 
