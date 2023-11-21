@@ -1219,105 +1219,118 @@ Ability xx, xx–xx, xx
 
 # Credits
 
-Inspired by *Gloomholdin*
+<div class="table-of-contents">
+<table>
+<tr><td>
+  
+<p>Inspired by <em>Gloomholdin</em></p>
 
-## Design and Development
+<h2 id="design-and-development">Design and Development</h2>
 
-### Designers
+<h3 id="designers">Designers</h3>
 
-Joe Klipfel and Nikki Valens
+<p>Joe Klipfel and Nikki Valens</p>
 
-### Developer and Project Manager
+<h3 id="developer-and-project-manager">Developer and Project Manager</h3>
 
-Nikki Valens
+<p>Nikki Valens</p>
 
-### Scenario 20 Design
+<h3 id="scenario-20-design">Scenario 20 Design</h3>
 
-Misty Burgess
+<p>Misty Burgess</p>
 
-## Illustration
+<h2 id="illustration">Illustration</h2>
 
-### Cover, Character, and Monster Artist
+<h3 id="cover-character-and-monster-artist">Cover, Character, and Monster Artist</h3>
 
-Mofei Wang
+<p>Mofei Wang</p>
 
-### Map Artist
+<h3 id="map-artist">Map Artist</h3>
 
-Yannis Cardin
+<p>Yannis Cardin</p>
 
-### Art Directors
+<h3 id="art-directors">Art Directors</h3>
 
-BJ Hensley and Arch Anderson
+<p>BJ Hensley and Arch Anderson</p>
 
-## 3D Modeling
+<h2 id="3d-modeling">3D Modeling</h2>
 
-### Miniature Sculptors
+<h3 id="miniature-sculptors">Miniature Sculptors</h3>
 
-Chris Lewis
+<p>Chris Lewis</p>
 
-## Graphic Design
+<h2 id="graphic-design">Graphic Design</h2>
 
-### Lead Graphic Designer
+<h3 id="lead-graphic-designer">Lead Graphic Designer</h3>
 
-Arch Anderson
+<p>Arch Anderson</p>
 
-### Graphic Designer
+<h3 id="graphic-designer">Graphic Designer</h3>
 
-Jason D. Kingsley
+<p>Jason D. Kingsley</p>
 
-### Learn to Play Layout Artist
+<h3 id="learn-to-play-layout-artist">Learn to Play Layout Artist</h3>
 
-Jason D. Kingsley
+<p>Jason D. Kingsley</p>
 
-## Writing
+</td><td>
 
-### Narrative Writer
+<h2 id="writing">Writing</h2>
 
-Isaac Childres
+<h3 id="narrative-writer">Narrative Writer</h3>
 
-### Technical Writers
+<p>Isaac Childres</p>
 
-Nikki Valens, Isaac Childres, Jason D. Kingsley
+<h3 id="technical-writers">Technical Writers</h3>
 
-### Editor
+<p>Nikki Valens, Isaac Childres, Jason D. Kingsley</p>
 
-Jaym Gates
+<h3 id="editor">Editor</h3>
 
-## Production
+<p>Jaym Gates</p>
 
-### Executive Producer and Production Lead
+<h2 id="production">Production</h2>
 
-Price Johnson
+<h3 id="executive-producer-and-production-lead">Executive Producer and Production Lead</h3>
 
-## Playtesting
+<p>Price Johnson</p>
 
-### Playtest Coordinator
+<h2 id="playtesting">Playtesting</h2>
 
-Nikki Valens
+<h3 id="playtest-coordinator">Playtest Coordinator</h3>
 
-### Campaign Playtesters
+<p>Nikki Valens</p>
 
-Amr Ammourazz, Calvin Wong Tze Loon 黃子倫, David Gregg, Duncan Henry, Fiona van den Heiligenberg, Hong Di-Anne, Joseph Bozarth, Kyle Kemp, Larry, Braden, and Maks Marburger, Misty Burgess, Rachel Woodfint, Z Svela
+<h3 id="campaign-playtesters">Campaign Playtesters</h3>
 
-### Additional Playtesters
+<p>Amr Ammourazz, Calvin Wong Tze Loon 黃子倫, David Gregg, Duncan Henry, Fiona van den Heiligenberg, Hong Di-Anne, Joseph Bozarth, Kyle Kemp, Larry, Braden, and Maks Marburger, Misty Burgess, Rachel Woodfint, Z Svela</p>
 
-Alexander Norback, Alisandra Livingston, Andrew Brown, Ben Donovan, Brook Laing, Carl Skelton, Clay Kramer, Conrad Gregory Oakes, Corbin Neuhauser, Dan Sawade, Daniel J Burras, David Hodd, David Ross Pascoe, John Morgan, Joshua Ryan Jones, Joshua Trotta, Julian Naydichev, Julie Lauzon, Kelly Nulty, Mike Clemson, Mike Clinton, Nathan Moteberg, Nicole Koprince, Peter Koprince, Ragnar Sigurður Ragnarsson, Ryan Huntley, Samuel Muriello, Sean Lim
+</td><td>
 
-## Crowdfunding
+<h3 id="additional-playtesters">Additional Playtesters</h3>
 
-### Marketing and Crowdfunding Manager
+<p>Alexander Norback, Alisandra Livingston, Andrew Brown, Ben Donovan, Brook Laing, Carl Skelton, Clay Kramer, Conrad Gregory Oakes, Corbin Neuhauser, Dan Sawade, Daniel J Burras, David Hodd, David Ross Pascoe, John Morgan, Joshua Ryan Jones, Joshua Trotta, Julian Naydichev, Julie Lauzon, Kelly Nulty, Mike Clemson, Mike Clinton, Nathan Moteberg, Nicole Koprince, Peter Koprince, Ragnar Sigurður Ragnarsson, Ryan Huntley, Samuel Muriello, Sean Lim</p>
 
-Ross Thompson
+<h2 id="crowdfunding">Crowdfunding</h2>
 
-### Twitch Producer
+<h3 id="marketing-and-crowdfunding-manager">Marketing and Crowdfunding Manager</h3>
 
-Ruel Gaviola
+<p>Ross Thompson</p>
 
-### BackerKit
+<h3 id="twitch-producer">Twitch Producer</h3>
 
-## Special Thanks
+<p>Ruel Gaviola</p>
 
-“Thank you to my wife, Krista, who tirelessly supports my game design shenanigans.” —Joe Klipfel
+<h3 id="backerkit">BackerKit</h3>
+
+<h2 id="special-thanks">Special Thanks</h2>
+
+<p>“Thank you to my wife, Krista, who tirelessly supports my game design shenanigans.” —Joe Klipfel</p>
+
+</td></tr>
+</table>
+</div>
+
 
 ---
 
