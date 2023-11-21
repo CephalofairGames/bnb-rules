@@ -56,6 +56,7 @@ blockquote {
 
 .table-of-contents table, .table-of-contents td {
 	border: none;
+	vertical-align: top;
 }
 
 .table-of-contents h3, .table-of-contents h4 {
