@@ -59,6 +59,10 @@ blockquote {
 	vertical-align: top;
 }
 
+.table-of-contents td {
+	width: 33%;
+}
+
 .table-of-contents h3, .table-of-contents h4 {
 	font-size:14px;
 	font-weight:600;
