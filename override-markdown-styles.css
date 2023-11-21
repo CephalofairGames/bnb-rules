@@ -51,15 +51,17 @@ blockquote {
 }
 
 .table-of-contents {
-	padding-bottom: 15px
+	font-size:12px;
+	padding-bottom: 15px;
 }
 
 .table-of-contents h3, .table-of-contents h4 {
-	margin-bottom: 8px
+	font-size:16px;
+	margin: 0px;
 }
 
 .table-of-contents ul {
-	list-style-type: none
+	list-style-type: none;
 }
 
 .float-container {
