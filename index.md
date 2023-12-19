@@ -8,11 +8,25 @@
 
 This light weight rules resource for *Gloomhaven: Buttons & Bugs* is intended to be easy to access, search, and print. It is updated with any corrections and errata.
 
-Last updated 11/09/2023
+Last updated 12/19/2023
 
 For more resources, visit [cephalofair.com/bnb](https://cephalofair.com/bnb)
 
 © 2023 Cephalofair Games, LLC. All Rights Reserved.
+
+### Continuing to Learn and Play
+
+Using what you learned in the Learn to Play, you should be able to play the entirity of scenario 1. After finishing the scenario, you can review what you've learned here in the full rules.
+
+There are a few concepts not covered by the Learn to Play that you will want to take special notice of:
+
+- Items [p.26](#page_26), [35](#page_35)
+- Recover [p.24](#page_24)
+- Scenario Effects [p.7](#page_7), [8](#page_8)
+- Terrain [p.9](#page_9)
+- Upgraded Abilities [p.35](#page_35)
+
+Good luck, adventurer!
 
 ---
 
@@ -770,7 +784,7 @@ An ability card has the following:
 
 <span class="new-to-bnb">Each scenario card includes two item entries, shown above and below the scenario entry.</span> Items offer a wide variety of bonuses and extra abilities that can be used in addition to your normal two actions per round.
 
-![component breakdown of item entry on scenario card](/assets/diagrams/component_diagram_item.png)
+![component breakdown of item entry on scenario card](/assets/diagrams/component_diagram_items.png)
 
 An item entry has the following:
 
