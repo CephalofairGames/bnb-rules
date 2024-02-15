@@ -1121,6 +1121,9 @@ Each monster performs all of its abilities from top to bottom (move, attack, and
 ### Attacks and Damage
 
 - A separate attack modifier is rolled for each target of an attack ability.
+
+> - The attack modifier tracking cube should be moved after each attack, including after each individual roll when attacking multiple targets.
+
 - A shield bonus only reduces damage from attacks, not from other sources, but the bonus applies to all incoming attacks while active.
 - Even if an attack deals no damage (e.g., when a <img src="assets/icons/modifier_miss.png" class="inline-element"/> modifier is rolled), all added effects of the attack are still applied.
 
@@ -1148,6 +1151,8 @@ Each monster performs all of its abilities from top to bottom (move, attack, and
 
 > - Infused elements are available as soon as their icon is visible on a chosen ability card, an ability card in your hand or active area, or on a rolled monster action.
 > - An infused element is immediately unavailable if the ability card it is visible on is flipped, discarded, or lost. An infused element visible on a rolled monster action is no longer available as soon as all monsters of that type are killed.
+
+- When a monster type consumes an element, all monsters of the type gain the benefits of the consumption.
 
 ### Scenario Details
 
