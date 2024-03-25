@@ -799,7 +799,7 @@ An item entry has the following:
 
 All items you bring into a scenario are placed below your character card and can be used as specified in the item entry.
 
-You can use any item as long as it is available, but you can only bring a limited number of items into a scenario. You can bring up to two <img src="assets/icons/equip_single_hand.png" class="inline-icon"/> items or one <img src="assets/icons/equip_dual_hand.png" class="inline-icon"/> item, and a number of <img src="assets/icons/equip_item.png" class="inline-icon"/> items up to half the scenario level (rounded up).
+You can use any item as long as it is available (see <a href="#page_35">p.35</a>), but you can only bring a limited number of items into a scenario. You can bring up to two <img src="assets/icons/equip_single_hand.png" class="inline-icon"/> items or one <img src="assets/icons/equip_dual_hand.png" class="inline-icon"/> item, and a number of <img src="assets/icons/equip_item.png" class="inline-icon"/> items up to half the scenario level (rounded up).
 
 #### Item Usage
 
@@ -1226,9 +1226,7 @@ Each monster performs all of its abilities from top to bottom (move, attack, and
 
 # Appendix E: Index
 
-### A
-
-Ability xx, xx–xx, xx
+Index is currently not written. Will be added in future.
 
 ---
 
