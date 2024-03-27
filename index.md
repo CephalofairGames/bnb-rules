@@ -8,7 +8,7 @@
 
 This light weight rules resource for *Gloomhaven: Buttons & Bugs* is intended to be easy to access, search, and print. It is updated with any corrections and errata.
 
-Last updated 03/25/2024
+Last updated 03/26/2024
 
 For more resources, visit [cephalofair.com/bnb](https://cephalofair.com/bnb)
 
@@ -1432,7 +1432,7 @@ Index is currently not written. Will be added in future.
 | :---                      |:---:|:---:|:---:|:---:|:---:|
 |	Upgraded Ability Cards	  |	0	|	1	|	2	|	3	|	4	|
 |	Character Modifier Level	|	1	|	2	|	3	|	4	|	5	|
-|	Items	                    |	1	|	1	|	2	|	2	|	3	|
+|	<img src="assets/icons/equip_item.png" class="inline-icon"/> Items	                    |	1	|	1	|	2	|	2	|	3	|
 
 - The monster modifier difficulty remains at “standard” throughout the entire campaign, but this difficulty can be increased or decreased to affect monster difficulty as desired.
 
