@@ -8,7 +8,7 @@
 
 This light weight rules resource for *Gloomhaven: Buttons & Bugs* is intended to be easy to access, search, and print. It is updated with any corrections and errata.
 
-Last updated 03/26/2024
+Last updated 03/30/2024
 
 For more resources, visit [cephalofair.com/bnb](https://cephalofair.com/bnb)
 
@@ -855,7 +855,7 @@ When you would suffer any amount of damage, you must either reduce your hit poin
 > - **Card Loss:** You may negate damage by discarding or losing cards in one of three ways:
 >   - **Discard** one A-side card of your choice from your **hand**.
 >   - **Discard** two B-side cards of your choice from your **hand**.
->   - **Lose** one card of your choice from your **discard pile**.
+>   - **Lose** one card of your choice from your **hand or discard pile**.
 
 If you have not yet taken your turn, the cards you selected during the Card Selection step are not in your hand or discard pile and therefore cannot be discarded or lost to negate the damage.
 
@@ -1130,7 +1130,7 @@ Each monster performs all of its abilities from top to bottom (move, attack, and
 > - You may negate all damage from one source by discarding or losing cards in one of three ways:
 >   - **Discard** one A-side card of your choice from your **hand**.
 >   - **Discard** two B-side cards of your choice from your **hand**.
->   - **Lose** one card of your choice from your **discard pile**.
+>   - **Lose** one card of your choice from your **hand or discard pile**.
 
 ### Monsters
 
