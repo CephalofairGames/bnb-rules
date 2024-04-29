@@ -8,11 +8,11 @@
 
 This light weight rules resource for *Gloomhaven: Buttons & Bugs* is intended to be easy to access, search, and print. It is updated with any corrections and errata.
 
-Last updated 03/30/2024
+Last updated 04/29/2024
 
 For more resources, visit [cephalofair.com/bnb](https://cephalofair.com/bnb)
 
-© 2023 Cephalofair Games, LLC. All Rights Reserved.
+© 2024 Cephalofair Games, LLC. All Rights Reserved.
 
 ### Continuing to Learn and Play
 
@@ -149,7 +149,7 @@ Good luck, adventurer!
 <p>Appendix B: Monster Turn Guide <a href="#page_37">p.37</a></p>
 <p>Appendix C: Important Reminders <a href="#page_38">p.38</a></p>
 <p>Appendix D: Item Index <a href="#page_39">p.39</a></p>
-<p>Appendix E: Index <a href="#page_40">p.40</a></p>
+<p>Appendix E: Component Errata <a href="#page_40">p.40</a></p>
 
 <h4 id="credits-p41">Credits <a href="#page_41">p.41</a></h4>
 
@@ -324,14 +324,12 @@ A hex with no terrain outline is considered **featureless**. A hex with no figur
   <p>A pressure plate’s trigger and all of its effects are defined in the special rules for the scenario. Pressure plates are considered empty hexes.</p>
 </div>
 
-> #### Objectives
+#### Objectives
 
-<blockquote>
-  <div class="float-container">
-    <span class="floating-image"><img src="assets/icons/terrain_objective.png" height="48"/></span>
-    <p>An objective, when present, is important to the goal of a scenario; an objective is a physical object (such as a bell) which needs to be attacked or protected. Objectives can be targeted by attacks, but are immune to damage, all conditions, and forced movement. Objectives are otherwise considered to be and treated as obstacles. The special rules for the scenario will describe how the objective relates to the scenario’s goal.</p>
-  </div>
-</blockquote>
+<div class="float-container">
+	<span class="floating-image"><img src="assets/icons/terrain_objective.png" height="48"/></span>
+	<p>Objectives are tied to the goals of some scenarios and typically need to be attacked or protected. Objectives can be targeted by attacks, but are immune to all conditions, and forced movement. Objectives are considered to have initiative 99 for the purpose of focusing, unless otherwise stated by the special rules for the scenario, but do not take turns. Objectives are considered figures, and the hexes they are in are considered occupied. Objectives are not considered obstacles. The special rules for the scenario will describe how the objective relates to the scenario’s goal.</p>
+</div>
 
 ---
 
@@ -658,7 +656,7 @@ A single heal can remove any combination of wound and poison from a figure. Howe
 
 ### Active Bonuses
 
-An active bonus ability is any ability that provides an active bonus to a figure or their allies. When a character performs an active bonus ability, the card is placed in their active area to track the bonus. Cards in a character’s active area are not considered to be in their hand.
+An active bonus ability is any ability that provides an active bonus to a figure or their allies. When a character performs an active bonus ability, the card is placed in their active area to track the bonus.
 
 > Active bonus abilities have icons to indicate the duration of the bonuses they provide. When a bonus expires, even if the action has other active bonus abilities, the card is removed from the character’s active area; an A-side card is flipped to its B-side and returned to your hand, a B-side card is placed in your discard pile, or the card is placed in your lost pile if the action has a lost icon (see [p.28](#page_28)).
 
@@ -666,10 +664,9 @@ An active bonus ability is any ability that provides an active bonus to a figure
 
 <img src="assets/icons/use_persistent_bonus.png" class="inline-icon"/> **Persistent Bonuses:** These bonuses activate when the ability is performed and expire when the specified removal condition has been fulfilled.
 
-A character may voluntarily remove a card with a persistent bonus (but not a round bonus) from their active area before the bonus expires, but doing so removes the bonus. This can be done at any time except during another ability.
+A character may voluntarily remove a card with a persistent bonus (but not a round bonus) from their active area before the bonus expires, but doing so removes the bonus. This can be done at any time except during another ability. Because cards with persistent bonuses in your active area can be dismissed, you can consider them to be in the zone they will be moved to once dismissed; that is the hand for A-side cards, the discard pile for B-side cards, or the lost pile for any card with a lost icon. As such, cards with persistent bonuses in your active area can count toward the two cards in your hand and/or discard pile required to rest (see [p.27](#page_27)). Likewise, they can be dismissed and then discarded or lost to negate damage (see [p.28](#page_28)). When you recover discarded cards (by resting, for example) or lost cards (through special actions), you have the choice of recovering cards in your active area or leaving them in the active area.
 
-Actions with active bonus abilities might also have other abilities, but these other abilities are only performed when the card is played.
-There is a wide variety of active bonus abilities. While these abilities are usually defined by text, there are two common ones with additional rules.
+Actions with active bonus abilities might also have other abilities, but these other abilities are only performed when the card is played. There is a wide variety of active bonus abilities. While these abilities are usually defined by text, there are two common ones with additional rules.
 
 ---
 
@@ -824,7 +821,7 @@ Mandatory triggers are effects or abilities which cannot be skipped if any part 
 
 ### Resting
 
-Resting is the main way to retrieve cards from your discard pile. You have two options: a short rest or a long rest. <span class="new-to-bnb">In both cases, the rest can only be performed if you have at least two cards in your hand and/or discard pile.</span> Resting always results in losing one card.
+Resting is the main way to retrieve cards from your discard pile. You have two options: a short rest or a long rest. <span class="new-to-bnb">In both cases, the rest can only be performed if you have at least two cards in your hand and/or discard pile. (This includes B-side cards with persistent bonuses in your active area (see <a href="#page_21">p.21</a>).</span> Resting always results in losing one card.
 
 During the End of Round step (see [p.33](#page_33)), you may perform a short rest. <span class="new-to-bnb">When you short rest, return all cards from your discard pile to your hand and flip all B-side cards in your hand to their A-side, then lose one card at random from your hand.</span> If you would like to keep the card that was lost, you can suffer 1 damage to lose a different random card instead, but this can only be done once per short rest.
 
@@ -916,13 +913,13 @@ All monsters of each type act based on the initiative value rolled for their typ
 
 > Because Buttons & Bugs is a solo game, you are the sole focus of the monsters. They will target you with all attacks and negative targeted abilities.
 
-For a melee attack, the monster identifies the shortest possible path to a hex from which it can perform the attack. For a ranged attack, the monster identifies the shortest possible path to a hex from which it can perform the ranged attack within the specified range. If the monster cannot attack on its turn, either because it does not have an attack ability or because it is disarmed, it moves as if for a single-target melee attack.
+The monster identifies the closest hex from which it can perform its attack abilities; this is called its "attack hex." If the monster cannot attack on its turn, either because it does not have an attack ability or because it is disarmed, it moves as if for a single-target melee attack. The monster follows the shortest path to its attack hex. If it can't reach the attack hex this turn, it will take the shortest path which brings it as close as possible to the attack hex. If it can't get closer to the attack hex this turn, it will not move.
 
-Determining the shortest possible path takes into consideration the effects of difficult terrain.
+"Closest" and "shortest" mean using the fewest movement points to navigate around obstacles and hazards (if possible) and/or through difficult terrain using the normal, jumping, and flying movement rules.
 
 #### Path Priority
 
-Monsters always prioritize a path that includes the fewest hazards, even when that means not maximizing targets. Monsters only path through hazards when there is no other viable path to attack an enemy. For example, if a monster could attack by moving two hexes through a hazard hex or by moving 10 hexes and avoiding the hazard, it would take the 10-hex path. It does not matter whether the monster can actually reach the end of the path on its current turn.
+Monsters always prioritize a path that triggers the fewest hazards, even when that means not maximizing targets. Monsters only trigger hazards when there is no other viable path to attack an enemy. For example, if a monster could attack by moving two hexes through a hazard hex or by moving 10 hexes and avoiding the hazard, it would take the 10-hex path. It does not matter whether the monster can actually reach the end of the path on its current turn.
 
 #### No Focus
 
@@ -1224,9 +1221,13 @@ Each monster performs all of its abilities from top to bottom (move, attack, and
 
 ---
 
-# Appendix E: Index
+# Appendix E: Component Errata
 
-Index is currently not written. Will be added in future.
+The following is a complete list of all component errata. If a discrepency exists between a physical copy of the game and these errata, the game should be played as if the physical components match the description here.
+
+### Ability Cards
+
+- **Freeezing Vortex** – The first ability of the bottom action should read as follows: "<img src="assets/icons/condition_push.png" class="inline-condition"/> 3 <img src="assets/icons/ability_target.png" class="inline-icon"/> all enemies within <img src="assets/icons/ability_range.png" class="inline-icon"/> 4". The range was misprinted as 2 in the first printing.
 
 ---
 
