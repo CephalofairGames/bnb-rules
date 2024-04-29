@@ -830,6 +830,8 @@ During the Card Selection step (see [p.10](#page_10)), you may declare a long re
 1. Perform "**Heal 2, self**" (optional).
 1. Recover all of your spent items (optional). Items can be used during the same turn in which they are recovered.
 
+If, on your turn, you no longer meet the requirements to long rest (having at least two cards in your hand and/or discard pile), the long rest fails and you are immediately exhausted (see [p.28](#page_28)).
+
 ---
 
 <p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_28" class="page-number">28</a></p>
