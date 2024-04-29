@@ -830,7 +830,7 @@ During the Card Selection step (see [p.10](#page_10)), you may declare a long re
 1. Perform "**Heal 2, self**" (optional).
 1. Recover all of your spent items (optional). Items can be used during the same turn in which they are recovered.
 
-If, on your turn, you no longer meet the requirements to long rest (having at least two cards in your hand and/or discard pile), the long rest fails and you are immediately exhausted (see [p.28](#page_28)).
+You must lose a card as part of resting. If there are no other cards in your hand to lose, you must instead lose one of the cards in the active area that does not have the lost icon. If there are no cards in the active area that can be lost either, resolve the other steps of the rest and check for exhaustion as the start of the next round as normal.
 
 ---
 
@@ -864,7 +864,7 @@ Even if the damage is negated, effects or conditions from the source of damage a
 
 You can become exhausted in two ways:
 - **No Hit Points:** If you reach zero on your hit point dial.
-- **No Cards:** If you do not have at least two cards in your hand (to play) or at least two cards in your hand and discard pile (to rest) at the start of a round.
+- **No Cards:** If you do not have at least two cards in your hand (to play) or at least two cards in your hand and/or discard pile (to rest) at the start of a round.
 
 If you become exhausted, you lose the scenario.
 
