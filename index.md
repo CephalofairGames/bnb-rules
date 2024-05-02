@@ -16,7 +16,7 @@ For more resources, visit [cephalofair.com/bnb](https://cephalofair.com/bnb)
 
 ### Continuing to Learn and Play
 
-Using what you learned in the Learn to Play, you should be able to play the entirity of scenario 1. After finishing the scenario, you can review what you've learned here in the full rules.
+Using what you learned in the Learn to Play, you should be able to play the entirety of scenario 1. After finishing the scenario, you can review what you've learned here in the full rules.
 
 There are a few concepts not covered by the Learn to Play that you will want to take special notice of:
 
