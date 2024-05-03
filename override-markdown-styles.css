@@ -40,7 +40,7 @@ blockquote {
 	padding-bottom: 15px;
 }
 
-.two-columns table, .three-columns td {
+.two-columns table, .two-columns td {
 	border: none;
 	vertical-align: top;
 }
@@ -49,7 +49,7 @@ blockquote {
 	width: 50%;
 }
 
-.two-columns h3, .three-columns h4 {
+.two-columns h3, .two-columns h4 {
 	font-size:16px;
 	font-weight:600;
 	margin-top: 8px;
@@ -63,11 +63,13 @@ blockquote {
 
 .two-columns ol {
 	font-size:14px;
+	text-indent:2em;
 	margin: 0px;
 }
 
 .two-columns ul {
 	font-size:14px;
+	text-indent:2em;
 	margin: 0px;
 }
 
