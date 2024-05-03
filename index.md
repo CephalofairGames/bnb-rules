@@ -8,7 +8,7 @@
 
 This light weight rules resource for *Gloomhaven: Buttons & Bugs* is intended to be easy to access, search, and print. It is updated with any corrections and errata.
 
-Last updated 04/29/2024
+Last updated 05/02/2024
 
 For more resources, visit [cephalofair.com/bnb](https://cephalofair.com/bnb)
 
@@ -1360,74 +1360,103 @@ The following is a complete list of all component errata. If a discrepency exist
 
 # Quick Reference
 
-### Beginning a Scenario ([p.7](#page_7))
+<div class="two-columns">
+<table>
+<tr><td>
 
-1. Select a scenario.
-1. Read the scenario entry.
-1. Retrieve all monsters for the scenario.
-1. Resolve scenario effects and flip to the map side.
-1. Place monster cards in their respective trays.
-1. Place monster cubes and character mini.
-1. Set character level and monster difficulty.
-1. Place conditions nearby.
-1. Select which items to bring.
-1. Select upgraded ability cards.
-1. Set all hit point values to maximum.
-1. Apply any remaining scenario effects.
+<h3>Beginning a Scenario (<a href="#page_7">p.7</a>)</h3>
 
-### Scenario Phase ([p.6](#page_6))
+<ol>
+<li>Select a scenario.</li>
+<li>Read the scenario entry.</li>
+<li>Retrieve all monsters for the scenario.</li>
+<li>Resolve scenario effects and flip to the map side.</li>
+<li>Place monster cards in their respective trays.</li>
+<li>Place monster cubes and character mini.</li>
+<li>Set character level and monster difficulty.</li>
+<li>Place conditions nearby.</li>
+<li>Select which items to bring.</li>
+<li>Select upgraded ability cards.</li>
+<li>Set all hit point values to maximum.</li>
+<li>Apply any remaining scenario effects.</li>
+</ol>
 
-1. Start of Round Effects
-1. Card Selection
-1. Ordering of Initiative
-1. Character and Monster Turns
-1. End of Round
+<h3>Scenario Phase (<a href="#page_6">p.6</a>)</h3>
 
-### Targeted Abilities ([p.13](#page_13))
+<ol>
+<li>Start of Round Effects</li>
+<li>Card Selection</li>
+<li>Ordering of Initiative</li>
+<li>Character and Monster Turns</li>
+<li>End of Round</li>
+</ol>
 
-- Attack ([p.18](#page_18))
-- Conditions ([p.20](#page_20))
-- Heal ([p.21](#page_21))
-- Forced Movement ([p.23](#page_23))
-- Controlling Monsters ([p.24](#page_24))
+<h3>Targeted Abilities (<a href="#page_13">p.13</a>)</h3>
 
-### Attack Modification Order ([p.18](#page_18))
+<ul>
+<li>Attack (<a href="#page_18">p.18</a>)</li>
+<li>Conditions (<a href="#page_20">p.20</a>)</li>
+<li>Heal (<a href="#page_21">p.21</a>)</li>
+<li>Forced Movement (<a href="#page_23">p.23</a>)</li>
+<li>Controlling Monsters (<a href="#page_24">p.24</a>)</li>
+</ul>
 
-1. Apply all attack bonuses and penalties.
-1. Roll and apply an attack modifier card.
-1. Apply the target's shield bonus.
+</td><td>
 
-### End of Round ([p.33](#page_33))
+<h3>Attack Modification Order (<a href="#page_18">p.18</a>)</h3>
 
-1. Trigger any end-of-round effects.
-1. Remove all round bonuses from your active area.
-1. Perform a short rest if desired.
+<ol>
+<li>Apply all attack bonuses and penalties.</li>
+<li>Roll and apply an attack modifier card.</li>
+<li>Apply the target's shield bonus.</li>
+</ol>
 
-### Ending a Scenario ([p.34](#page_34))
+<h3>End of Round (<a href="#page_33">p.33</a>)</h3>
 
-#### Whether the Scenario was Lost or Completed:
+<ol>
+<li>Trigger any end-of-round effects.</li>
+<li>Remove all round bonuses from your active area.</li>
+<li>Perform a short rest if desired.</li>
+</ol>
 
-- Recover all discarded and lost items and ability cards.
-- Reset character health dial to maximum.
-- Remove all conditions.
+<h3>Ending a Scenario (<a href="#page_34">p.34</a>)</h3>
 
-#### If the Scenario was Lost:
+<h4>Whether the Scenario was Lost or Completed:</h4>
 
-- Replay the scenario.
+<ul>
+<li>Recover all discarded and lost items and ability cards.</li>
+<li>Reset character health dial to maximum.</li>
+<li>Remove all conditions.</li>
+</ul>
 
-#### If the Scenario was Completed:
+<h4>If the Scenario was Lost:</h4>
 
-- Read the scenario conclusion.
-- Scenario indicates which scenario to play next.
+<ul>
+<li>Replay the scenario.</li>
+</ul>
 
-### Timing of Attack Effects
+<h4>If the Scenario was Completed:</h4>
 
-- +X Attack ([p.18](#page_18)) – during damage resolution
-- Pierce ([p.19](#page_19)) – during damage resolution
-- +X Target ([p.13](#page_13)) – after the attack resolves
-- Conditions ([p.20](#page_20)) – after the attack resolves
-- Forced Movement ([p.23](#page_23)) – after the attack resolves
-- Other Added Effects ([p.19](#page_19)) – after the attack resolves
+<ul>
+<li>Read the scenario conclusion.</li>
+<li>Scenario indicates which scenario to play next.</li>
+</ul>
+
+<h3>Timing of Attack Effects</h3>
+
+<ul>
+<li>+X Attack (<a href="#page_18">p.18</a>) – during damage resolution</li>
+<li>Pierce (<a href="#page_19">p.19</a>) – during damage resolution</li>
+<li>+X Target (<a href="#page_13">p.13</a>) – after the attack resolves</li>
+<li>Conditions (<a href="#page_20">p.20</a>) – after the attack resolves</li>
+<li>Forced Movement (<a href="#page_23">p.23</a>) – after the attack resolves</li>
+<li>Other Added Effects (<a href="#page_19">p.19</a>) – after the attack resolves</li>
+</ul>
+
+</td></tr>
+</table>
+</div>
+
 
 ### Scenario Level ([p.8](#page_8))
 
