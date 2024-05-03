@@ -36,6 +36,35 @@ blockquote {
 
 .page-number { font-weight:700 }
 
+.two-columns {
+	padding-bottom: 15px;
+}
+
+.two-columns table, .three-columns td {
+	border: none;
+	vertical-align: top;
+}
+
+.two-columns td {
+	width: 50%;
+}
+
+.two-columns h3, .three-columns h4 {
+	font-size:16px;
+	font-weight:600;
+	margin-top: 8px;
+	margin-bottom: 0px;
+}
+
+.two-columns p {
+	font-size:14px;
+	margin: 0px;
+}
+
+.two-columns ul {
+	list-style-type: none;
+}
+
 .three-columns {
 	padding-bottom: 15px;
 }
