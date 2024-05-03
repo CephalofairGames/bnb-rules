@@ -63,13 +63,13 @@ blockquote {
 
 .two-columns ol {
 	font-size:14px;
-	text-indent:2em;
+	list-style-position: inside;
 	margin: 0px;
 }
 
 .two-columns ul {
 	font-size:14px;
-	text-indent:2em;
+	list-style-position: inside;
 	margin: 0px;
 }
 
