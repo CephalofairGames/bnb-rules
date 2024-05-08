@@ -1232,6 +1232,10 @@ The following is a complete list of all component errata. If a discrepency exist
 
 - **Freeezing Vortex** – The first ability of the bottom action should read as follows: "<img src="assets/icons/condition_pull.png" class="inline-condition"/> 3 <img src="assets/icons/ability_target.png" class="inline-icon"/> all enemies within <img src="assets/icons/ability_range.png" class="inline-icon"/> 4". The range was misprinted as 2 in the first printing.
 
+### Monster Cards
+
+- **Earth Demon** — The second action contains an erroneous unicode box following the element consumtion in the first printing. This box should simply be ignored.
+
 ---
 
 <p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_41" class="page-number">41</a></p>
