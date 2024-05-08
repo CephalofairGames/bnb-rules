@@ -1230,7 +1230,7 @@ The following is a complete list of all component errata. If a discrepency exist
 
 ### Ability Cards
 
-- **Freeezing Vortex** – The first ability of the bottom action should read as follows: "<img src="assets/icons/condition_pull.png" class="inline-condition"/> 3 <img src="assets/icons/ability_target.png" class="inline-icon"/> all enemies within <img src="assets/icons/ability_range.png" class="inline-icon"/> 4". The range was misprinted as 2 in the first printing.
+- **Freeezing Vortex** — The first ability of the bottom action should read as follows: "<img src="assets/icons/condition_pull.png" class="inline-condition"/> 3 <img src="assets/icons/ability_target.png" class="inline-icon"/> all enemies within <img src="assets/icons/ability_range.png" class="inline-icon"/> 4". The range was misprinted as 2 in the first printing.
 
 ### Monster Cards
 
