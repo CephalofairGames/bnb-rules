@@ -8,7 +8,7 @@
 
 This light weight rules resource for *Gloomhaven: Buttons & Bugs* is intended to be easy to access, search, and print. It is updated with any corrections and errata.
 
-Last updated 05/02/2024
+Last updated 05/08/2024
 
 For more resources, visit [cephalofair.com/bnb](https://cephalofair.com/bnb)
 
@@ -496,7 +496,7 @@ More complex added effects might be written below the ability, but not all text 
 > 
 > Infused elements can be consumed to add effects to certain abilities or, in some cases, perform new abilities. This is represented by an element icon marked with <img src="assets/icons/element_spent.png" class="inline-icon"/> and followed by the added effect. If that element is available, it can be consumed. Whenever an infused element is consumed, you must remember that it cannot be consumed again until the next round. (You might wish to mark this with a spare cube, condition token, or other small object to help you remember.)
 > 
-> If an ability depicts multiple separate elemental consumptions, the acting figure chooses which ones to activate. If a single elemental consumption depicts multiple elements, all of those elements must be consumed to activate it. Each instance of an infused element can be consumed no more than once per round.
+> If an ability depicts multiple separate elemental consumptions, the acting figure chooses which ones to activate. If a single elemental consumption depicts multiple elements, all of those elements must be consumed to activate it. Multiple instances of each element can be infused at once, but each instance of an infused element can be consumed no more than once per round.
 > 
 > <img src="assets/icons/element_wild.png" class="inline-element"/> The wild icon represents any one of the six elements (but not all of them). An added effect that requires consuming a wild element can be paid for by consuming any single infused element. A wild element infusion can be consumed as if it were any one of the six elements.
 > 
@@ -1150,6 +1150,7 @@ Each monster performs all of its abilities from top to bottom (move, attack, and
 
 > - Infused elements are available as soon as their icon is visible on a chosen ability card, an ability card in your hand or active area, or on a rolled monster action.
 > - An infused element is immediately unavailable if the ability card it is visible on is flipped, discarded, or lost. An infused element visible on a rolled monster action is no longer available as soon as all monsters of that type are killed.
+> - Multiple instances of each element can be infused at once, but each instance of an infused element can be consumed no more than once per round.
 
 - When a monster type consumes an element, all monsters of the type gain the benefits of the consumption.
 
