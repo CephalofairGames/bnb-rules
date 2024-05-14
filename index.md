@@ -28,6 +28,7 @@ There are a few concepts not covered by the Learn to Play that you will want to 
 
 Good luck, adventurer!
 
+<div style="page-break-after: always"></div>
 ---
 
 <p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_2" class="page-number">2</a></p>
@@ -159,6 +160,7 @@ Good luck, adventurer!
 </table>
 </div>
 
+<div style="page-break-after: always"></div>
 ---
 
 <p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_3" class="page-number">3</a></p>
@@ -173,6 +175,7 @@ There are six character classes to choose from, each with their own unique abili
 
 This document will provide you with details on how to play the game, but if you played another Gloomhaven game, many of these rules will be familiar. We suggest reading all the way through anyways to get a full understanding of how the game works. <span class="new-to-bnb">Rules text highlighted in lavender is information unique to the Buttons & Bugs system and is different from Gloomhaven and Frosthaven.</span>
 
+<div style="page-break-after: always"></div>
 ---
 
 <p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_4" class="page-number">4</a></p>
@@ -192,6 +195,7 @@ You will need to gather the following components for your chosen character to pl
 - **Advanced Attack Modifier Cards:** Two double-sided cards to upgrade your attack modifier table at later levels.
 - **Character Hit Point Dial:** This is to track your hit points during a scenario.
 
+<div style="page-break-after: always"></div>
 ---
 
 <p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_5" class="page-number">5</a></p>
@@ -206,6 +210,7 @@ Now that you’ve chosen a character, it is time to learn the rules. If you woul
 
 Most of the rules of this game focus on how you play through a scenario. Since this is intended to be a campaign game, where you play through a series of scenarios in order, there will be some explanation of how to do that after the basic rules.
 
+<div style="page-break-after: always"></div>
 ---
 
 <p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_6" class="page-number">6</a></p>
@@ -222,6 +227,7 @@ Each Scenario Phase consists of three distinct steps:
 - **Playing a Scenario:** The scenario is played over a series of rounds. During each round, all figures on the map, both your character and the monsters, will take a turn. You will play through round after round until the scenario is lost or completed.
 - **Ending a Scenario:** In this step, you will resolve the effects of losing or completing the scenario.
 
+<div style="page-break-after: always"></div>
 ---
 
 <p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_7" class="page-number">7</a></p>
@@ -245,6 +251,7 @@ Each Scenario Phase consists of three distinct steps:
 > 1. Set the character hit point dial to your character’s maximum hit point value, which is shown below the scenario level in the chart at the bottom of your character card. Set each monster’s corresponding colored hit point dial to their respective maximum hit points.
 > 1. Apply any remaining scenario effects.
 
+<div style="page-break-after: always"></div>
 ---
 
 <p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_8" class="page-number">8</a></p>
@@ -283,6 +290,7 @@ Each Scenario Phase consists of three distinct steps:
   </ol>
 </blockquote>
 
+<div style="page-break-after: always"></div>
 ---
 
 <p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_9" class="page-number">9</a></p>
@@ -331,6 +339,7 @@ A hex with no terrain outline is considered **featureless**. A hex with no figur
 	<p>Objectives are tied to the goals of some scenarios and typically need to be attacked or protected. Objectives can be targeted by attacks, but are immune to all conditions, and forced movement. Objectives are considered to have initiative 99 for the purpose of focusing, unless otherwise stated by the special rules for the scenario, but do not take turns. Objectives are considered figures, and the hexes they are in are considered occupied. Objectives are not considered obstacles. The special rules for the scenario will describe how the objective relates to the scenario’s goal.</p>
 </div>
 
+<div style="page-break-after: always"></div>
 ---
 
 <p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_10" class="page-number">10</a></p>
@@ -357,6 +366,7 @@ After all start-of-round effects are applied, select two ability cards from your
 
 Alternatively, if you have at least two cards in your hand and/or discard pile, you can instead declare a long rest at this time (see [p.27](#page_27)). You will perform your long rest on initiative 99 as your entire turn for the round and will not play any cards.
 
+<div style="page-break-after: always"></div>
 ---
 
 <p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_11" class="page-number">11</a></p>
@@ -377,6 +387,7 @@ If there is a tie in initiative between you and a monster, you act first.
 
 Each monster takes its turn based on initiative order. All monsters of a single type take their turns at the same initiative in ascending numeric order (see [p.30](#page_30)).
 
+<div style="page-break-after: always"></div>
 ---
 
 <p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_12" class="page-number">12</a></p>
@@ -409,6 +420,7 @@ Abilities in an action are always performed in the order they are written. Figur
 
 Character abilities can be skipped, unless they are mandatory (see [p.27](#page_27)).
 
+<div style="page-break-after: always"></div>
 ---
 
 <p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_13" class="page-number">13</a></p>
@@ -435,6 +447,7 @@ In general, negative abilities can only target enemies, and positive abilities c
 
 If any ability specifies the target as "self," the effect can only be applied to the acting figure.
 
+<div style="page-break-after: always"></div>
 ---
 
 <p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_14" class="page-number">14</a></p>
@@ -465,6 +478,7 @@ Abilities with an area of effect allow the acting figure to target multiple hexe
 
 If an ability with an area of effect gains "**+1** <img src="assets/icons/ability_target.png" class="inline-icon"/>," an additional figure within the ability’s range, but outside the area of effect, can be targeted. This does not mean that the entire area of effect can be applied again, however; only one additional hex may be targeted.
 
+<div style="page-break-after: always"></div>
 ---
 
 <p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_15" class="page-number">15</a></p>
@@ -479,6 +493,7 @@ Added effects can be skipped, but you must choose to do so before rolling an att
 
 More complex added effects might be written below the ability, but not all text below an ability is an added effect. Any text that provides rules for how the ability is performed (e.g., a targeting restriction) is an inherent part of the ability, not an added effect, and cannot be skipped.
 
+<div style="page-break-after: always"></div>
 ---
 
 <p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_16" class="page-number">16</a></p>
@@ -502,6 +517,7 @@ More complex added effects might be written below the ability, but not all text 
 > 
 > <img src="assets/icons/element_fire_ice.png" class="inline-element"/> A mixed element icon, which depicts two elements within the same border, represents one of those two elements (but not both of them). An added effect that requires consuming a mixed element can be paid for by consuming a single infused element of the indicated element pair. A mixed element infusion can be consumed as if it were either of the two elements.
 
+<div style="page-break-after: always"></div>
 ---
 
 <p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_17" class="page-number">17</a></p>
@@ -527,6 +543,7 @@ Difficult terrain is ignored completely when jumping.
 
 <img src="assets/icons/ability_flight.png" class="inline-icon"/> "**Flying**" is an active bonus (see [p.21](#page_21)). Flying allows a figure to completely ignore all enemies, obstacles, objectives, and hazards, including in the last hex. However, a flying figure still cannot end their movement in a hex occupied by another figure (and vice versa).
 
+<div style="page-break-after: always"></div>
 ---
 
 <p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_18" class="page-number">18</a></p>
@@ -572,6 +589,7 @@ These steps are repeated for each individual target of the attack ability, which
   </ol>
 </quoteblock>
 
+<div style="page-break-after: always"></div>
 ---
 
 <p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_19" class="page-number">19</a></p>
@@ -602,6 +620,7 @@ Any ranged attack on an adjacent enemy automatically gains disadvantage.
 
 <img src="assets/icons/condition_pierce.png" class="inline-condition"/> "**Pierce X**" is an added effect that reduces the target’s shield bonus (see [p.22](#page_22)) by X. Multiple "<img src="assets/icons/condition_pierce.png" class="inline-condition"/> **X**" effects can be combined. For example, if an attack with "<img src="assets/icons/condition_pierce.png" class="inline-condition"/> **2**" gains "<img src="assets/icons/condition_pierce.png" class="inline-condition"/> **3**," the effect would reduce the target’s shield bonus by 5 for that attack.
 
+<div style="page-break-after: always"></div>
 ---
 
 <p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_20" class="page-number">20</a></p>
@@ -638,6 +657,7 @@ A condition effect can also be added to other abilities as an added effect, caus
 
 <img src="assets/icons/condition_muddle.png" class="inline-condition"/> **Muddle:** The figure gains disadvantage on all of their attacks. Muddle is removed at the end of the figure’s next turn.
 
+<div style="page-break-after: always"></div>
 ---
 
 <p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_21" class="page-number">21</a></p>
@@ -668,6 +688,7 @@ A character may voluntarily remove a card with a persistent bonus (but not a rou
 
 Actions with active bonus abilities might also have other abilities, but these other abilities are only performed when the card is played. There is a wide variety of active bonus abilities. While these abilities are usually defined by text, there are two common ones with additional rules.
 
+<div style="page-break-after: always"></div>
 ---
 
 <p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_22" class="page-number">22</a></p>
@@ -690,6 +711,7 @@ A retaliate bonus is not an attack or targeted effect, therefore the damage cann
 
 A retaliate ability applies to the acting figure unless otherwise specified.
 
+<div style="page-break-after: always"></div>
 ---
 
 <p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_23" class="page-number">23</a></p>
@@ -714,6 +736,7 @@ Push and pull can also be added to other abilities as an added effect, allowing 
 
 Multiple push or pull effects are combined. For example, if an ability with "<img src="assets/icons/condition_push.png" class="inline-condition"/> **1**" gains "<img src="assets/icons/condition_push.png" class="inline-condition"/> **2**," the result is a "<img src="assets/icons/condition_push.png" class="inline-condition"/> **3**" ability.
 
+<div style="page-break-after: always"></div>
 ---
 
 <p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_24" class="page-number">24</a></p>
@@ -738,6 +761,7 @@ Some abilities cause figures to suffer damage without an attack being performed.
 
 <img src="assets/icons/ability_recover_card.png" class="inline-icon"/> **Recover** is a positive, non-targeted ability that allows you to recover discarded, flipped, or lost ability cards (see p.28). You look through your hand, discard pile, or lost pile, select cards up to the number specified by the ability, and return those cards to your hand on their A-side.
 
+<div style="page-break-after: always"></div>
 ---
 
 <p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_25" class="page-number">25</a></p>
@@ -771,6 +795,7 @@ An ability card has the following:
   <li><strong>Basic Action Icons:</strong> An ability card can always be used for a basic "<img src="assets/icons/ability_attack.png" class="inline-icon"/> <strong>2</strong>" top action or "<img src="assets/icons/ability_move.png" class="inline-icon"/> <strong>2</strong>" bottom action. <span class="new-to-bnb">If a card is used this way, the card is flipped and returned to your hand (if it was on the A-side) or discarded (if it was on the B-side) as if it has no other icons.</span></li>
 </ol>
 
+<div style="page-break-after: always"></div>
 ---
 
 <p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_26" class="page-number">26</a></p>
@@ -806,6 +831,7 @@ You can use any item as long as it is available (see <a href="#page_35">p.35</a>
 
 Some items do not have either of these icons. This means the item applies a passive effect. There are no limits on how many times an item with a passive effect can be used.
 
+<div style="page-break-after: always"></div>
 ---
 
 <p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_27" class="page-number">27</a></p>
@@ -832,6 +858,7 @@ During the Card Selection step (see [p.10](#page_10)), you may declare a long re
 
 You must lose a card as part of resting. If there are no other cards in your hand to lose, you must instead lose one of the cards in the active area that does not have the lost icon. If there are no cards in the active area that can be lost either, resolve the other steps of the rest and check for exhaustion as the start of the next round as normal.
 
+<div style="page-break-after: always"></div>
 ---
 
 <p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_28" class="page-number">28</a></p>
@@ -868,6 +895,7 @@ You can become exhausted in two ways:
 
 If you become exhausted, you lose the scenario.
 
+<div style="page-break-after: always"></div>
 ---
 
 <p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_29" class="page-number">29</a></p>
@@ -901,6 +929,7 @@ A monster card can have the following:
 
 **Each monster performs only the abilities listed on the action rolled for its monster type for the current round.** For example, if their rolled action does not list a move ability, they will not move. If their rolled action does not list an attack ability, they will not attack.
 
+<div style="page-break-after: always"></div>
 ---
 
 <p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_30" class="page-number">30</a></p>
@@ -927,6 +956,7 @@ Monsters always prioritize a path that triggers the fewest hazards, even when th
 
 If you are invisible or if the monster cannot reach a valid hex, given infinite movement, from which it can perform its attack, the monster does not move or attack but still performs any other abilities listed on its ability card.
 
+<div style="page-break-after: always"></div>
 ---
 
 <p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_31" class="page-number">31</a></p>
@@ -952,6 +982,7 @@ A monster only attacks on its turn if "<img src="assets/icons/ability_attack.png
 - **Negative Targeted Abilities:** These are targeted in the same way as attack abilities, but will not affect how the monster moves.
 - **Positive Conditions:** The monster applies the condition to itself or an ally within the specified range. It always targets the monster at the closest range that does not already have the condition. If there is a tie for closest range, it targets the monster that acts earliest in the initiative order.
 
+<div style="page-break-after: always"></div>
 ---
 
 <p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_32" class="page-number">32</a></p>
@@ -984,6 +1015,7 @@ When a monster dies, remove its cube from the map and clear all conditions from 
 
 No attack effects can be applied to a monster after it dies. If a monster dies while performing one of its own abilities, it cannot perform any other abilities.
 
+<div style="page-break-after: always"></div>
 ---
 
 <p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_33" class="page-number">33</a></p>
@@ -1004,6 +1036,7 @@ After all figures on the map have taken a turn, the End of Round step begins. Pe
 
 If a scenario has effects that occur at specific times, the rounds can be tracked using a spare monster hit point dial. Advance the round dial by one at the end of each round.
 
+<div style="page-break-after: always"></div>
 ---
 
 <p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_34" class="page-number">34</a></p>
@@ -1026,6 +1059,7 @@ If the scenario was lost, you must attempt the scenario again.
 
 If the scenario was completed, read the conclusion of the scenario, which is found in the scenario entry on the scenario card. The conclusion will indicate which scenario to play next in the campaign.
 
+<div style="page-break-after: always"></div>
 ---
 
 <p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_35" class="page-number">35</a></p>
@@ -1054,6 +1088,7 @@ If the scenario was completed, read the conclusion of the scenario, which is fou
 > 
 > A list of the ability cards and their respective upgrades is listed on the back of each character card.
 
+<div style="page-break-after: always"></div>
 ---
 
 <p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_36" class="page-number">36</a></p>
@@ -1078,6 +1113,7 @@ If the scenario was completed, read the conclusion of the scenario, which is fou
 
 **Missing parts?** If you discover that you are missing any parts from your game, you can request replacements at [cephalofair.com/contact](https://cephalofair.com/contact).
 
+<div style="page-break-after: always"></div>
 ---
 
 <p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_37" class="page-number">37</a></p>
@@ -1109,6 +1145,7 @@ Each monster performs all of its abilities from top to bottom (move, attack, and
 - If the monster could move to multiple hexes that maximize the previous priorities, it moves to the hex that requires the fewest movement points.
 - In cases where monster movement is still ambiguous, you decide.
 
+<div style="page-break-after: always"></div>
 ---
 
 <p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_38" class="page-number">38</a></p>
@@ -1162,6 +1199,7 @@ Each monster performs all of its abilities from top to bottom (move, attack, and
 - You can each equip a number of <img src="assets/icons/equip_item.png" class="inline-icon"/> items equal to half the scenario level (rounded up).
 - The end of a scenario can only occur at the end of a round, even if the objective is met mid-round.
 
+<div style="page-break-after: always"></div>
 ---
 
 <p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_39" class="page-number">39</a></p>
@@ -1218,6 +1256,7 @@ Each monster performs all of its abilities from top to bottom (move, attack, and
 | Brightlure Gem	          | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	18	|                                                                 |	After your attack, <img src="assets/icons/element_spend_wind_light.png" class="inline-element"/> to control the target of the attack: <img src="assets/icons/ability_move.png" class="inline-icon"/> 1.	 |
 | Duskhaze Gem	            | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	18	|                                                                 |	During an enemy's attack, <img src="assets/icons/element_spend_wind_dark.png" class="inline-element"/> to gain <img src="assets/icons/ability_shield.png" class="inline-icon"/> 1 and <img src="assets/icons/condition_muddle.png" class="inline-condition"/> that enemy.	 |
 
+<div style="page-break-after: always"></div>
 ---
 
 <p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_40" class="page-number">40</a></p>
@@ -1236,6 +1275,7 @@ The following is a complete list of all component errata. If a discrepency exist
 
 - **Earth Demon** — The second action contains an erroneous unicode box following the element consumtion in the first printing. This box should simply be ignored.
 
+<div style="page-break-after: always"></div>
 ---
 
 <p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_41" class="page-number">41</a></p>
@@ -1356,7 +1396,7 @@ The following is a complete list of all component errata. If a discrepency exist
 </table>
 </div>
 
-
+<div style="page-break-after: always"></div>
 ---
 
 <p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_42" class="page-number">42</a></p>
