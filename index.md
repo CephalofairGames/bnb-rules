@@ -236,7 +236,7 @@ Each Scenario Phase consists of three distinct steps:
 > 1. Read the scenario introduction, special rules, and goal in the scenario entry and check the scenario level.
 > 1. Retrieve the monster card for each monster type present in the scenario.
 > 1. Resolve any scenario effects or note them to be resolved later in setup. Flip the scenario card to its map side.
-> 1. Place each monster card in its own monster tray. For each tray, place one white cube on the tray’s “o” slot. Retrieve the monster hit point dial colored to correspond to each monster on the scenario map. 
+> 1. Place each monster card in its own monster tray. For each tray, place one white cube on the tray’s <img src="assets/icons/dice_result_neutral.png" class="inline-icon"/> slot. Retrieve the monster hit point dial colored to correspond to each monster on the scenario map.
 > 1. Place uniquely colored cubes on the map to represent each monster in the scenario, matching the color shown on the scenario map. Place your character mini on the indicated starting space.
 > 1. Retrieve both attack modifier trays. If the scenario is level 2 or higher, retrieve the appropriate level modifier card for your character and place it in the character modifier tray. You may select a monster difficulty other than “standard” by placing the chosen difficulty monster modifier card in the monster modifier tray.
 > 1. Keep all condition tokens, the die, and the icon reference card nearby.
