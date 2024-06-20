@@ -736,7 +736,7 @@ Some abilities cause figures to suffer damage without an attack being performed.
 
 ### Recover
 
-<img src="assets/icons/ability_recover_card.png" class="inline-icon"/> **Recover** is a positive, non-targeted ability that allows you to recover discarded, flipped, or lost ability cards (see p.28). You look through your hand, discard pile, or lost pile, select cards up to the number specified by the ability, and return those cards to your hand on their A-side.
+<img src="assets/icons/ability_recover_card.png" class="inline-icon"/> **Recover** is a positive, non-targeted ability that allows you to recover discarded, flipped, or lost ability cards (see [p.28](#page_28)). You look through your hand, discard pile, or lost pile, select cards up to the number specified by the ability, and return those cards to your hand on their A-side.
 
 ---
 
@@ -825,7 +825,7 @@ Resting is the main way to retrieve cards from your discard pile. You have two o
 
 During the End of Round step (see [p.33](#page_33)), you may perform a short rest. <span class="new-to-bnb">When you short rest, return all cards from your discard pile to your hand and flip all B-side cards in your hand to their A-side, then lose one card at random from your hand.</span> If you would like to keep the card that was lost, you can suffer 1 damage to lose a different random card instead, but this can only be done once per short rest.
 
-During the Card Selection step (see [p.10](#page_10)), you may declare a long rest. This constitutes your entire turn for the round (instead of playing two cards) and it is performed on initiative 99. When you long rest, you follow these steps:
+During the Card Selection step (see [p.10](#page_10)), instead of selecting two cards from your hand, you may declare a long rest. This constitutes your entire turn for the round (instead of playing two cards), and it is performed on initiative 99. When you long rest, you follow these steps:
 1. <span class="new-to-bnb">Return all cards from your discard pile to your hand and flip all B-side cards in your hand to their A-side, then lose one card of your choice from your hand (mandatory).</span>
 1. Perform "**Heal 2, self**" (optional).
 1. Recover all of your spent items (optional). Items can be used during the same turn in which they are recovered.
