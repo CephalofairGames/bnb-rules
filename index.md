@@ -25,6 +25,7 @@ There are a few concepts not covered by the Learn to Play that you will want to 
 - Scenario Effects [p.7](#page_7), [8](#page_8)
 - Terrain [p.9](#page_9)
 - Upgraded Abilities [p.35](#page_35)
+- Elite Monsters [p.7](#page_7), [p.11](#page_11), [p.30](#page_30)
 
 Good luck, adventurer!
 
@@ -236,7 +237,7 @@ Each Scenario Phase consists of three distinct steps:
 > 1. Read the scenario introduction, special rules, and goal in the scenario entry and check the scenario level.
 > 1. Retrieve the monster card for each monster type present in the scenario.
 > 1. Resolve any scenario effects or note them to be resolved later in setup. Flip the scenario card to its map side.
-> 1. Place each monster card in its own monster tray. For each tray, place one white cube on the tray’s <img src="assets/icons/dice_result_neutral.png" class="inline-icon"/> slot. Retrieve the monster hit point dial colored to correspond to each monster on the scenario map. 
+> 1. Place each monster card in its own monster tray. For each tray, place one white cube on the tray’s <img src="assets/icons/dice_result_neutral.png" class="inline-icon"/> slot. Retrieve the monster hit point dial colored to correspond to each monster on the scenario map. For each elite monster, place an additional white cube on the tray's <img src="assets/icons/dice_result_minus.png" class="inline-icon"/> slot.
 > 1. Place uniquely colored cubes on the map to represent each monster in the scenario, matching the color shown on the scenario map. Place your character mini on the indicated starting space.
 > 1. Retrieve both attack modifier trays. If the scenario is level 2 or higher, retrieve the appropriate level modifier card for your character and place it in the character modifier tray. You may select a monster difficulty other than “standard” by placing the chosen difficulty monster modifier card in the monster modifier tray.
 > 1. Keep all condition tokens, the die, and the icon reference card nearby.
@@ -376,6 +377,11 @@ If there is a tie in initiative between you and a monster, you act first.
 ### Monster Order
 
 Each monster takes its turn based on initiative order. All monsters of a single type take their turns at the same initiative in ascending numeric order (see [p.30](#page_30)).
+
+> ### Elite Monsters
+>
+> When you roll the die for an elite monster, instead of placing a single white cube on the rolled result, place two white cubes, one on each of the results not rolled.
+> The elite monster will take a turn at each of the marked initiative values, performing the abilities of the first marked action on its first turn and the abilities of the second marked action on its second turn.
 
 ---
 
@@ -911,6 +917,11 @@ A monster card can have the following:
 
 All monsters of each type act based on the initiative value rolled for their type for the current round. <span class="new-to-bnb">During their position in the initiative order, all monsters of a type act in ascending numeric order.</span> Each monster completes its turn before the next monster acts.
 
+> ### Elite Monsters
+>
+> When you roll the die for an elite monster, instead of placing a single white cube on the rolled result, place two white cubes, one on each of the results not rolled.
+> The elite monster will take a turn at each of the marked initiative values, performing the abilities of the first marked action on its first turn and the abilities of the second marked action on its second turn.
+
 ### Focus
 
 > Because Buttons & Bugs is a solo game, you are the sole focus of the monsters. They will target you with all attacks and negative targeted abilities.
@@ -1134,6 +1145,9 @@ Each monster performs all of its abilities from top to bottom (move, attack, and
 ### Monsters
 
 - Each round, an action is rolled for each type of monster on the map. All monsters of a single type will use the same rolled action.
+
+> - An elite monster takes two turns each round, performing the abilities of its two rolled actions separately at their own positions in the initiative order.
+
 - A monster only performs the abilities listed on its rolled action for the round.
 - A monster does not apply any active bonuses from its rolled action until its turn.
 - If a monster cannot find an attack hex, it will not move.
@@ -1230,7 +1244,7 @@ The following is a complete list of all component errata. If a discrepency exist
 
 ### Ability Cards
 
-- **Freeezing Vortex** — The first ability of the bottom action should read as follows: "<img src="assets/icons/condition_pull.png" class="inline-condition"/> 3 <img src="assets/icons/ability_target.png" class="inline-icon"/> all enemies within <img src="assets/icons/ability_range.png" class="inline-icon"/> 4". The range was misprinted as 2 in the first printing.
+- **Freezing Vortex** — The first ability of the bottom action should read as follows: "<img src="assets/icons/condition_pull.png" class="inline-condition"/> 3 <img src="assets/icons/ability_target.png" class="inline-icon"/> all enemies within <img src="assets/icons/ability_range.png" class="inline-icon"/> 4". The range was misprinted as 2 in the first printing.
 
 ### Monster Cards
 
