@@ -25,7 +25,7 @@ There are a few concepts not covered by the Learn to Play that you will want to 
 - Scenario Effects [p.7](#page_7), [8](#page_8)
 - Terrain [p.9](#page_9)
 - Upgraded Abilities [p.35](#page_35)
-- Elite Monsters [p.7](#page_7), [p.11](#page_11), [p.30](#page_30)
+- Elite Monsters [p.11](#page_11), [p.30](#page_30)
 
 Good luck, adventurer!
 
@@ -370,6 +370,11 @@ After you have selected two ability cards or declared a long rest, determine the
 
 Determine the initiative order by comparing the initiative values on your initiative card and all rolled monster actions (located at the top of the column). This indicates the turn order for this round, going from lowest initiative value to highest. If you are long resting, you have an initiative of 99. 
 
+> ### Elite Monsters
+>
+> When you roll the die for an elite monster, instead of placing a single white cube on the rolled result, place two white cubes, one on each of the results not rolled.
+> The elite monster will take a turn at each of the marked initiative values, performing the abilities of the first marked action on its first turn and the abilities of the second marked action on its second turn.
+
 ### Resolving Ties
 
 If there is a tie in initiative between you and a monster, you act first.
@@ -377,11 +382,6 @@ If there is a tie in initiative between you and a monster, you act first.
 ### Monster Order
 
 Each monster takes its turn based on initiative order. All monsters of a single type take their turns at the same initiative in ascending numeric order (see [p.30](#page_30)).
-
-> ### Elite Monsters
->
-> When you roll the die for an elite monster, instead of placing a single white cube on the rolled result, place two white cubes, one on each of the results not rolled.
-> The elite monster will take a turn at each of the marked initiative values, performing the abilities of the first marked action on its first turn and the abilities of the second marked action on its second turn.
 
 ---
 
@@ -919,8 +919,7 @@ All monsters of each type act based on the initiative value rolled for their typ
 
 > ### Elite Monsters
 >
-> When you roll the die for an elite monster, instead of placing a single white cube on the rolled result, place two white cubes, one on each of the results not rolled.
-> The elite monster will take a turn at each of the marked initiative values, performing the abilities of the first marked action on its first turn and the abilities of the second marked action on its second turn.
+> An elite monster takes two turns each round, one at each of the two rolled initiative values. It performs the abilities of the first rolled action on its first turn and the abilities of the second rolled action on its second turn.
 
 ### Focus
 
