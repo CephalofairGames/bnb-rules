@@ -2,13 +2,13 @@
 
 ---
 
-<p align="right" class="page-anchor"><a name="page_1" class="page-number">1</a></p>
+<p align="right" class="page-anchor"><a name="anchor_1" class="page-number">1</a></p>
 
 ---
 
 This light weight rules resource for *Gloomhaven: Buttons & Bugs* is intended to be easy to access, search, and print. It is updated with any corrections and errata.
 
-Last updated 07/10/2024
+Last updated 10/08/2024
 
 For more resources, visit [cephalofair.com/bnb](https://cephalofair.com/bnb)
 
@@ -20,18 +20,18 @@ Using what you learned in the Learn to Play, you should be able to play the enti
 
 There are a few concepts not covered by the Learn to Play that you will want to take special notice of:
 
-- Items [p.26](#page_26), [35](#page_35)
-- Recover [p.24](#page_24)
-- Scenario Effects [p.7](#page_7), [8](#page_8)
-- Terrain [p.9](#page_9)
-- Upgraded Abilities [p.35](#page_35)
-- Elite Monsters [p.11](#page_11), [p.30](#page_30)
+- Items [26](#anchor_26), [35](#anchor_35)
+- Recover [24](#anchor_24)
+- Scenario Effects [7](#anchor_7), [8](#anchor_8)
+- Terrain [9](#anchor_9)
+- Upgraded Abilities [35](#anchor_35)
+- Elite Monsters [11](#anchor_11), [30](#anchor_30)
 
 Good luck, adventurer!
 
 ---
 
-<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_2" class="page-number">2</a></p>
+<p align="right" class="page-anchor"><a href="#anchor_1">🔝</a>&nbsp; &nbsp;<a name="anchor_2" class="page-number">2</a></p>
 
 ---
 
@@ -41,120 +41,120 @@ Good luck, adventurer!
 <table>
 <tr><td>
   
-<h4 id="getting-started-p3">Getting Started <a href="#page_3">p.3</a></h4>
+<h4 id="getting-started-p3">Getting Started <a href="#anchor_3">3</a></h4>
 
-<p>Choose a Character <a href="#page_4">p.4</a></p>
-<p>Learning the Rules <a href="#page_5">p.5</a></p>
+<p>Choose a Character <a href="#anchor_4">4</a></p>
+<p>Learning the Rules <a href="#anchor_5">5</a></p>
 
-<h4 id="scenario-phase-p6">Scenario Phase <a href="#page_6">p.6</a></h4>
+<h4 id="scenario-phase-p6">Scenario Phase <a href="#anchor_6">6</a></h4>
 
-<h4 id="beginning-a-scenario-p7">Beginning a Scenario <a href="#page_7">p.7</a></h4>
+<h4 id="beginning-a-scenario-p7">Beginning a Scenario <a href="#anchor_7">7</a></h4>
 
-<h4 id="scenario-cards-p8">Scenario Cards <a href="#page_8">p.8</a></h4>
+<h4 id="scenario-cards-p8">Scenario Cards <a href="#anchor_8">8</a></h4>
 
-<p>Terrain <a href="#page_9">p.9</a></p>
-<p>Obstacles <a href="#page_9">p.9</a></p>
-<p>Difficult Terrain <a href="#page_9">p.9</a></p>
-<p>Hazards <a href="#page_9">p.9</a></p>
-<p>Pressure Plates <a href="#page_9">p.9</a></p>
-<p>Objectives <a href="#page_9">p.9</a></p>
+<p>Terrain <a href="#anchor_9">9</a></p>
+<p>Obstacles <a href="#anchor_9">9</a></p>
+<p>Difficult Terrain <a href="#anchor_9">9</a></p>
+<p>Hazards <a href="#anchor_9">9</a></p>
+<p>Pressure Plates <a href="#anchor_9">9</a></p>
+<p>Objectives <a href="#anchor_9">9</a></p>
 
-<h4 id="playing-a-scenario-p10">Playing a Scenario <a href="#page_10">p.10</a></h4>
+<h4 id="playing-a-scenario-p10">Playing a Scenario <a href="#anchor_10">10</a></h4>
 
-<p>Start of Round Effects <a href="#page_10">p.10</a></p>
-<p>Card Selection <a href="#page_10">p.10</a></p>
-<p>Ordering of Initiative <a href="#page_11">p.11</a></p>
-<p>Resolving Ties <a href="#page_11">p.11</a></p>
-<p>Monster Order <a href="#page_11">p.11</a></p>
+<p>Start of Round Effects <a href="#anchor_10">10</a></p>
+<p>Card Selection <a href="#anchor_10">10</a></p>
+<p>Ordering of Initiative <a href="#anchor_11">11</a></p>
+<p>Resolving Ties <a href="#anchor_11">11</a></p>
+<p>Monster Order <a href="#anchor_11">11</a></p>
 
-<p>Character and Monster Turns <a href="#page_12">p.12</a></p>
-<p>Actions and Abilities Overview <a href="#page_12">p.12</a></p>
-<p>Actions <a href="#page_12">p.12</a></p>
-<p>Abilities <a href="#page_12">p.12</a></p>
-<p>Important Ability Concepts <a href="#page_13">p.13</a></p>
-<p>Target <a href="#page_13">p.13</a></p>
-<p>Allies, Enemies, and Self <a href="#page_13">p.13</a></p>
-<p>Range <a href="#page_14">p.14</a></p>
-<p>Area of Effect <a href="#page_14">p.14</a></p>
-<p>Added Effects <a href="#page_15">p.15</a></p>
-<p>Elements <a href="#page_16">p.16</a></p>
-
-</td><td>
-
-<p>Abilities <a href="#page_17">p.17</a></p>
-<p>Move <a href="#page_17">p.17</a></p>
-<p>Jump <a href="#page_17">p.17</a></p>
-<p>Flying <a href="#page_17">p.17</a></p>
-<p>Attack <a href="#page_18">p.18</a></p>
-<p>Attack Modification Order <a href="#page_18">p.18</a></p>
-<p>Attack Modifier Tables <a href="#page_18">p.18</a></p>
-<p>Attack Effects <a href="#page_19">p.19</a></p>
-<p>Advantage and Disadvantage <a href="#page_19">p.19</a></p>
-<p>Pierce <a href="#page_19">p.19</a></p>
-
-<p>Conditions <a href="#page_20">p.20</a></p>
-<p>Positive Conditions <a href="#page_20">p.20</a></p>
-<p>Negative Conditions <a href="#page_20">p.20</a></p>
-<p>Heal <a href="#page_21">p.21</a></p>
-<p>Active Bonuses <a href="#page_21">p.21</a></p>
-<p>Shield <a href="#page_22">p.22</a></p>
-<p>Retaliate <a href="#page_22">p.22</a></p>
-<p>Forced Movement <a href="#page_23">p.23</a></p>
-<p>Control <a href="#page_24">p.24</a></p>
-<p>Suffer Damage <a href="#page_24">p.24</a></p>
-<p>Recover <a href="#page_24">p.24</a></p>
-
-<p>Character Turns <a href="#page_25">p.25</a></p>
-<p>Ability Cards <a href="#page_25">p.25</a></p>
-<p>Items <a href="#page_26">p.26</a></p>
-<p>Item Limits <a href="#page_26">p.26</a></p>
-<p>Item Usage <a href="#page_26">p.26</a></p>
-<p>Mandatory Triggers <a href="#page_27">p.27</a></p>
-<p>Resting <a href="#page_27">p.27</a></p>
-<p>Lost Actions <a href="#page_28">p.28</a></p>
-<p>Character Damage <a href="#page_28">p.28</a></p>
-<p>Exhaustion <a href="#page_28">p.28</a></p>
+<p>Character and Monster Turns <a href="#anchor_12">12</a></p>
+<p>Actions and Abilities Overview <a href="#anchor_12">12</a></p>
+<p>Actions <a href="#anchor_12">12</a></p>
+<p>Abilities <a href="#anchor_12">12</a></p>
+<p>Important Ability Concepts <a href="#anchor_13">13</a></p>
+<p>Target <a href="#anchor_13">13</a></p>
+<p>Allies, Enemies, and Self <a href="#anchor_13">13</a></p>
+<p>Range <a href="#anchor_14">14</a></p>
+<p>Area of Effect <a href="#anchor_14">14</a></p>
+<p>Added Effects <a href="#anchor_15">15</a></p>
+<p>Elements <a href="#anchor_16">16</a></p>
 
 </td><td>
 
-<p>Monster Turns <a href="#page_29">p.29</a></p>
-<p>Monster Cards <a href="#page_29">p.29</a></p>
-<p>Monster Acting Order <a href="#page_30">p.30</a></p>
-<p>Focus <a href="#page_30">p.30</a></p>
-<p>Path Priority <a href="#page_30">p.30</a></p>
-<p>No Focus <a href="#page_30">p.30</a></p>
-<p>Monster Movement <a href="#page_31">p.31</a></p>
-<p>Monster Attacks <a href="#page_31">p.31</a></p>
-<p>Other Monster Abilities <a href="#page_31">p.31</a></p>
-<p>Monsters and Elements <a href="#page_32">p.32</a></p>
-<p>Spawning Monsters <a href="#page_32">p.32</a></p>
-<p>Monster Damage and Death <a href="#page_32">p.32</a></p>
+<p>Abilities <a href="#anchor_17">17</a></p>
+<p>Move <a href="#anchor_17">17</a></p>
+<p>Jump <a href="#anchor_17">17</a></p>
+<p>Flying <a href="#anchor_17">17</a></p>
+<p>Attack <a href="#anchor_18">18</a></p>
+<p>Attack Modification Order <a href="#anchor_18">18</a></p>
+<p>Attack Modifier Tables <a href="#anchor_18">18</a></p>
+<p>Attack Effects <a href="#anchor_19">19</a></p>
+<p>Advantage and Disadvantage <a href="#anchor_19">19</a></p>
+<p>Pierce <a href="#anchor_19">19</a></p>
 
-<p>End of Round <a href="#page_33">p.33</a></p>
-<p>Tracking Rounds <a href="#page_33">p.33</a></p>
+<p>Conditions <a href="#anchor_20">20</a></p>
+<p>Positive Conditions <a href="#anchor_20">20</a></p>
+<p>Negative Conditions <a href="#anchor_20">20</a></p>
+<p>Heal <a href="#anchor_21">21</a></p>
+<p>Active Bonuses <a href="#anchor_21">21</a></p>
+<p>Shield <a href="#anchor_22">22</a></p>
+<p>Retaliate <a href="#anchor_22">22</a></p>
+<p>Forced Movement <a href="#anchor_23">23</a></p>
+<p>Control <a href="#anchor_24">24</a></p>
+<p>Suffer Damage <a href="#anchor_24">24</a></p>
+<p>Recover <a href="#anchor_24">24</a></p>
 
-<h4 id="ending-a-scenario-p34">Ending a Scenario <a href="#page_34">p.34</a></h4>
+<p>Character Turns <a href="#anchor_25">25</a></p>
+<p>Ability Cards <a href="#anchor_25">25</a></p>
+<p>Items <a href="#anchor_26">26</a></p>
+<p>Item Limits <a href="#anchor_26">26</a></p>
+<p>Item Usage <a href="#anchor_26">26</a></p>
+<p>Mandatory Triggers <a href="#anchor_27">27</a></p>
+<p>Resting <a href="#anchor_27">27</a></p>
+<p>Lost Actions <a href="#anchor_28">28</a></p>
+<p>Character Damage <a href="#anchor_28">28</a></p>
+<p>Exhaustion <a href="#anchor_28">28</a></p>
 
-<p>Lost Scenario <a href="#page_34">p.34</a></p>
-<p>Completed Scenario <a href="#page_34">p.34</a></p>
+</td><td>
 
-<h4 id="the-adventure-begins-p35">The Adventure Begins <a href="#page_35">p.35</a></h4>
+<p>Monster Turns <a href="#anchor_29">29</a></p>
+<p>Monster Cards <a href="#anchor_29">29</a></p>
+<p>Monster Acting Order <a href="#anchor_30">30</a></p>
+<p>Focus <a href="#anchor_30">30</a></p>
+<p>Path Priority <a href="#anchor_30">30</a></p>
+<p>No Focus <a href="#anchor_30">30</a></p>
+<p>Monster Movement <a href="#anchor_31">31</a></p>
+<p>Monster Attacks <a href="#anchor_31">31</a></p>
+<p>Other Monster Abilities <a href="#anchor_31">31</a></p>
+<p>Monsters and Elements <a href="#anchor_32">32</a></p>
+<p>Spawning Monsters <a href="#anchor_32">32</a></p>
+<p>Monster Damage and Death <a href="#anchor_32">32</a></p>
 
-<p>Item Supplies <a href="#page_35">p.35</a></p>
-<p>Character Progression <a href="#page_35">p.35</a></p>
-<p>Upgraded Ability Cards <a href="#page_35">p.35</a></p>
+<p>End of Round <a href="#anchor_33">33</a></p>
+<p>Tracking Rounds <a href="#anchor_33">33</a></p>
+
+<h4 id="ending-a-scenario-p34">Ending a Scenario <a href="#anchor_34">34</a></h4>
+
+<p>Lost Scenario <a href="#anchor_34">34</a></p>
+<p>Completed Scenario <a href="#anchor_34">34</a></p>
+
+<h4 id="the-adventure-begins-p35">The Adventure Begins <a href="#anchor_35">35</a></h4>
+
+<p>Item Supplies <a href="#anchor_35">35</a></p>
+<p>Character Progression <a href="#anchor_35">35</a></p>
+<p>Upgraded Ability Cards <a href="#anchor_35">35</a></p>
 
 <h4 id="appendices">Appendices</h4>
 
-<p>Appendix A: Component Inventory <a href="#page_36">p.36</a></p>
-<p>Appendix B: Monster Turn Guide <a href="#page_37">p.37</a></p>
-<p>Appendix C: Important Reminders <a href="#page_38">p.38</a></p>
-<p>Appendix D: Item Index <a href="#page_39">p.39</a></p>
-<p>Appendix E: Component Errata <a href="#page_40">p.40</a></p>
+<p>Appendix A: Component Inventory <a href="#anchor_36">36</a></p>
+<p>Appendix B: Monster Turn Guide <a href="#anchor_37">37</a></p>
+<p>Appendix C: Important Reminders <a href="#anchor_38">38</a></p>
+<p>Appendix D: Item Index <a href="#anchor_39">39</a></p>
+<p>Appendix E: Component Errata <a href="#anchor_40">40</a></p>
 
-<h4 id="credits-p41">Credits <a href="#page_41">p.41</a></h4>
+<h4 id="credits-p41">Credits <a href="#anchor_41">41</a></h4>
 
-<h4 id="quick-reference-p42">Quick Reference <a href="#page_42">p.42</a></h4>
+<h4 id="quick-reference-p42">Quick Reference <a href="#anchor_42">42</a></h4>
 
 </td></tr>
 </table>
@@ -162,7 +162,7 @@ Good luck, adventurer!
 
 ---
 
-<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_3" class="page-number">3</a></p>
+<p align="right" class="page-anchor"><a href="#anchor_1">🔝</a>&nbsp; &nbsp;<a name="anchor_3" class="page-number">3</a></p>
 
 ---
 
@@ -176,7 +176,7 @@ This document will provide you with details on how to play the game, but if you 
 
 ---
 
-<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_4" class="page-number">4</a></p>
+<p align="right" class="page-anchor"><a href="#anchor_1">🔝</a>&nbsp; &nbsp;<a name="anchor_4" class="page-number">4</a></p>
 
 ---
 
@@ -195,7 +195,7 @@ You will need to gather the following components for your chosen character to pl
 
 ---
 
-<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_5" class="page-number">5</a></p>
+<p align="right" class="page-anchor"><a href="#anchor_1">🔝</a>&nbsp; &nbsp;<a name="anchor_5" class="page-number">5</a></p>
 
 ---
 
@@ -209,7 +209,7 @@ Most of the rules of this game focus on how you play through a scenario. Since t
 
 ---
 
-<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_6" class="page-number">6</a></p>
+<p align="right" class="page-anchor"><a href="#anchor_1">🔝</a>&nbsp; &nbsp;<a name="anchor_6" class="page-number">6</a></p>
 
 ---
 
@@ -225,7 +225,7 @@ Each Scenario Phase consists of three distinct steps:
 
 ---
 
-<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_7" class="page-number">7</a></p>
+<p align="right" class="page-anchor"><a href="#anchor_1">🔝</a>&nbsp; &nbsp;<a name="anchor_7" class="page-number">7</a></p>
 
 ---
 
@@ -241,14 +241,14 @@ Each Scenario Phase consists of three distinct steps:
 > 1. Place uniquely colored cubes on the map to represent each monster in the scenario, matching the color shown on the scenario map. Place your character mini on the indicated starting space.
 > 1. Retrieve both attack modifier trays. If the scenario is level 2 or higher, retrieve the appropriate level modifier card for your character and place it in the character modifier tray. You may select a monster difficulty other than “standard” by placing the chosen difficulty monster modifier card in the monster modifier tray.
 > 1. Keep all condition tokens, the die, and the icon reference card nearby.
-> 1. Decide which items to equip from the pool of available items (see [p.26](#page_26)).
+> 1. Decide which items to equip from the pool of available items (see [26](#anchor_26)).
 > 1. Retrieve your character’s level 1 ability cards and select a number of cards to upgrade equal to the scenario level minus one. Replace the selected level 1 ability cards with the corresponding level 2 ability cards (listed on the back of your character card). Your selected cards will start in your hand.
 > 1. Set the character hit point dial to your character’s maximum hit point value, which is shown below the scenario level in the chart at the bottom of your character card. Set each monster’s corresponding colored hit point dial to their respective maximum hit points.
 > 1. Apply any remaining scenario effects.
 
 ---
 
-<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_8" class="page-number">8</a></p>
+<p align="right" class="page-anchor"><a href="#anchor_1">🔝</a>&nbsp; &nbsp;<a name="anchor_8" class="page-number">8</a></p>
 
 ---
 
@@ -278,7 +278,7 @@ Each Scenario Phase consists of three distinct steps:
 <blockquote>
   <ol type="A">
     <li><strong>Starting Hex:</strong> You place your miniature in this hex at the start of the scenario.</li>
-    <li><strong>Terrain:</strong> These are hexes indicating additional map features (see <a href="#page_9">p.9</a>).</li>
+    <li><strong>Terrain:</strong> These are hexes indicating additional map features (see <a href="#anchor_9">9</a>).</li>
     <li><strong>Monster Placements:</strong> These hexes show monster placements. Place each monster cube in the hex showing the corresponding cube color.</li>
     <li><strong>Notable Hexes:</strong> These hexes, marked by letters, are explained in the special rules of the scenario.</li>
   </ol>
@@ -286,7 +286,7 @@ Each Scenario Phase consists of three distinct steps:
 
 ---
 
-<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_9" class="page-number">9</a></p>
+<p align="right" class="page-anchor"><a href="#anchor_1">🔝</a>&nbsp; &nbsp;<a name="anchor_9" class="page-number">9</a></p>
 
 ---
 
@@ -314,7 +314,7 @@ A hex with no terrain outline is considered **featureless**. A hex with no figur
 <blockquote>
   <div class="float-container">
     <span class="floating-image"><img src="assets/icons/terrain_hazard.png" height="48"/></span>
-    <p>If any figure enters a hazard hex, unless they are flying or jumping, some effect is applied to that figure. Hazard effects are varied and are specified by each individual hazard on the scenario map. Figures do not suffer additional effects when starting a turn in or exiting a hazard hex, but the effects are applied if you end a jump movement in a hazard hex. If a figure occupies a hex with an <strong>immobilize</strong> <img src="assets/icons/condition_immobilize.png" class="inline-condition"/> hazard (see <a href="#page_20">p.20</a>), treat them as an obstacle when determining the movement of other figures.</p>
+    <p>If any figure enters a hazard hex, unless they are flying or jumping, some effect is applied to that figure. Hazard effects are varied and are specified by each individual hazard on the scenario map. Figures do not suffer additional effects when starting a turn in or exiting a hazard hex, but the effects are applied if you end a jump movement in a hazard hex. If a figure occupies a hex with an <strong>immobilize</strong> <img src="assets/icons/condition_immobilize.png" class="inline-condition"/> hazard (see <a href="#anchor_20">20</a>), treat them as an obstacle when determining the movement of other figures.</p>
   </div>
 </blockquote>
 
@@ -334,7 +334,7 @@ A hex with no terrain outline is considered **featureless**. A hex with no figur
 
 ---
 
-<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_10" class="page-number">10</a></p>
+<p align="right" class="page-anchor"><a href="#anchor_1">🔝</a>&nbsp; &nbsp;<a name="anchor_10" class="page-number">10</a></p>
 
 ---
 
@@ -350,17 +350,17 @@ These rounds continue until the scenario goal is reached.
 
 ## Start of Round Effects
 
-Apply any start of round effects from the scenario rules, such as spawning monsters. These effects can be applied in any order, though all spawning should happen at the same time (see [p.32](#page_32)).
+Apply any start of round effects from the scenario rules, such as spawning monsters. These effects can be applied in any order, though all spawning should happen at the same time (see [32](#anchor_32)).
 
 ## Card Selection
 
-After all start-of-round effects are applied, select two ability cards from your hand to play this round. Of the two cards, one should be selected as the initiative card. The initiative value at the center of that card will determine your position in the initiative order (see [p.11](#page_11)).
+After all start-of-round effects are applied, select two ability cards from your hand to play this round. Of the two cards, one should be selected as the initiative card. The initiative value at the center of that card will determine your position in the initiative order (see [11](#anchor_11)).
 
-Alternatively, if you have at least two cards in your hand and/or discard pile, you can instead declare a long rest at this time (see [p.27](#page_27)). You will perform your long rest on initiative 99 as your entire turn for the round and will not select or play any cards.
+Alternatively, if you have at least two cards in your hand and/or discard pile, you can instead declare a long rest at this time (see [27](#anchor_27)). You will perform your long rest on initiative 99 as your entire turn for the round and will not select or play any cards.
 
 ---
 
-<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_11" class="page-number">11</a></p>
+<p align="right" class="page-anchor"><a href="#anchor_1">🔝</a>&nbsp; &nbsp;<a name="anchor_11" class="page-number">11</a></p>
 
 ---
 
@@ -381,11 +381,11 @@ If there is a tie in initiative between you and a monster, you act first.
 
 ### Monster Order
 
-Each monster takes its turn based on initiative order. All monsters of a single type take their turns at the same initiative in ascending numeric order (see [p.30](#page_30)).
+Each monster takes its turn based on initiative order. All monsters of a single type take their turns at the same initiative in ascending numeric order (see [30](#anchor_30)).
 
 ---
 
-<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_12" class="page-number">12</a></p>
+<p align="right" class="page-anchor"><a href="#anchor_1">🔝</a>&nbsp; &nbsp;<a name="anchor_12" class="page-number">12</a></p>
 
 ---
 
@@ -413,11 +413,11 @@ If an action consists of multiple abilities, these will be separated from each o
 
 Abilities in an action are always performed in the order they are written. Figures cannot perform new abilities while resolving a different ability, with the exception of abilities from attack modifiers.
 
-Character abilities can be skipped, unless they are mandatory (see [p.27](#page_27)).
+Character abilities can be skipped, unless they are mandatory (see [27](#anchor_27)).
 
 ---
 
-<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_13" class="page-number">13</a></p>
+<p align="right" class="page-anchor"><a href="#anchor_1">🔝</a>&nbsp; &nbsp;<a name="anchor_13" class="page-number">13</a></p>
 
 ---
 
@@ -431,7 +431,7 @@ If no target is specified on a targeted ability, the target value is 1, which me
 
 #### Targeted Abilities
 
-Attack ([p.18](#page_18)), conditions ([p.20](#page_20)), heal ([p.21](#page_20)), forced movement ([p.23](#page_23)), and controlling figures ([p.24](#page_24)) are the only targeted abilities. Targeted abilities cannot be performed if there is no valid target.
+Attack ([18](#anchor_18)), conditions ([20](#anchor_20)), heal ([21](#anchor_20)), forced movement ([23](#anchor_23)), and controlling figures ([24](#anchor_24)) are the only targeted abilities. Targeted abilities cannot be performed if there is no valid target.
 
 #### Allies, Enemies, and Self
 
@@ -443,7 +443,7 @@ If any ability specifies the target as "self," the effect can only be applied to
 
 ---
 
-<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_14" class="page-number">14</a></p>
+<p align="right" class="page-anchor"><a href="#anchor_1">🔝</a>&nbsp; &nbsp;<a name="anchor_14" class="page-number">14</a></p>
 
 ---
 
@@ -461,7 +461,7 @@ Abilities with an area of effect allow the acting figure to target multiple hexe
 
 <div class="float-container">
   <span class="floating-image"><img src="assets/icons/hex_player.png" height="48"/></span>
-  <p>Gray indicates the hex which the acting figure occupies. Any attack with an area of effect that includes a gray hex is always considered a melee attack (see <a href="#page_18">p.18</a>).</p>
+  <p>Gray indicates the hex which the acting figure occupies. Any attack with an area of effect that includes a gray hex is always considered a melee attack (see <a href="#anchor_18">18</a>).</p>
 </div>
 
 <div class="float-container">
@@ -473,13 +473,13 @@ If an ability with an area of effect gains "**+1** <img src="assets/icons/abilit
 
 ---
 
-<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_15" class="page-number">15</a></p>
+<p align="right" class="page-anchor"><a href="#anchor_1">🔝</a>&nbsp; &nbsp;<a name="anchor_15" class="page-number">15</a></p>
 
 ---
 
 #### Added Effects
 
-Added effects are attached to an ability and modify it in some way. Common added effects like "<img src="assets/icons/condition_push.png" class="inline-condition"/> **X**," "<img src="assets/icons/condition_pull.png" class="inline-condition"/> **X**," or conditions are usually listed in a highlighted section to the right of the ability. All conditional effects — those dependent on consuming an element (see [p.16](#page_16)) or paying some other cost — are listed below the ability in a highlighted section with a dotted line border.
+Added effects are attached to an ability and modify it in some way. Common added effects like "<img src="assets/icons/condition_push.png" class="inline-condition"/> **X**," "<img src="assets/icons/condition_pull.png" class="inline-condition"/> **X**," or conditions are usually listed in a highlighted section to the right of the ability. All conditional effects — those dependent on consuming an element (see [16](#anchor_16)) or paying some other cost — are listed below the ability in a highlighted section with a dotted line border.
 
 Added effects can be skipped, but you must choose to do so before rolling an attack modifier. Conditional effects can also be skipped; you are not required to pay the cost and, even if you do, you may still choose not to apply the effect. In the case of a skippable effect attached to a multi-target attack ability, you may skip the effect on an attack-by-attack basis, in each case choosing before rolling an attack modifier, unless otherwise stated.
 
@@ -487,7 +487,7 @@ More complex added effects might be written below the ability, but not all text 
 
 ---
 
-<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_16" class="page-number">16</a></p>
+<p align="right" class="page-anchor"><a href="#anchor_1">🔝</a>&nbsp; &nbsp;<a name="anchor_16" class="page-number">16</a></p>
 
 ---
 
@@ -510,7 +510,7 @@ More complex added effects might be written below the ability, but not all text 
 
 ---
 
-<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_17" class="page-number">17</a></p>
+<p align="right" class="page-anchor"><a href="#anchor_1">🔝</a>&nbsp; &nbsp;<a name="anchor_17" class="page-number">17</a></p>
 
 ---
 
@@ -531,11 +531,11 @@ Difficult terrain is ignored completely when jumping.
 
 #### Flying
 
-<img src="assets/icons/ability_flight.png" class="inline-icon"/> "**Flying**" is an active bonus (see [p.21](#page_21)). Flying allows a figure to completely ignore all enemies, obstacles, objectives, and hazards, including in the last hex. However, a flying figure still cannot end their movement in a hex occupied by another figure (and vice versa).
+<img src="assets/icons/ability_flight.png" class="inline-icon"/> "**Flying**" is an active bonus (see [21](#anchor_21)). Flying allows a figure to completely ignore all enemies, obstacles, objectives, and hazards, including in the last hex. However, a flying figure still cannot end their movement in a hex occupied by another figure (and vice versa).
 
 ---
 
-<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_18" class="page-number">18</a></p>
+<p align="right" class="page-anchor"><a href="#anchor_1">🔝</a>&nbsp; &nbsp;<a name="anchor_18" class="page-number">18</a></p>
 
 ---
 
@@ -551,11 +551,11 @@ An **attack** is a single attack performed against one target, an **attack abili
 
 When an attack is performed, the base attack value written on the card can be modified in three different ways, which occur in the following order:
 
-1. All applicable attack bonuses and penalties—such as "**±X** <img src="assets/icons/ability_attack.png" class="inline-icon"/>" effects, including poison (see [p.20](#page_20))—are applied.
+1. All applicable attack bonuses and penalties—such as "**±X** <img src="assets/icons/ability_attack.png" class="inline-icon"/>" effects, including poison (see [20](#anchor_20))—are applied.
 1. An attack modifier is rolled and applied.
-1. The target’s shield bonus is applied (see [p.22](#page_22)).
+1. The target’s shield bonus is applied (see [22](#anchor_22)).
 
-Once all modifications have been applied, the target suffers the resulting amount of damage. If the target has any abilities or effects which can negate a source of damage, including discarding or losing cards to negate damage (see [p.28](#page_28)), they may apply them now.
+Once all modifications have been applied, the target suffers the resulting amount of damage. If the target has any abilities or effects which can negate a source of damage, including discarding or losing cards to negate damage (see [28](#anchor_28)), they may apply them now.
 
 These steps are repeated for each individual target of the attack ability, which means it is possible for different targets to suffer different amounts of damage from the same attack ability.
 
@@ -567,20 +567,20 @@ These steps are repeated for each individual target of the attack ability, which
 > 
 > You have your own attack modifier table, while all monsters share a single table.
 > 
-> Each character class and all monsters start with a standard table of six <img src="assets/icons/modifier_plus_0.png" class="inline-element"/>, four <img src="assets/icons/modifier_plus_1.png" class="inline-element"/>, four <img src="assets/icons/modifier_minus_1.png" class="inline-element"/>, one <img src="assets/icons/modifier_plus_2.png" class="inline-element"/>, one <img src="assets/icons/modifier_minus_2.png" class="inline-element"/>, one <img src="assets/icons/modifier_2x.png" class="inline-element"/>, and one <img src="assets/icons/modifier_miss.png" class="inline-element"/>, but each character class table improves as the campaign progresses (see [p.35](#page_35)), allowing for other effects.
+> Each character class and all monsters start with a standard table of six <img src="assets/icons/modifier_plus_0.png" class="inline-element"/>, four <img src="assets/icons/modifier_plus_1.png" class="inline-element"/>, four <img src="assets/icons/modifier_minus_1.png" class="inline-element"/>, one <img src="assets/icons/modifier_plus_2.png" class="inline-element"/>, one <img src="assets/icons/modifier_minus_2.png" class="inline-element"/>, one <img src="assets/icons/modifier_2x.png" class="inline-element"/>, and one <img src="assets/icons/modifier_miss.png" class="inline-element"/>, but each character class table improves as the campaign progresses (see [35](#anchor_35)), allowing for other effects.
 > 
 > An attack modifier can have the following:
 
 <quoteblock>
   <ol type="A">
     <li><strong>Modifier Value:</strong> This value modifies the attack value. The <img src="assets/icons/modifier_miss.png" class="inline-element"/> modifier reduces the final attack value to zero. The <img src="assets/icons/modifier_2x.png" class="inline-element"/> modifier doubles the current attack value.</li>
-    <li><strong>Added Effects:</strong> Some modifiers have conditions (see <a href="#page_20">p.20</a>) or other added effects. When activated, these added effects function exactly as if written on the attack ability.</li>
+    <li><strong>Added Effects:</strong> Some modifiers have conditions (see <a href="#anchor_20">20</a>) or other added effects. When activated, these added effects function exactly as if written on the attack ability.</li>
   </ol>
 </quoteblock>
 
 ---
 
-<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_19" class="page-number">19</a></p>
+<p align="right" class="page-anchor"><a href="#anchor_1">🔝</a>&nbsp; &nbsp;<a name="anchor_19" class="page-number">19</a></p>
 
 ---
 
@@ -588,7 +588,7 @@ These steps are repeated for each individual target of the attack ability, which
 
 An attack effect is an effect attached to an attack. These effects are applied either during damage resolution or after the attack resolves. If applied after the attack resolves, the attack effect is still applied, even if the attack deals no damage (including due to a <img src="assets/icons/modifier_miss.png" class="inline-element"/> modifier).
 
-The attacker must choose whether to apply any attack effects before they roll an attack modifier. All attack effects except "**add** <img src="assets/icons/ability_target.png" class="inline-icon"/>" are applied before any retaliate bonus (see [p.22](#page_22)). The "**add** <img src="assets/icons/ability_target.png" class="inline-icon"/>" effect allows the attacker to perform additional attacks, and each attack must be resolved completely before another can be performed.
+The attacker must choose whether to apply any attack effects before they roll an attack modifier. All attack effects except "**add** <img src="assets/icons/ability_target.png" class="inline-icon"/>" are applied before any retaliate bonus (see [22](#anchor_22)). The "**add** <img src="assets/icons/ability_target.png" class="inline-icon"/>" effect allows the attacker to perform additional attacks, and each attack must be resolved completely before another can be performed.
 
 Some attacks have abilities (e.g., heal abilities) that aren’t attack effects but are still attached to the attack. These abilities are performed after the attack is resolved completely (including after any retaliate bonus).
 
@@ -606,11 +606,11 @@ Any ranged attack on an adjacent enemy automatically gains disadvantage.
 
 #### Pierce
 
-<img src="assets/icons/condition_pierce.png" class="inline-condition"/> "**Pierce X**" is an added effect that reduces the target’s shield bonus (see [p.22](#page_22)) by X. Multiple "<img src="assets/icons/condition_pierce.png" class="inline-condition"/> **X**" effects can be combined. For example, if an attack with "<img src="assets/icons/condition_pierce.png" class="inline-condition"/> **2**" gains "<img src="assets/icons/condition_pierce.png" class="inline-condition"/> **3**," the effect would reduce the target’s shield bonus by 5 for that attack.
+<img src="assets/icons/condition_pierce.png" class="inline-condition"/> "**Pierce X**" is an added effect that reduces the target’s shield bonus (see [22](#anchor_22)) by X. Multiple "<img src="assets/icons/condition_pierce.png" class="inline-condition"/> **X**" effects can be combined. For example, if an attack with "<img src="assets/icons/condition_pierce.png" class="inline-condition"/> **2**" gains "<img src="assets/icons/condition_pierce.png" class="inline-condition"/> **3**," the effect would reduce the target’s shield bonus by 5 for that attack.
 
 ---
 
-<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_20" class="page-number">20</a></p>
+<p align="right" class="page-anchor"><a href="#anchor_1">🔝</a>&nbsp; &nbsp;<a name="anchor_20" class="page-number">20</a></p>
 
 ---
 
@@ -646,7 +646,7 @@ A condition effect can also be added to other abilities as an added effect, caus
 
 ---
 
-<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_21" class="page-number">21</a></p>
+<p align="right" class="page-anchor"><a href="#anchor_1">🔝</a>&nbsp; &nbsp;<a name="anchor_21" class="page-number">21</a></p>
 
 ---
 
@@ -664,19 +664,19 @@ A single heal can remove any combination of wound and poison from a figure. Howe
 
 An active bonus ability is any ability that provides an active bonus to a figure or their allies. When a character performs an active bonus ability, the card is placed in their active area to track the bonus.
 
-> Active bonus abilities have icons to indicate the duration of the bonuses they provide. When a bonus expires, even if the action has other active bonus abilities, the card is removed from the character’s active area; an A-side card is flipped to its B-side and returned to your hand, a B-side card is placed in your discard pile, or the card is placed in your lost pile if the action has a lost icon (see [p.28](#page_28)).
+> Active bonus abilities have icons to indicate the duration of the bonuses they provide. When a bonus expires, even if the action has other active bonus abilities, the card is removed from the character’s active area; an A-side card is flipped to its B-side and returned to your hand, a B-side card is placed in your discard pile, or the card is placed in your lost pile if the action has a lost icon (see [28](#anchor_28)).
 
 <img src="assets/icons/use_round_bonus.png" class="inline-icon"/> **Round Bonuses:** These bonuses activate when the ability is performed and expire at the end of the round.
 
 <img src="assets/icons/use_persistent_bonus.png" class="inline-icon"/> **Persistent Bonuses:** These bonuses activate when the ability is performed and expire when the specified removal condition has been fulfilled.
 
-A character may voluntarily remove a card with a persistent bonus (but not a round bonus) from their active area before the bonus expires, but doing so removes the bonus. This can be done at any time except during another ability. Because cards with persistent bonuses in your active area can be dismissed, you can consider them to be in the zone they will be moved to once dismissed; <span class="new-to-bnb">that is the hand for A-side cards, the discard pile for B-side cards,</span> or the lost pile for any card with a lost icon. As such, cards with persistent bonuses in your active area can count toward the two cards in your <span class="new-to-bnb">hand and/or discard pile required to rest (see <a href="#page_27">p.27</a>). Likewise, they can be dismissed and then discarded or lost to negate damage (see <a href="#page_28">p.28</a>).</span> When you recover discarded cards (by resting, for example) or lost cards (through special actions), you have the choice of recovering cards in your active area or leaving them in the active area.
+A character may voluntarily remove a card with a persistent bonus (but not a round bonus) from their active area before the bonus expires, but doing so removes the bonus. This can be done at any time except during another ability. Because cards with persistent bonuses in your active area can be dismissed, you can consider them to be in the zone they will be moved to once dismissed; <span class="new-to-bnb">that is the hand for A-side cards, the discard pile for B-side cards,</span> or the lost pile for any card with a lost icon. As such, cards with persistent bonuses in your active area can count toward the two cards in your <span class="new-to-bnb">hand and/or discard pile required to rest (see <a href="#anchor_27">27</a>). Likewise, they can be dismissed and then discarded or lost to negate damage (see <a href="#anchor_28">28</a>).</span> When you recover discarded cards (by resting, for example) or lost cards (through special actions), you have the choice of recovering cards in your active area or leaving them in the active area.
 
 Actions with active bonus abilities might also have other abilities, but these other abilities are only performed when the card is played. There is a wide variety of active bonus abilities. While these abilities are usually defined by text, there are two common ones with additional rules.
 
 ---
 
-<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_22" class="page-number">22</a></p>
+<p align="right" class="page-anchor"><a href="#anchor_1">🔝</a>&nbsp; &nbsp;<a name="anchor_22" class="page-number">22</a></p>
 
 ---
 
@@ -698,7 +698,7 @@ A retaliate ability applies to the acting figure unless otherwise specified.
 
 ---
 
-<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_23" class="page-number">23</a></p>
+<p align="right" class="page-anchor"><a href="#anchor_1">🔝</a>&nbsp; &nbsp;<a name="anchor_23" class="page-number">23</a></p>
 
 ---
 
@@ -722,7 +722,7 @@ Multiple push or pull effects are combined. For example, if an ability with "<im
 
 ---
 
-<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_24" class="page-number">24</a></p>
+<p align="right" class="page-anchor"><a href="#anchor_1">🔝</a>&nbsp; &nbsp;<a name="anchor_24" class="page-number">24</a></p>
 
 ---
 
@@ -742,17 +742,17 @@ Some abilities cause figures to suffer damage without an attack being performed.
 
 ### Recover
 
-<img src="assets/icons/ability_recover_card.png" class="inline-icon"/> **Recover** is a positive, non-targeted ability that allows you to recover discarded, flipped, or lost ability cards (see [p.28](#page_28)). You look through your hand, discard pile, or lost pile, select cards up to the number specified by the ability, and return those cards to your hand on their A-side.
+<img src="assets/icons/ability_recover_card.png" class="inline-icon"/> **Recover** is a positive, non-targeted ability that allows you to recover discarded, flipped, or lost ability cards (see [28](#anchor_28)). You look through your hand, discard pile, or lost pile, select cards up to the number specified by the ability, and return those cards to your hand on their A-side.
 
 ---
 
-<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_25" class="page-number">25</a></p>
+<p align="right" class="page-anchor"><a href="#anchor_1">🔝</a>&nbsp; &nbsp;<a name="anchor_25" class="page-number">25</a></p>
 
 ---
 
 ## Character Turns
 
-On your turn, unless performing a long rest (see [p.27](#page_27)), you will perform the top action of one of your played ability cards and the bottom action of the other. You cannot perform two top actions or two bottom actions. You can perform either action first; which card was selected for your initiative no longer matters.
+On your turn, unless performing a long rest (see [27](#anchor_27)), you will perform the top action of one of your played ability cards and the bottom action of the other. You cannot perform two top actions or two bottom actions. You can perform either action first; which card was selected for your initiative no longer matters.
 
 <span class="new-to-bnb">Once the action has been performed, A-side ability cards are flipped to their B-side and returned to your hand instead of being discarded, but B-side cards are discarded.</span> Ability cards are placed around the sides of the character card: discarded ability cards to the left, lost ability cards to the right, and active ability cards above the character card. Cards in your hand must be kept separate.
 
@@ -767,19 +767,19 @@ An ability card has the following:
 <ol type="A">
   <li><strong>Side Indicator:</strong> Indicates whether you’re looking at the A-side or B-side of the card.</li>
   <li><strong>Card Name:</strong> The name of the card.</li>
-  <li><strong>Level:</strong> The level of the card, either a base level 1 or upgraded level 2 (see <a href="#page_35">p.35</a>).</li>
-  <li><strong>Initiative Value:</strong> This value determines when you act during the round (see <a href="#page_11">p.11</a>).</li>
+  <li><strong>Level:</strong> The level of the card, either a base level 1 or upgraded level 2 (see <a href="#anchor_35">35</a>).</li>
+  <li><strong>Initiative Value:</strong> This value determines when you act during the round (see <a href="#anchor_11">11</a>).</li>
   <li><strong>Actions:</strong> Each card has a top action and a bottom action. The abilities of an action are performed from top to bottom, with each ability separated by an ability line.</li>
   <ol type="a">
-    <li>An action might include an active ability icon (see <a href="#page_21">p.21</a>), in which case the card is placed in your active area.</li>
-    <li>An action might include a lost icon (see <a href="#page_28">p.28</a>), in which case the card is placed in the lost pile after its action is performed.</li>
+    <li>An action might include an active ability icon (see <a href="#anchor_21">21</a>), in which case the card is placed in your active area.</li>
+    <li>An action might include a lost icon (see <a href="#anchor_28">28</a>), in which case the card is placed in the lost pile after its action is performed.</li>
   </ol>
   <li><strong>Basic Action Icons:</strong> An ability card can always be used for a basic "<img src="assets/icons/ability_attack.png" class="inline-icon"/> <strong>2</strong>" top action or "<img src="assets/icons/ability_move.png" class="inline-icon"/> <strong>2</strong>" bottom action. <span class="new-to-bnb">If a card is used this way, the card is flipped and returned to your hand (if it was on the A-side) or discarded (if it was on the B-side) as if it has no other icons.</span></li>
 </ol>
 
 ---
 
-<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_26" class="page-number">26</a></p>
+<p align="right" class="page-anchor"><a href="#anchor_1">🔝</a>&nbsp; &nbsp;<a name="anchor_26" class="page-number">26</a></p>
 
 ---
 
@@ -794,7 +794,7 @@ An item entry has the following:
 <ol type="A">
   <li><strong>Item Name:</strong> The name of the item.</li>
   <li><strong>Item Effect:</strong> When the item can be used and what bonus or ability you gain.</li>
-  <li><strong>Item Usage:</strong> What happens to the item after it has been used (see <a href="#page_26">p.26</a>). Some items are only spent, while others are lost. Some items can even be used multiple times.</li>
+  <li><strong>Item Usage:</strong> What happens to the item after it has been used (see <a href="#anchor_26">26</a>). Some items are only spent, while others are lost. Some items can even be used multiple times.</li>
   <li><strong>Item Type:</strong> Each item counts as one of three types: <img src="assets/icons/equip_single_hand.png" class="inline-icon"/>, <img src="assets/icons/equip_dual_hand.png" class="inline-icon"/>, or <img src="assets/icons/equip_item.png" class="inline-icon"/>. These types determine which items you can bring into a scenario.</li>
 </ol>
 
@@ -802,11 +802,11 @@ An item entry has the following:
 
 All items you bring into a scenario are placed below your character card and can be used as specified in the item entry.
 
-You can use any item as long as it is available (see <a href="#page_35">p.35</a>), but you can only bring a limited number of items into a scenario. You can bring up to two <img src="assets/icons/equip_single_hand.png" class="inline-icon"/> items or one <img src="assets/icons/equip_dual_hand.png" class="inline-icon"/> item, and a number of <img src="assets/icons/equip_item.png" class="inline-icon"/> items up to half the scenario level (rounded up).
+You can use any item as long as it is available (see <a href="#anchor_35">35</a>), but you can only bring a limited number of items into a scenario. You can bring up to two <img src="assets/icons/equip_single_hand.png" class="inline-icon"/> items or one <img src="assets/icons/equip_dual_hand.png" class="inline-icon"/> item, and a number of <img src="assets/icons/equip_item.png" class="inline-icon"/> items up to half the scenario level (rounded up).
 
 #### Item Usage
 
-<img src="assets/icons/use_tap_card.png" class="inline-icon"/> **Spent Icon:** The spent icon means the item is spent after use. This is indicated by rotating the card sideways. Spent items can be recovered the next time you perform a long rest (see [p.27](#page_27)).
+<img src="assets/icons/use_tap_card.png" class="inline-icon"/> **Spent Icon:** The spent icon means the item is spent after use. This is indicated by rotating the card sideways. Spent items can be recovered the next time you perform a long rest (see [27](#anchor_27)).
 
 <img src="assets/icons/use_lost.png" class="inline-icon"/> **Lost Icon:** The lost icon means the item is lost after use. This is indicated by returning the card to the pile of unused items. Lost items cannot be used again for the rest of the scenario.
 
@@ -814,7 +814,7 @@ Some items do not have either of these icons. This means the item applies a pass
 
 ---
 
-<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_27" class="page-number">27</a></p>
+<p align="right" class="page-anchor"><a href="#anchor_1">🔝</a>&nbsp; &nbsp;<a name="anchor_27" class="page-number">27</a></p>
 
 ---
 
@@ -827,11 +827,11 @@ Mandatory triggers are effects or abilities which cannot be skipped if any part 
 
 ### Resting
 
-Resting is the main way to retrieve cards from your discard pile. You have two options: a short rest or a long rest. <span class="new-to-bnb">In both cases, the rest can only be performed if you have at least two cards in your hand and/or discard pile. (This includes cards with persistent bonuses in your active area (see <a href="#page_21">p.21</a>) as long as they weren't used for an action with the lost icon.)</span> Resting always results in losing one card.
+Resting is the main way to retrieve cards from your discard pile. You have two options: a short rest or a long rest. <span class="new-to-bnb">In both cases, the rest can only be performed if you have at least two cards in your hand and/or discard pile. (This includes cards with persistent bonuses in your active area (see <a href="#anchor_21">21</a>) as long as they weren't used for an action with the lost icon.)</span> Resting always results in losing one card.
 
-During the End of Round step (see [p.33](#page_33)), you may perform a short rest. <span class="new-to-bnb">When you short rest, return all cards from your discard pile to your hand and flip all B-side cards in your hand to their A-side, then lose one card at random from your hand.</span> If you would like to keep the card that was lost, you can suffer 1 damage to lose a different random card instead, but this can only be done once per short rest.
+During the End of Round step (see [33](#anchor_33)), you may perform a short rest. <span class="new-to-bnb">When you short rest, return all cards from your discard pile to your hand and flip all B-side cards in your hand to their A-side, then lose one card at random from your hand.</span> If you would like to keep the card that was lost, you can suffer 1 damage to lose a different random card instead, but this can only be done once per short rest.
 
-During the Card Selection step (see [p.10](#page_10)), instead of selecting two cards from your hand, you may declare a long rest. This constitutes your entire turn for the round (instead of playing two cards), and it is performed on initiative 99. When you long rest, you follow these steps:
+During the Card Selection step (see [10](#anchor_10)), instead of selecting two cards from your hand, you may declare a long rest. This constitutes your entire turn for the round (instead of playing two cards), and it is performed on initiative 99. When you long rest, you follow these steps:
 1. <span class="new-to-bnb">Return all cards from your discard pile to your hand and flip all B-side cards in your hand to their A-side, then lose one card of your choice from your hand (mandatory).</span>
 1. Perform "**Heal 2, self**" (optional).
 1. Recover all of your spent items (optional). Items can be used during the same turn in which they are recovered.
@@ -840,7 +840,7 @@ You must lose a card as part of resting. If there are no other cards in your han
 
 ---
 
-<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_28" class="page-number">28</a></p>
+<p align="right" class="page-anchor"><a href="#anchor_1">🔝</a>&nbsp; &nbsp;<a name="anchor_28" class="page-number">28</a></p>
 
 ---
 
@@ -876,7 +876,7 @@ If you become exhausted, you lose the scenario.
 
 ---
 
-<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_29" class="page-number">29</a></p>
+<p align="right" class="page-anchor"><a href="#anchor_1">🔝</a>&nbsp; &nbsp;<a name="anchor_29" class="page-number">29</a></p>
 
 ---
 
@@ -909,7 +909,7 @@ A monster card can have the following:
 
 ---
 
-<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_30" class="page-number">30</a></p>
+<p align="right" class="page-anchor"><a href="#anchor_1">🔝</a>&nbsp; &nbsp;<a name="anchor_30" class="page-number">30</a></p>
 
 ---
 
@@ -939,7 +939,7 @@ If you are invisible or if the monster cannot reach a valid hex, given infinite 
 
 ---
 
-<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_31" class="page-number">31</a></p>
+<p align="right" class="page-anchor"><a href="#anchor_1">🔝</a>&nbsp; &nbsp;<a name="anchor_31" class="page-number">31</a></p>
 
 ---
 
@@ -964,7 +964,7 @@ A monster only attacks on its turn if "<img src="assets/icons/ability_attack.png
 
 ---
 
-<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_32" class="page-number">32</a></p>
+<p align="right" class="page-anchor"><a href="#anchor_1">🔝</a>&nbsp; &nbsp;<a name="anchor_32" class="page-number">32</a></p>
 
 ---
 
@@ -996,7 +996,7 @@ No attack effects can be applied to a monster after it dies. If a monster dies w
 
 ---
 
-<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_33" class="page-number">33</a></p>
+<p align="right" class="page-anchor"><a href="#anchor_1">🔝</a>&nbsp; &nbsp;<a name="anchor_33" class="page-number">33</a></p>
 
 ---
 
@@ -1008,7 +1008,7 @@ After all figures on the map have taken a turn, the End of Round step begins. Pe
   - A-side card: flip it to its B-side and return it to your hand
   - B-side card: place it in your discard pile 
   - If the card has a lost icon, place it in your lost pile
-1. If you have at least two cards in your hand and/or discard pile, you may perform a short rest (see [p.27](#page_27)).
+1. If you have at least two cards in your hand and/or discard pile, you may perform a short rest (see [27](#anchor_27)).
 
 ### Tracking Rounds
 
@@ -1016,7 +1016,7 @@ If a scenario has effects that occur at specific times, the rounds can be tracke
 
 ---
 
-<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_34" class="page-number">34</a></p>
+<p align="right" class="page-anchor"><a href="#anchor_1">🔝</a>&nbsp; &nbsp;<a name="anchor_34" class="page-number">34</a></p>
 
 ---
 
@@ -1038,7 +1038,7 @@ If the scenario was completed, read the conclusion of the scenario, which is fou
 
 ---
 
-<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_35" class="page-number">35</a></p>
+<p align="right" class="page-anchor"><a href="#anchor_1">🔝</a>&nbsp; &nbsp;<a name="anchor_35" class="page-number">35</a></p>
 
 ---
 
@@ -1066,7 +1066,7 @@ If the scenario was completed, read the conclusion of the scenario, which is fou
 
 ---
 
-<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_36" class="page-number">36</a></p>
+<p align="right" class="page-anchor"><a href="#anchor_1">🔝</a>&nbsp; &nbsp;<a name="anchor_36" class="page-number">36</a></p>
 
 ---
 
@@ -1090,7 +1090,7 @@ If the scenario was completed, read the conclusion of the scenario, which is fou
 
 ---
 
-<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_37" class="page-number">37</a></p>
+<p align="right" class="page-anchor"><a href="#anchor_1">🔝</a>&nbsp; &nbsp;<a name="anchor_37" class="page-number">37</a></p>
 
 ---
 
@@ -1121,7 +1121,7 @@ Each monster performs all of its abilities from top to bottom (move, attack, and
 
 ---
 
-<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_38" class="page-number">38</a></p>
+<p align="right" class="page-anchor"><a href="#anchor_1">🔝</a>&nbsp; &nbsp;<a name="anchor_38" class="page-number">38</a></p>
 
 ---
 
@@ -1177,7 +1177,7 @@ Each monster performs all of its abilities from top to bottom (move, attack, and
 
 ---
 
-<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_39" class="page-number">39</a></p>
+<p align="right" class="page-anchor"><a href="#anchor_1">🔝</a>&nbsp; &nbsp;<a name="anchor_39" class="page-number">39</a></p>
 
 ---
 
@@ -1233,7 +1233,7 @@ Each monster performs all of its abilities from top to bottom (move, attack, and
 
 ---
 
-<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_40" class="page-number">40</a></p>
+<p align="right" class="page-anchor"><a href="#anchor_1">🔝</a>&nbsp; &nbsp;<a name="anchor_40" class="page-number">40</a></p>
 
 ---
 
@@ -1251,7 +1251,7 @@ The following is a complete list of all component errata. If a discrepency exist
 
 ---
 
-<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_41" class="page-number">41</a></p>
+<p align="right" class="page-anchor"><a href="#anchor_1">🔝</a>&nbsp; &nbsp;<a name="anchor_41" class="page-number">41</a></p>
 
 ---
 
@@ -1372,7 +1372,7 @@ The following is a complete list of all component errata. If a discrepency exist
 
 ---
 
-<p align="right" class="page-anchor"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_42" class="page-number">42</a></p>
+<p align="right" class="page-anchor"><a href="#anchor_1">🔝</a>&nbsp; &nbsp;<a name="anchor_42" class="page-number">42</a></p>
 
 ---
 
@@ -1382,7 +1382,7 @@ The following is a complete list of all component errata. If a discrepency exist
 <table>
 <tr><td>
 
-<h3>Beginning a Scenario (<a href="#page_7">p.7</a>)</h3>
+<h3>Beginning a Scenario (<a href="#anchor_7">7</a>)</h3>
 
 <ol>
 <li>Select a scenario.</li>
@@ -1399,7 +1399,7 @@ The following is a complete list of all component errata. If a discrepency exist
 <li>Apply any remaining scenario effects.</li>
 </ol>
 
-<h3>Scenario Phase (<a href="#page_6">p.6</a>)</h3>
+<h3>Scenario Phase (<a href="#anchor_6">6</a>)</h3>
 
 <ol>
 <li>Start of Round Effects</li>
@@ -1409,19 +1409,19 @@ The following is a complete list of all component errata. If a discrepency exist
 <li>End of Round</li>
 </ol>
 
-<h3>Targeted Abilities (<a href="#page_13">p.13</a>)</h3>
+<h3>Targeted Abilities (<a href="#anchor_13">13</a>)</h3>
 
 <ul>
-<li>Attack (<a href="#page_18">p.18</a>)</li>
-<li>Conditions (<a href="#page_20">p.20</a>)</li>
-<li>Heal (<a href="#page_21">p.21</a>)</li>
-<li>Forced Movement (<a href="#page_23">p.23</a>)</li>
-<li>Controlling Monsters (<a href="#page_24">p.24</a>)</li>
+<li>Attack (<a href="#anchor_18">18</a>)</li>
+<li>Conditions (<a href="#anchor_20">20</a>)</li>
+<li>Heal (<a href="#anchor_21">21</a>)</li>
+<li>Forced Movement (<a href="#anchor_23">23</a>)</li>
+<li>Controlling Monsters (<a href="#anchor_24">24</a>)</li>
 </ul>
 
 </td><td>
 
-<h3>Attack Modification Order (<a href="#page_18">p.18</a>)</h3>
+<h3>Attack Modification Order (<a href="#anchor_18">18</a>)</h3>
 
 <ol>
 <li>Apply all attack bonuses and penalties.</li>
@@ -1429,7 +1429,7 @@ The following is a complete list of all component errata. If a discrepency exist
 <li>Apply the target's shield bonus.</li>
 </ol>
 
-<h3>End of Round (<a href="#page_33">p.33</a>)</h3>
+<h3>End of Round (<a href="#anchor_33">33</a>)</h3>
 
 <ol>
 <li>Trigger any end-of-round effects.</li>
@@ -1437,7 +1437,7 @@ The following is a complete list of all component errata. If a discrepency exist
 <li>Perform a short rest if desired.</li>
 </ol>
 
-<h3>Ending a Scenario (<a href="#page_34">p.34</a>)</h3>
+<h3>Ending a Scenario (<a href="#anchor_34">34</a>)</h3>
 
 <h4>Whether the Scenario was Lost or Completed:</h4>
 
@@ -1463,12 +1463,12 @@ The following is a complete list of all component errata. If a discrepency exist
 <h3>Timing of Attack Effects</h3>
 
 <ul>
-<li>+X Attack (<a href="#page_18">p.18</a>) – during damage resolution</li>
-<li>Pierce (<a href="#page_19">p.19</a>) – during damage resolution</li>
-<li>+X Target (<a href="#page_13">p.13</a>) – after the attack resolves</li>
-<li>Conditions (<a href="#page_20">p.20</a>) – after the attack resolves</li>
-<li>Forced Movement (<a href="#page_23">p.23</a>) – after the attack resolves</li>
-<li>Other Added Effects (<a href="#page_19">p.19</a>) – after the attack resolves</li>
+<li>+X Attack (<a href="#anchor_18">18</a>) – during damage resolution</li>
+<li>Pierce (<a href="#anchor_19">19</a>) – during damage resolution</li>
+<li>+X Target (<a href="#anchor_13">13</a>) – after the attack resolves</li>
+<li>Conditions (<a href="#anchor_20">20</a>) – after the attack resolves</li>
+<li>Forced Movement (<a href="#anchor_23">23</a>) – after the attack resolves</li>
+<li>Other Added Effects (<a href="#anchor_19">19</a>) – after the attack resolves</li>
 </ul>
 
 </td></tr>
@@ -1476,7 +1476,7 @@ The following is a complete list of all component errata. If a discrepency exist
 </div>
 
 
-### Scenario Level ([p.8](#page_8))
+### Scenario Level ([8](#anchor_8))
 
 |	Scenario Level	          |	1	|	2	|	3	|	4	|	5	|
 | :---                      |:---:|:---:|:---:|:---:|:---:|
