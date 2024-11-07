@@ -596,9 +596,9 @@ Some modifiers have added effects, besides modifying the attack value, and **an 
 
 #### Advantage and Disadvantage
 
-> Some effects cause an attack to gain advantage or disadvantage. With **advantage**, the attacker rolls two modifiers on the same row and uses one of them. A monster always uses the better one (e.g. <img src="assets/icons/dice_result_plus.png" class="inline-icon"/> over <img src="assets/icons/dice_result_neutral.png" class="inline-icon"/> or <img src="assets/icons/dice_result_minus.png" class="inline-icon"/>; <img src="assets/icons/dice_result_neutral.png" class="inline-icon"/> over <img src="assets/icons/dice_result_minus.png" class="inline-icon"/>), but you may use either one.
->
-> With **disadvantage**, the attacker rolls two modifiers on the same row and always uses the worse one (e.g. <img src="assets/icons/dice_result_minus.png" class="inline-icon"/> over <img src="assets/icons/dice_result_neutral.png" class="inline-icon"/> or <img src="assets/icons/dice_result_plus.png" class="inline-icon"/>; <img src="assets/icons/dice_result_neutral.png" class="inline-icon"/> over <img src="assets/icons/dice_result_plus.png" class="inline-icon"/>).
+> Some effects cause an attack to gain advantage or disadvantage. With **advantage**, the attacker rolls two modifiers from sequential rows and uses one of them. A monster always uses the better one, but you may use either one. With **disadvantage**, the attacker rolls two modifiers from sequential rows and always uses the worse one.
+
+When there is ambiguity about which modifier is better or worse, the attacker must use the one drawn first. <span class="new-to-bnb">Ambiguity occurs only when two modifiers have the same numeric value but differing added effects (eg. negative conditions, additional abilities, etc.). A non-numeric effect that is positive for the attacker—such as applying a negative condition to the target—is considered to have a positive but undefined value. A non-numeric effect that is negative for the attacker—such as applying a negative condition to themself—is considered to have a negative but undefined value.</span>
 
 An attack cannot gain multiple instances of advantage or disadvantage. If an attack has both advantage and disadvantage, it is considered to have neither.
 
@@ -640,7 +640,7 @@ A condition effect can also be added to other abilities as an added effect, caus
 
 <img src="assets/icons/condition_immobilize.png" class="inline-condition"/> **Immobilize:** The figure cannot perform any move abilities. Immobilize is removed at the end of the figure’s next turn.
 
-<img src="assets/icons/condition_disarm.png" class="inline-condition"/> **Disarm:** The figure cannot perform any attack abilities. Disarm is removed at the end of the figure’s next turn.
+<img src="assets/icons/condition_disarm.png" class="inline-condition"/> **Disarm:** The figure cannot perform any attacks. Disarm is removed at the end of the figure’s next turn.
 
 <img src="assets/icons/condition_muddle.png" class="inline-condition"/> **Muddle:** The figure gains disadvantage on all of their attacks. Muddle is removed at the end of the figure’s next turn.
 
