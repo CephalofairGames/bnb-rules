@@ -604,6 +604,8 @@ An attack cannot gain multiple instances of advantage or disadvantage. If an att
 
 Any ranged attack on an adjacent enemy automatically gains disadvantage.
 
+> After an attack with advantage or disadvantage is performed, the tracking cube on that modifier tray is moved down two rows instead of just one.
+
 #### Pierce
 
 <img src="assets/icons/condition_pierce.png" class="inline-condition"/> "**Pierce X**" is an added effect that reduces the target’s shield bonus (see [22](#anchor_22)) by X. Multiple "<img src="assets/icons/condition_pierce.png" class="inline-condition"/> **X**" effects can be combined. For example, if an attack with "<img src="assets/icons/condition_pierce.png" class="inline-condition"/> **2**" gains "<img src="assets/icons/condition_pierce.png" class="inline-condition"/> **3**," the effect would reduce the target’s shield bonus by 5 for that attack.
