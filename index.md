@@ -8,7 +8,9 @@
 
 This light weight rules resource for *Gloomhaven: Buttons & Bugs* is intended to be easy to access, search, and print. It is updated with any corrections and errata.
 
-Last updated 10/08/2024
+Version: v2025.01.07a
+
+Last updated 01/07/2025
 
 For more resources, visit [cephalofair.com/bnb](https://cephalofair.com/bnb)
 
@@ -372,7 +374,7 @@ Determine the initiative order by comparing the initiative values on your initia
 
 > ### Elite Monsters
 >
-> When you roll the die for an elite monster, instead of placing a single white cube on the rolled result, place two white cubes, one on each of the results not rolled.
+> Elite monsters are considered to have rolled the other two results. Instead of placing a single white cube on the rolled result, place two white cubes, one on each of the other two results.
 > The elite monster will take a turn at each of the marked initiative values, performing the abilities of the first marked action on its first turn and the abilities of the second marked action on its second turn.
 
 ### Resolving Ties
@@ -381,7 +383,7 @@ If there is a tie in initiative between you and a monster, you act first.
 
 ### Monster Order
 
-Each monster takes its turn based on initiative order. All monsters of a single type take their turns at the same initiative in ascending numeric order (see [30](#anchor_30)).
+Each monster takes its turn based on initiative order. All monsters of the same type and rank take their turns at the same initiative in ascending numeric order (see [30](#anchor_30)).
 
 ---
 
@@ -670,9 +672,9 @@ An active bonus ability is any ability that provides an active bonus to a figure
 
 <img src="assets/icons/use_round_bonus.png" class="inline-icon"/> **Round Bonuses:** These bonuses activate when the ability is performed and expire at the end of the round.
 
-<img src="assets/icons/use_persistent_bonus.png" class="inline-icon"/> **Persistent Bonuses:** These bonuses activate when the ability is performed and expire when the specified removal condition has been fulfilled.
+<img src="assets/icons/use_persistent_bonus.png" class="inline-icon"/> **Persistent Bonuses:** These bonuses activate when the ability is performed and <span="new-to-bnb">do not expire until you choose to dismiss them or when the specified duration or event has passed. For example, a typical <img src="assets/icons/ability_shield.png" class="inline-icon"/> or <img src="assets/icons/ability_retaliate.png" class="inline-icon"/> ability has no defined duration and expires only when you choose to dismiss it, but a bonus that affects "your next attack" expires after the next attack you perform.</span>
 
-A character may voluntarily remove a card with a persistent bonus (but not a round bonus) from their active area before the bonus expires, but doing so removes the bonus. This can be done at any time except during another ability. Because cards with persistent bonuses in your active area can be dismissed, you can consider them to be in the zone they will be moved to once dismissed; <span class="new-to-bnb">that is the hand for A-side cards, the discard pile for B-side cards,</span> or the lost pile for any card with a lost icon. As such, cards with persistent bonuses in your active area can count toward the two cards in your <span class="new-to-bnb">hand and/or discard pile required to rest (see <a href="#anchor_27">27</a>). Likewise, they can be dismissed and then discarded or lost to negate damage (see <a href="#anchor_28">28</a>).</span> When you recover discarded cards (by resting, for example) or lost cards (through special actions), you have the choice of recovering cards in your active area or leaving them in the active area.
+> A character may voluntarily remove a card with a round bonus or persistent bonus from their active area before the bonus expires, but doing so removes the bonus. This can be done at any time except during another ability. Because cards with active bonuses in your active area can be dismissed, you can consider them to be in the zone they will be moved to once dismissed; that is the hand for A-side cards, the discard pile for B-side cards, or the lost pile for any card with a lost icon. As such, cards with persistent bonuses in your active area can count toward the two cards in your hand and/or discard pile required to rest (see <a href="#anchor_27">27</a>). Likewise, they can be dismissed and then discarded or lost to negate damage (see <a href="#anchor_28">28</a>). When you recover discarded cards (by resting, for example) or lost cards (through special actions), you have the choice of recovering cards in your active area or leaving them in the active area.
 
 Actions with active bonus abilities might also have other abilities, but these other abilities are only performed when the card is played. There is a wide variety of active bonus abilities. While these abilities are usually defined by text, there are two common ones with additional rules.
 
@@ -927,7 +929,7 @@ All monsters of each type act based on the initiative value rolled for their typ
 
 > Because Buttons & Bugs is a solo game, you are the sole focus of the monsters. They will target you with all attacks and negative targeted abilities.
 
-The monster identifies the closest hex from which it can perform its attack abilities; this is called its "attack hex." If the monster cannot attack on its turn, either because it does not have an attack ability or because it is disarmed, it moves as if for a single-target melee attack. The monster follows the shortest path to its attack hex. If it can't reach the attack hex this turn, it will take the shortest path which brings it as close as possible to the attack hex. If it can't get closer to the attack hex this turn, it will not move.
+The monster identifies the closest unoccupied hex from which it can perform its attack abilities; this is called its "attack hex." If the monster cannot attack on its turn, either because it does not have an attack ability or because it is disarmed, it moves as if for a single-target melee attack. The monster follows the shortest path to its attack hex. If it can't reach the attack hex this turn, it will take the shortest path which brings it as close as possible to the attack hex. If it can't get closer to the attack hex this turn, it will not move.
 
 "Closest" and "shortest" mean using the fewest movement points to navigate around obstacles and hazards (if possible) and/or through difficult terrain using the normal, jumping, and flying movement rules.
 
@@ -937,7 +939,7 @@ Monsters always prioritize a path that triggers the fewest hazards, even when th
 
 #### No Focus
 
-If you are invisible or if the monster cannot reach a valid hex, given infinite movement, from which it can perform its attack, the monster does not move or attack but still performs any other abilities listed on its ability card.
+If you are invisible or if the monster cannot reach a valid hex, given infinite movement, from which it can perform its attack, the monster does not move or attack but still performs any other abilities listed in its rolled action.
 
 ---
 
@@ -947,11 +949,11 @@ If you are invisible or if the monster cannot reach a valid hex, given infinite 
 
 ### Monster Movement
 
-Once a monster has identified its path to an attack hex, it then performs the abilities listed on its ability card in order — the first of which is usually its movement. A monster only moves on its turn if "<img src="assets/icons/ability_move.png" class="inline-icon"/> **X**" is listed in its rolled action.
+Once a monster has identified its path to an attack hex, it then performs the abilities listed in its rolled action in order — the first of which is usually its movement. A monster only moves on its turn if "<img src="assets/icons/ability_move.png" class="inline-icon"/> **X**" is listed in its rolled action.
 
 A monster always uses the fewest movement points required to maximize its attacks for its current turn. If a monster cannot attack on its current turn, it only moves if it can shorten the path to its attack hex. If an adjacent monster is performing a ranged attack, it will first move away so it doesn’t have disadvantage, if able. 
 
-Having abilities other than <img src="assets/icons/ability_attack.png" class="inline-icon"/> listed on its ability card does not affect a monster’s movement in any way. It will simply move according to the above rules and then perform its other abilities as fully as possible.
+Having abilities other than <img src="assets/icons/ability_attack.png" class="inline-icon"/> listed in its rolled action does not affect a monster’s movement in any way. It will simply move according to the above rules and then perform its other abilities as fully as possible.
 
 ### Monster Attacks
 
@@ -1225,7 +1227,7 @@ Each monster performs all of its abilities from top to bottom (move, attack, and
 | Drop of Element Potion	  | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	10	| <img src="assets/icons/use_lost.png" class="inline-icon"/>     |	During your turn, create <img src="assets/icons/element_wild.png" class="inline-element"/><img src="assets/icons/element_wild.png" class="inline-element"/>.	 |
 | Pinch of Doom Powder	    | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	11	| <img src="assets/icons/use_lost.png" class="inline-icon"/>     |	During your attack, add <img src="assets/icons/condition_disarm.png" class="inline-condition"/>, <img src="assets/icons/condition_poison.png" class="inline-condition"/>.	 |
 | Lucky Cat's-Eye Marble	  | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	14	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	During your attack, treat your <img src="assets/icons/dice_result_minus.png" class="inline-icon"/> attack modifier as a <img src="assets/icons/dice_result_neutral.png" class="inline-icon"/> attack modifier.	 |
-| Embernettle	              | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	14	|                                                                 |	During an enemy's attack, <img src="assets/icons/element_spend_fire_earth.png" class="inline-element"/> to <img src="assets/icons/condition_wound.png" class="inline-condition"/> that enemy.	 |
+| Embernettle	              | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	14	|                                                                 |	After an enemy's attack, <img src="assets/icons/element_spend_fire_earth.png" class="inline-element"/> to <img src="assets/icons/condition_wound.png" class="inline-condition"/> that enemy.	 |
 | Drop of Stamina Elixir	  | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	16	| <img src="assets/icons/use_lost.png" class="inline-icon"/>     |	During your turn, <img src="assets/icons/ability_recover_card.png" class="inline-icon"/> one card from your hand or discard pile to its A-side.	 |
 | Drop of Haste Elixir	    | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	16	| <img src="assets/icons/use_lost.png" class="inline-icon"/>     |	After performing the top action of an ability card, also perform its bottom action.	 |
 | Drop of Strength Potion	  | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	17	| <img src="assets/icons/use_lost.png" class="inline-icon"/>     |	During your turn, <img src="assets/icons/condition_strengthen.png" class="inline-condition"/> self.	 |
