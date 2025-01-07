@@ -8,7 +8,7 @@
 
 This light weight rules resource for *Gloomhaven: Buttons & Bugs* is intended to be easy to access, search, and print. It is updated with any corrections and errata.
 
-Version: v2025.01.07a
+Version: v2025.01.07b
 
 Last updated 01/07/2025
 
@@ -672,9 +672,9 @@ An active bonus ability is any ability that provides an active bonus to a figure
 
 <img src="assets/icons/use_round_bonus.png" class="inline-icon"/> **Round Bonuses:** These bonuses activate when the ability is performed and expire at the end of the round.
 
-<img src="assets/icons/use_persistent_bonus.png" class="inline-icon"/> **Persistent Bonuses:** These bonuses activate when the ability is performed and <span="new-to-bnb">do not expire until you choose to dismiss them or when the specified duration or event has passed. For example, a typical <img src="assets/icons/ability_shield.png" class="inline-icon"/> or <img src="assets/icons/ability_retaliate.png" class="inline-icon"/> ability has no defined duration and expires only when you choose to dismiss it, but a bonus that affects "your next attack" expires after the next attack you perform.</span>
+<img src="assets/icons/use_persistent_bonus.png" class="inline-icon"/> **Persistent Bonuses:** These bonuses activate when the ability is performed and <span class="new-to-bnb">do not expire until you choose to dismiss them or when the specified duration or event has passed. For example, a typical <img src="assets/icons/ability_shield.png" class="inline-icon"/> or <img src="assets/icons/ability_retaliate.png" class="inline-icon"/> ability has no defined duration and expires only when you choose to dismiss it, but a bonus that affects "your next attack" expires after the next attack you perform.</span>
 
-> A character may voluntarily remove a card with a round bonus or persistent bonus from their active area before the bonus expires, but doing so removes the bonus. This can be done at any time except during another ability. Because cards with active bonuses in your active area can be dismissed, you can consider them to be in the zone they will be moved to once dismissed; that is the hand for A-side cards, the discard pile for B-side cards, or the lost pile for any card with a lost icon. As such, cards with persistent bonuses in your active area can count toward the two cards in your hand and/or discard pile required to rest (see <a href="#anchor_27">27</a>). Likewise, they can be dismissed and then discarded or lost to negate damage (see <a href="#anchor_28">28</a>). When you recover discarded cards (by resting, for example) or lost cards (through special actions), you have the choice of recovering cards in your active area or leaving them in the active area.
+> A character may voluntarily remove a card with a round bonus or persistent bonus from their active area before the bonus expires, but doing so removes the bonus. This can be done at any time except during another ability. Because cards with active bonuses in your active area can be dismissed, you can consider them to be in the zone they will be moved to once dismissed; that is the hand for A-side cards, the discard pile for B-side cards, or the lost pile for any card with a lost icon. As such, cards with active bonuses in your active area can count toward the two cards in your hand and/or discard pile required to rest (see <a href="#anchor_27">27</a>). Likewise, they can be dismissed and then discarded or lost to negate damage (see <a href="#anchor_28">28</a>). When you recover discarded cards (by resting, for example) or lost cards (through special actions), you have the choice of recovering cards in your active area or leaving them in the active area.
 
 Actions with active bonus abilities might also have other abilities, but these other abilities are only performed when the card is played. There is a wide variety of active bonus abilities. While these abilities are usually defined by text, there are two common ones with additional rules.
 
