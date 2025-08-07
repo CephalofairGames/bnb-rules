@@ -8,9 +8,9 @@
 
 This light weight rules resource for *Gloomhaven: Buttons & Bugs* is intended to be easy to access, search, and print. It is updated with any corrections and errata.
 
-Version: v2025.01.07c
+Version: v2025.01.07d
 
-Last updated 01/07/2025
+Last updated 08/07/2025
 
 For more resources, visit [cephalofair.com/bnb](https://cephalofair.com/bnb)
 
@@ -374,7 +374,7 @@ Determine the initiative order by comparing the initiative values on your initia
 
 > ### Elite Monsters
 >
-> Elite monsters are considered to have rolled the other two results. Instead of placing a single white cube on the rolled result, place two white cubes, one on each of the other two results.
+> Elite monsters have a different rank than normal monsters and are considered to have rolled the other two results. Instead of placing a single white cube on the rolled result, place two white cubes, one on each of the other two results.
 > The elite monster will take a turn at each of the marked initiative values, performing the abilities of the first marked action on its first turn and the abilities of the second marked action on its second turn.
 
 ### Resolving Ties
