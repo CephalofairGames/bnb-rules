@@ -598,9 +598,7 @@ Some modifiers have added effects, besides modifying the attack value, and **an 
 
 #### Advantage and Disadvantage
 
-> Some effects cause an attack to gain advantage or disadvantage. With **advantage**, the attacker rolls two modifiers from sequential rows and uses one of them. A monster always uses the better one, but you may use either one. With **disadvantage**, the attacker rolls two modifiers from sequential rows and always uses the worse one.
-
-When there is ambiguity about which modifier is better or worse, the attacker must use the one drawn first. <span class="new-to-bnb">Ambiguity occurs only when two modifiers have the same numeric value but differing added effects (eg. negative conditions, additional abilities, etc.). A non-numeric effect that is positive for the attacker—such as applying a negative condition to the target—is considered to have a positive but undefined value. A non-numeric effect that is negative for the attacker—such as applying a negative condition to themself—is considered to have a negative but undefined value.</span>
+> Some effects cause an attack to gain advantage or disadvantage. With **advantage**, the attacker rolls the die twice and then applies the better result (<img src="assets/icons/dice_result_minus.png" class="inline-icon"/> \< <img src="assets/icons/dice_result_neutral.png" class="inline-icon"/> \< <img src="assets/icons/dice_result_plus.png" class="inline-icon"/>). to their current modifier row, resolving the attack as normal. With **disadvantage**, apply the worse result of two rolls.
 
 An attack cannot gain multiple instances of advantage or disadvantage. If an attack has both advantage and disadvantage, it is considered to have neither.
 
