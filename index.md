@@ -10,11 +10,11 @@ This light weight rules resource for *Gloomhaven: Buttons & Bugs* is intended to
 
 Version: v2025.01.07d
 
-Last updated 08/07/2025
+Last updated 01/06/2026
 
 For more resources, visit [cephalofair.com/bnb](https://cephalofair.com/bnb)
 
-© 2024 Cephalofair Games, LLC. All Rights Reserved.
+© 2026 Cephalofair Games, LLC. All Rights Reserved.
 
 ### Continuing to Learn and Play
 
@@ -603,8 +603,6 @@ Some modifiers have added effects, besides modifying the attack value, and **an 
 An attack cannot gain multiple instances of advantage or disadvantage. If an attack has both advantage and disadvantage, it is considered to have neither.
 
 Any ranged attack on an adjacent enemy automatically gains disadvantage.
-
-> After an attack with advantage or disadvantage is performed, the tracking cube on that modifier tray is moved down two rows instead of just one.
 
 #### Pierce
 
