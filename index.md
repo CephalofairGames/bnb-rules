@@ -8,7 +8,7 @@
 
 This light weight rules resource for *Gloomhaven: Buttons & Bugs* is intended to be easy to access, search, and print. It is updated with any corrections and errata.
 
-Version: v2025.01.07d
+Version: v2026.07.31
 
 Last updated 07/31/2026
 
@@ -240,7 +240,7 @@ Each Scenario Phase consists of three distinct steps:
 > 1. Read the scenario introduction, special rules, and goal in the scenario entry and check the scenario level.
 > 1. Retrieve the monster card for each monster type present in the scenario.
 > 1. Resolve any scenario effects or note them to be resolved later in setup. Flip the scenario card to its map side.
-> 1. <span class="pubcrawler">If you intend to use any Variable Difficulty cards (XXXX), select them now.</span>
+> 1. <span class="pubcrawler">If you intend to use any <a href="#anchor_34">Variable Difficulty cards</a>, select them now.</span>
 > 1. Place each monster card in its own monster tray. For each tray, place one white cube on the tray’s <img src="assets/icons/dice_result_neutral.png" class="inline-icon"/> slot. Retrieve the monster hit point dial colored to correspond to each monster on the scenario map. For each elite monster, place an additional white cube on the tray's <img src="assets/icons/dice_result_minus.png" class="inline-icon"/> slot.
 > 1. Place uniquely colored cubes on the map to represent each monster in the scenario, matching the color shown on the scenario map. Place your character mini on the indicated starting space.
 > 1. Retrieve both attack modifier trays. If the scenario is level 2 or higher, retrieve the appropriate level modifier card for your character and place it in the character modifier tray. You may select a monster difficulty other than “standard” by placing the chosen difficulty monster modifier card in the monster modifier tray.
@@ -249,7 +249,7 @@ Each Scenario Phase consists of three distinct steps:
 > 1. <span class="pubcrawler">If your character has five level 1 ability cards and five level 2 ability cards, at the start of each scenario, you must choose which four of their five cards you want to bring into that scenario.</span>
 > 1. Retrieve your character’s level 1 ability cards and select a number of cards to upgrade equal to the scenario level minus one. Replace the selected level 1 ability cards with the corresponding level 2 ability cards (listed on the back of your character card). Your selected cards will start in your hand. <span class="pubcrawler">For characters that have five cards, at scenario level 5, instead upgrade all cards to their level 2 versions.</span>
 > 1. Set the character hit point dial to your character’s maximum hit point value, which is shown below the scenario level in the chart at the bottom of your character card. Set each monster’s corresponding colored hit point dial to their respective maximum hit points.
-> 1. <span class="pubcrawler">IMake note of the Tags on the back of your character card. These are largely cosmetic, but take special note of the "micro" tag, which signifies that this character is naturally small, and the micro world is their home. This is different from "shrunken" characters, who were once large, but have been reduced in size by some magical means. All six characters from Buttons & Bugs are considered to be shrunken. In the Pub Crawlers expansion, micro and shrunken characters will encounter some different scenarios and story beats from each other.</span>
+> 1. <span class="pubcrawler">Make note of the Tags on the back of your character card. These are largely cosmetic, but take special note of the "micro" tag, which signifies that this character is naturally small, and the micro world is their home. This is different from "shrunken" characters, who were once large, but have been reduced in size by some magical means. All six characters from Buttons & Bugs are considered to be shrunken. In the Pub Crawlers expansion, micro and shrunken characters will encounter some different scenarios and story beats from each other.</span>
 > 1. Apply any remaining scenario effects.
 
 ---
@@ -671,17 +671,17 @@ A condition effect can also be added to other abilities as an added effect, caus
 
 <img src="assets/icons/condition_muddle.png" class="inline-condition"/> **Muddle:** The figure gains disadvantage on all of their attacks. Muddle is removed at the end of the figure’s next turn.
 
-> <img src="assets/icons/condition_rot.png" class="inline-condition"/> **Rot:** All attacks performed by the figure gain -1. Rot is removed when the figure is healed. Like poison, rot prevents the heal from increasing the figure’s current hit point value.
+<span class="pubcrawler"><img src="assets/icons/condition_rot.png" class="inline-condition"/> **Rot:** All attacks performed by the figure gain -1. Rot is removed when the figure is healed. Like poison, rot prevents the heal from increasing the figure’s current hit point value.</span>
 
-> <img src="assets/icons/condition_grounded.png" class="inline-condition"/> **Grounded:** The figure loses flying and can no longer gain flying. Grounded is removed at the end of the figure’s next turn. If the figure has a persistent flying bonus, they gain flying immediately upon removing grounded.
+<span class="pubcrawler"><img src="assets/icons/condition_grounded.png" class="inline-condition"/> **Grounded:** The figure loses flying and can no longer gain flying. Grounded is removed at the end of the figure’s next turn. If the figure has a persistent flying bonus, they gain flying immediately upon removing grounded.</span>
 
-> #### Bless & Curse
+#### <span class="pubcrawler">Bless & Curse</span>
 
-> Bless and Curse are conditions that function differently than others. The player character and any of their allies are considered to have one collective pool of bless and curse tokens, such that when either the character or an ally is blessed or cursed, one corresponding token is added to the pool, up to a maximum of 10. All monsters share one collective pool as well. A pool cannot contain both bless and curse tokens. If a curse token should be added to a pool that contains bless tokens, remove a bless token instead. Similarly, gaining a bless token would remove a curse token instead.
+Bless and Curse are conditions that function differently than others. The player character and any of their allies are considered to have one collective pool of bless and curse tokens, such that when either the character or an ally is blessed or cursed, one corresponding token is added to the pool, up to a maximum of 10. All monsters share one collective pool as well. A pool cannot contain both bless and curse tokens. If a curse token should be added to a pool that contains bless tokens, remove a bless token instead. Similarly, gaining a bless token would remove a curse token instead.
 
-> <img src="assets/icons/condition_bless.png" class="inline-condition"/> **Bless:** Whenever a figure with bless tokens in their pool performs an attack, they also roll the bless/curse die. If the result of that die is equal to or less than the number of bless tokens the figure has in their pool, the value of the attack is doubled after all other attack modifications, then one bless token is removed..
+<img src="assets/icons/condition_bless.png" class="inline-condition"/> **Bless:** Whenever a figure with bless tokens in their pool performs an attack, they also roll the bless/curse die. If the result of that die is equal to or less than the number of bless tokens the figure has in their pool, the value of the attack is doubled after all other attack modifications, then one bless token is removed..
 
-> <img src="assets/icons/condition_curse.png" class="inline-condition"/> **Curse:** Whenever a figure with curse tokens in their pool performs an attack, they also roll the bless/curse die. If the result of that die is equal to or less than the number of curse tokens the figure has in their pool, the value of the attack is set to zero after all other attack modifications, then one curse token is removed.
+<img src="assets/icons/condition_curse.png" class="inline-condition"/> **Curse:** Whenever a figure with curse tokens in their pool performs an attack, they also roll the bless/curse die. If the result of that die is equal to or less than the number of curse tokens the figure has in their pool, the value of the attack is set to zero after all other attack modifications, then one curse token is removed.
 
 ---
 
@@ -713,7 +713,7 @@ An active bonus ability is any ability that provides an active bonus to a figure
 
 Actions with active bonus abilities might also have other abilities, but these other abilities are only performed when the card is played. There is a wide variety of active bonus abilities. While these abilities are usually defined by text, there are two common ones with additional rules.
 
-#### Persistent Bonuses with Limited Charges
+#### <span class="pubcrawler">Persistent Bonuses with Limited Charges</span>
 
 Some persistent effects can only be used a certain number of times before they must be lost or discarded. This is tracked by how many times the card has been rotated. When played initially, orient the card normally. Then, each time the bonus is triggered, rotate the card 90 degrees clockwise, even if no benefit is gained. If the bonus is triggered when the <img src="assets/icons/micro_persistent-rotation.png" class="inline-condition"/> icon is on the side of the card closest to the player, discard or lose the card instead (depending on whether a <img src="assets/icons/use_lost.png" class="inline-condition"/> icon is also present).
 
@@ -976,7 +976,7 @@ The monster identifies the closest unoccupied hex from which it can perform its 
 
 ### <span class="pubcrawler">Focus (With Allies)</span>
 
-<span class="pubcrawler">When choosing who to attack between multiple enemies, both monsters and character allies must first find a focus. They find a focus using the following priorities in order:</span>
+When choosing who to attack between multiple enemies, both monsters and character allies must first find a focus. They find a focus using the following priorities in order:
 1. The enemy the attacker can perform its attack on using the fewest movement points. This determination takes into consideration the effects of difficult terrain and moving through the fewest hazardous terrain hexes as possible. The number of movement points may be zero if one or more enemies are already in range 
 1. The enemy who is closest by range to the attacker.
 1. The enemy who acts earliest in the initiative order.
