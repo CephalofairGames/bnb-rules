@@ -393,10 +393,9 @@ Determine the initiative order by comparing the initiative values on your initia
 
 <span class="pubcrawler">Some scenarios have monsters transition from normal to elite or vice versa during a round. These cases are considered spawning. The newly placed monsters perform all their actions for the round, using the result of the action die that was rolled at the start of the round.</span>
 
-### Allies
+### <span class="pubcrawler">Allies</span>
 
-<span class="pubcrawler">Some scenarios feature other figures that are allies to the player character. When allies attack, they use the player’s attack modifier table. Unless otherwise specified, negative abilities (attacks, negative conditions, forced movement) can only target enemies, and positive abilities (heals, positive conditions) can only target allies or the acting figure themselves. Unless otherwise specified, allies are not controlled by the player, but instead act automatically using the focus rules described below.</span>
-
+Some scenarios feature other figures that are allies to the player character. When allies attack, they use the player’s attack modifier table. Unless otherwise specified, negative abilities (attacks, negative conditions, forced movement) can only target enemies, and positive abilities (heals, positive conditions) can only target allies or the acting figure themselves. Unless otherwise specified, allies are not controlled by the player, but instead act automatically using the focus rules described below.
 
 ### Resolving Ties
 
