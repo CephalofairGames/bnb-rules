@@ -10,7 +10,7 @@ This light weight rules resource for *Gloomhaven: Buttons & Bugs* is intended to
 
 Version: v2025.01.07d
 
-Last updated 01/06/2026
+Last updated 07/31/2026
 
 For more resources, visit [cephalofair.com/bnb](https://cephalofair.com/bnb)
 
@@ -139,6 +139,7 @@ Good luck, adventurer!
 
 <p>Lost Scenario <a href="#anchor_34">34</a></p>
 <p>Completed Scenario <a href="#anchor_34">34</a></p>
+<p><span class="pubcrawler">Variable Difficulty</span><a href="#anchor_34">34</a></p>
 
 <h4 id="the-adventure-begins-p35">The Adventure Begins <a href="#anchor_35">35</a></h4>
 
@@ -174,7 +175,7 @@ Oh no! You have been shrunk by magic! To return to your former size, you’ll ne
 
 There are six character classes to choose from, each with their own unique abilities and play styles. You will also be able to customize your character as you progress through items and advanced ability cards.
 
-This document will provide you with details on how to play the game, but if you played another Gloomhaven game, many of these rules will be familiar. We suggest reading all the way through anyways to get a full understanding of how the game works. <span class="new-to-bnb">Rules text highlighted in lavender is information unique to the Buttons & Bugs system and is different from Gloomhaven and Frosthaven.</span>
+This document will provide you with details on how to play the game, but if you played another Gloomhaven game, many of these rules will be familiar. We suggest reading all the way through anyways to get a full understanding of how the game works. <span class="new-to-bnb">Rules text highlighted in lavender is information unique to the Buttons & Bugs system and is different from Gloomhaven and Frosthaven.</span> <span class="pubcrawler">Text in yellow is new to the Pub Crawlers expansion.</span>
 
 ---
 
@@ -190,7 +191,7 @@ You will need to gather the following components for your chosen character to pl
 
 - **Character Card:** This card provides a visual representation of your character, along with your hit point values at different levels and a place to put condition tokens. On the back, you can find a short description of the character and a list of your ability cards and upgrades.
 - **Character Mini:** This is a small plastic piece to represent your character.
-- **Ability Cards:** There are four double-sided level 1 cards and four double-sided level 2 cards. The appropriate cards are listed on your character card.
+- **Ability Cards:** There are four to five double-sided level 1 cards and four to five double-sided level 2 cards. The appropriate cards are listed on your character card.
 - **Attack Modifier Tray (with white cube):** This is used to track your attack modifier table. At level 1, you will use the default table printed on the tray.
 - **Advanced Attack Modifier Cards:** Two double-sided cards to upgrade your attack modifier table at later levels.
 - **Character Hit Point Dial:** This is to track your hit points during a scenario.
@@ -239,13 +240,16 @@ Each Scenario Phase consists of three distinct steps:
 > 1. Read the scenario introduction, special rules, and goal in the scenario entry and check the scenario level.
 > 1. Retrieve the monster card for each monster type present in the scenario.
 > 1. Resolve any scenario effects or note them to be resolved later in setup. Flip the scenario card to its map side.
+> 1. <span class="pubcrawler">If you intend to use any Variable Difficulty cards (XXXX), select them now.</span>
 > 1. Place each monster card in its own monster tray. For each tray, place one white cube on the tray’s <img src="assets/icons/dice_result_neutral.png" class="inline-icon"/> slot. Retrieve the monster hit point dial colored to correspond to each monster on the scenario map. For each elite monster, place an additional white cube on the tray's <img src="assets/icons/dice_result_minus.png" class="inline-icon"/> slot.
 > 1. Place uniquely colored cubes on the map to represent each monster in the scenario, matching the color shown on the scenario map. Place your character mini on the indicated starting space.
 > 1. Retrieve both attack modifier trays. If the scenario is level 2 or higher, retrieve the appropriate level modifier card for your character and place it in the character modifier tray. You may select a monster difficulty other than “standard” by placing the chosen difficulty monster modifier card in the monster modifier tray.
 > 1. Keep all condition tokens, the die, and the icon reference card nearby.
 > 1. Decide which items to equip from the pool of available items (see [26](#anchor_26)).
-> 1. Retrieve your character’s level 1 ability cards and select a number of cards to upgrade equal to the scenario level minus one. Replace the selected level 1 ability cards with the corresponding level 2 ability cards (listed on the back of your character card). Your selected cards will start in your hand.
+> 1. <span class="pubcrawler">If your character has five level 1 ability cards and five level 2 ability cards, at the start of each scenario, you must choose which four of their five cards you want to bring into that scenario.</span>
+> 1. Retrieve your character’s level 1 ability cards and select a number of cards to upgrade equal to the scenario level minus one. Replace the selected level 1 ability cards with the corresponding level 2 ability cards (listed on the back of your character card). Your selected cards will start in your hand. <span class="pubcrawler">For characters that have five cards, at scenario level 5, instead upgrade all cards to their level 2 versions.</span>
 > 1. Set the character hit point dial to your character’s maximum hit point value, which is shown below the scenario level in the chart at the bottom of your character card. Set each monster’s corresponding colored hit point dial to their respective maximum hit points.
+> 1. <span class="pubcrawler">IMake note of the Tags on the back of your character card. These are largely cosmetic, but take special note of the "micro" tag, which signifies that this character is naturally small, and the micro world is their home. This is different from "shrunken" characters, who were once large, but have been reduced in size by some magical means. All six characters from Buttons & Bugs are considered to be shrunken. In the Pub Crawlers expansion, micro and shrunken characters will encounter some different scenarios and story beats from each other.</span>
 > 1. Apply any remaining scenario effects.
 
 ---
@@ -332,7 +336,17 @@ A hex with no terrain outline is considered **featureless**. A hex with no figur
 <div class="float-container">
 	<span class="floating-image"><img src="assets/icons/terrain_objective.png" height="48"/></span>
 	<p>Objectives are tied to the goals of some scenarios and typically need to be attacked or protected. Objectives can be targeted by attacks, but are immune to all conditions, and forced movement. Objectives are considered to have initiative 99 for the purpose of focusing, unless otherwise stated by the special rules for the scenario, but do not take turns. Objectives are considered figures, and the hexes they are in are considered occupied. Objectives are not considered obstacles. The special rules for the scenario will describe how the objective relates to the scenario’s goal.</p>
+	<p><span class="pubcrawler"><b>Loot Objectives:</b> Some scenarios in this game require characters to loot cubes. Any time loot is placed in a hex, either at the start of a scenario, or when a specific monster dies, place a white cube in the hex. Each time a character ends their turn, they automatically loot all loot cubes in the hex they occupy.</span></p>
 </div>
+
+#### Impassable Hexes
+
+<div class="float-container">
+	<span class="floating-image"><img src="assets/icons/terrain_wall.png" height="48"/></span>
+	<p><span class="pubcrawler">An impassible hex (A) is signified by a white dashed border. These hexes cannot be moved into in any way and block line-of-sight. When any figure is targeted by any ability, the acting figure must have a clear line-of-sight to the target to perform the ability. Line-of-sight is established if a line can be drawn from any part of the acting figure’s hex to any part of the target hex without touching the outside border of the scenario or an impassible hex.</span></p>
+</div>
+
+![An example of Line of Sight](/assets/diagrams/impassable.png)
 
 ---
 
@@ -376,6 +390,13 @@ Determine the initiative order by comparing the initiative values on your initia
 >
 > Elite monsters have a different rank than normal monsters and are considered to have rolled the other two results. Instead of placing a single white cube on the rolled result, place two white cubes, one on each of the other two results.
 > The elite monster will take a turn at each of the marked initiative values, performing the abilities of the first marked action on its first turn and the abilities of the second marked action on its second turn.
+
+<span class="pubcrawler">Some scenarios have monsters transition from normal to elite or vice versa during a round. These cases are considered spawning. The newly placed monsters perform all their actions for the round, using the result of the action die that was rolled at the start of the round.</span>
+
+### Allies
+
+<span class="pubcrawler">Some scenarios feature other figures that are allies to the player character. When allies attack, they use the player’s attack modifier table. Unless otherwise specified, negative abilities (attacks, negative conditions, forced movement) can only target enemies, and positive abilities (heals, positive conditions) can only target allies or the acting figure themselves. Unless otherwise specified, allies are not controlled by the player, but instead act automatically using the focus rules described below.</span>
+
 
 ### Resolving Ties
 
@@ -632,6 +653,12 @@ A condition effect can also be added to other abilities as an added effect, caus
 
 <img src="assets/icons/condition_strengthen.png" class="inline-condition"/> **Strengthen:** The figure gains advantage on all of their attacks. Strengthen is removed at the end of the figure’s next turn.
 
+<span class="pubcrawler"><img src="assets/icons/condition_regenerate.png" class="inline-condition"/> **Regenerate:** The figure performs "Heal 1, self" at the start of each of their turns, even if they have stun. Regenerate is removed when the figure suffers damage. If a  figure has both regenerate and wound, the regenerate effect is applied first, removing wound before it takes effect.</span>
+
+<span class="pubcrawler"><img src="assets/icons/condition_ward.png" class="inline-condition"/> **Ward:** The next time the figure suffers damage from any source, they instead suffer half that amount of damage (rounded down), and Ward is then removed.</span>
+
+<span class="pubcrawler"><img src="assets/icons/condition_safeguard.png" class="inline-condition"/> **Safeguard:** The next time a figure with Safeguard would gain one or more negative conditions, prevent one of the conditions, and safeguard is then removed. Players may choose which condition to prevent if there is more than one, including when safeguard is on a monster. Safeguard can prevent a figure from adding a curse card to their deck, but does not prevent a drawn curse card from taking effect.</span>
+
 #### Negative Conditions
 
 <img src="assets/icons/condition_wound.png" class="inline-condition"/> **Wound:** The figure suffers 1 damage at the start of each of their turns. Wound is removed when the figure is healed, and the figure is healed by the ability as normal. (You can place the token covering a monster’s ability text to help you remember.)
@@ -643,6 +670,18 @@ A condition effect can also be added to other abilities as an added effect, caus
 <img src="assets/icons/condition_disarm.png" class="inline-condition"/> **Disarm:** The figure cannot perform any attacks. Disarm is removed at the end of the figure’s next turn.
 
 <img src="assets/icons/condition_muddle.png" class="inline-condition"/> **Muddle:** The figure gains disadvantage on all of their attacks. Muddle is removed at the end of the figure’s next turn.
+
+> <img src="assets/icons/condition_rot.png" class="inline-condition"/> **Rot:** All attacks performed by the figure gain -1. Rot is removed when the figure is healed. Like poison, rot prevents the heal from increasing the figure’s current hit point value.
+
+> <img src="assets/icons/condition_grounded.png" class="inline-condition"/> **Grounded:** The figure loses flying and can no longer gain flying. Grounded is removed at the end of the figure’s next turn. If the figure has a persistent flying bonus, they gain flying immediately upon removing grounded.
+
+> #### Bless & Curse
+
+> Bless and Curse are conditions that function differently than others. The player character and any of their allies are considered to have one collective pool of bless and curse tokens, such that when either the character or an ally is blessed or cursed, one corresponding token is added to the pool, up to a maximum of 10. All monsters share one collective pool as well. A pool cannot contain both bless and curse tokens. If a curse token should be added to a pool that contains bless tokens, remove a bless token instead. Similarly, gaining a bless token would remove a curse token instead.
+
+> <img src="assets/icons/condition_bless.png" class="inline-condition"/> **Bless:** Whenever a figure with bless tokens in their pool performs an attack, they also roll the bless/curse die. If the result of that die is equal to or less than the number of bless tokens the figure has in their pool, the value of the attack is doubled after all other attack modifications, then one bless token is removed..
+
+> <img src="assets/icons/condition_curse.png" class="inline-condition"/> **Curse:** Whenever a figure with curse tokens in their pool performs an attack, they also roll the bless/curse die. If the result of that die is equal to or less than the number of curse tokens the figure has in their pool, the value of the attack is set to zero after all other attack modifications, then one curse token is removed.
 
 ---
 
@@ -673,6 +712,12 @@ An active bonus ability is any ability that provides an active bonus to a figure
 > A character may voluntarily remove a card with a round bonus or persistent bonus from their active area before the bonus expires, but doing so removes the bonus. This can be done at any time except during another ability. Because cards in your active area can be dismissed, you can consider them to be in the zone they will be moved to once dismissed; that is the hand for A-side cards, the discard pile for B-side cards, or the lost pile for any card with a lost icon. As such, cards in your active area can count toward the two cards in your hand and/or discard pile required to rest (see <a href="#anchor_27">27</a>). Likewise, they can be dismissed and then discarded or lost to negate damage (see <a href="#anchor_28">28</a>). When you recover discarded cards (by resting, for example) or lost cards (through special actions), you have the choice of recovering cards in your active area or leaving them in the active area.
 
 Actions with active bonus abilities might also have other abilities, but these other abilities are only performed when the card is played. There is a wide variety of active bonus abilities. While these abilities are usually defined by text, there are two common ones with additional rules.
+
+#### Persistent Bonuses with Limited Charges
+
+Some persistent effects can only be used a certain number of times before they must be lost or discarded. This is tracked by how many times the card has been rotated. When played initially, orient the card normally. Then, each time the bonus is triggered, rotate the card 90 degrees clockwise, even if no benefit is gained. If the bonus is triggered when the <img src="assets/icons/micro_persistent-rotation.png" class="inline-condition"/> icon is on the side of the card closest to the player, discard or lose the card instead (depending on whether a <img src="assets/icons/use_lost.png" class="inline-condition"/> icon is also present).
+
+![Diagram showing an example of a persistent bonus with limited charges](/assets/diagrams/persistent_with_charges.png)
 
 ---
 
@@ -921,13 +966,22 @@ All monsters of each type act based on the initiative value rolled for their typ
 >
 > An elite monster takes two turns each round, one at each of the two rolled initiative values. It performs the abilities of the first rolled action on its first turn and the abilities of the second rolled action on its second turn.
 
-### Focus
+### Focus (Normal)
 
 > Because Buttons & Bugs is a solo game, you are the sole focus of the monsters. They will target you with all attacks and negative targeted abilities.
 
 The monster identifies the closest unoccupied hex from which it can perform its attack abilities; this is called its "attack hex." If the monster cannot attack on its turn, either because it does not have an attack ability or because it is disarmed, it moves as if for a single-target melee attack. The monster follows the shortest path to its attack hex. If it can't reach the attack hex this turn, it will take the shortest path which brings it as close as possible to the attack hex. If it can't get closer to the attack hex this turn, it will not move.
 
 "Closest" and "shortest" mean using the fewest movement points to navigate around obstacles and hazards (if possible) and/or through difficult terrain using the normal, jumping, and flying movement rules.
+
+### <span class="pubcrawler">Focus (With Allies)</span>
+
+<span class="pubcrawler">When choosing who to attack between multiple enemies, both monsters and character allies must first find a focus. They find a focus using the following priorities in order:</span>
+1. The enemy the attacker can perform its attack on using the fewest movement points. This determination takes into consideration the effects of difficult terrain and moving through the fewest hazardous terrain hexes as possible. The number of movement points may be zero if one or more enemies are already in range 
+1. The enemy who is closest by range to the attacker.
+1. The enemy who acts earliest in the initiative order.
+
+If the attacker would have disadvantage for using a ranged attack on an adjacent enemy, it will use the fewest movement points it can to move to a hex that is not adjacent to its target. If the attacker cannot attack on its turn, either because it does not have an attack ability or because it has "<img src="assets/icons/condition_disarm.png" class="inline-icon"/> , it focuses and moves as it would to make a melee attack.
 
 #### Path Priority
 
@@ -1038,8 +1092,21 @@ If the scenario was completed, read the conclusion of the scenario, which is fou
 
 ---
 
-<p align="right" class="page-anchor"><a href="#anchor_1">🔝</a>&nbsp; &nbsp;<a name="anchor_35" class="page-number">35</a></p>
+# <span class="pubcrawler">Variable Difficulty</span>
 
+The variable difficulty cards are a freeform system to increase or decrease the difficulty of the game, or just provide some extra variety. 
+
+If you wish to make the game harder, you can choose a desired difficulty range (+1-3:HARD or +4-6:VERY HARD) and then draw random Struggle cards (red side) until the sum of all cards is within the desired range.
+
+Conversely, If you wish to make the game easier, you can choose a desired difficulty range (-1-3: EASY or -4-6: VERY EASY) and then draw random Ease cards (blue side) until the sum of all cards is within the desired range.
+
+In addition, you can draw a combination of random struggle and ease cards to provide extra variety in a scenario.
+
+The overall difficulty of the scenario is determined by the difference between the total struggle value and the total ease value.
+
+![Variable Difficulty Chart](/assets/diagrams/difficulty_chart.png)
+
+<p align="right" class="page-anchor"><a href="#anchor_1">🔝</a>&nbsp; &nbsp;<a name="anchor_35" class="page-number">35</a></p>
 ---
 
 > # The Adventure Begins
@@ -1255,7 +1322,7 @@ The following is a complete list of all component errata. If a discrepency exist
 
 ---
 
-# Credits
+# Credits for Gloomhaven: Buttons and Bugs
 
 <div class="three-columns">
 <table>
@@ -1364,6 +1431,76 @@ The following is a complete list of all component errata. If a discrepency exist
 <h3 id="special-thanks">Special Thanks</h3>
 
 <p>“Thank you to my wife, Krista, who tirelessly supports my game design shenanigans.” —Joe Klipfel</p>
+
+</td></tr>
+</table>
+</div>
+
+# Credits for Gloomhaven: Pub Crawlers
+
+<div class="three-columns">
+<table>
+<tr><td>
+  
+<h3 id="game-design">Game Design</h3>
+
+<h4 id="designers">Designer</h4>
+
+<p>Nikki Valens</p>
+
+<h4 id="game-development">Game Development</h4>
+
+<p>Misty Burgess, Isaac Childres, Nikki Valens</p>
+
+<h3 id="illustration">Illustration</h3>
+
+<h4 id="art-direction">Art Direction</h4>
+
+<p>Arch Anderson</p>
+
+<h4 id="graphic-design">Graphic Design</h4>
+
+<p>Arch Anderson, Chris Doughman, Layne Huber</p>
+
+<h4 id="key-art">Key Art</h4>
+
+<p>Mofeil Wang</p>
+
+<h4 id="map-art">Map Art</h4>
+
+<p>Yanis Cardin</p>
+
+<h4 id="3d-sculpts">3D Sculpts</h4>
+
+<p>Chris Lewis</p>
+
+</td><td>
+
+<h3 id="writing">Writing</h3>
+
+<h4 id="scenario-writing">Scenario Writing</h4>
+
+<p>B. Moon</p>
+
+<h4 id="rules-text">Rules Text</h4>
+
+<p>Isaac Childres</p>
+
+<h4 id="editing">Editing</h4>
+
+<p>Jaym Gates</p>
+
+<h3 id="production">Production</h3>
+
+<p>Arch Anderson, Layne Huber, Price Johnson</p>
+
+<h3 id="playtesting">Playtesting</h3>
+
+<h4 id="playtesters">Playtesters</h4>
+
+<p>Ben Donovan, Christopher Elms, Fiona van den Heiligenberg, Duncan Henry, Price Johnson, Pete Koprince, Larry Marburger, Emily Moran, B. Moon, Sam Muriello, Conrad Oakes, Zawadi Berg Svela</p>
+
+</td><td>
 
 </td></tr>
 </table>
