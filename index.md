@@ -1463,7 +1463,7 @@ The following is a complete list of all component errata. If a discrepency exist
 
 <h4 id="key-art">Key Art</h4>
 
-<p>Mofeil Wang</p>
+<p>Mofei Wang</p>
 
 <h4 id="map-art">Map Art</h4>
 
