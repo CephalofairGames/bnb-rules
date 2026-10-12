@@ -656,7 +656,7 @@ A condition effect can also be added to other abilities as an added effect, caus
 
 <span class="pubcrawler"><img src="assets/icons/condition_ward.png" class="inline-condition"/> **Ward:** The next time the figure suffers damage from any source, they instead suffer half that amount of damage (rounded down), and Ward is then removed.</span>
 
-<span class="pubcrawler"><img src="assets/icons/condition_safeguard.png" class="inline-condition"/> **Safeguard:** The next time a figure with Safeguard would gain one or more negative conditions, prevent one of the conditions, and safeguard is then removed. Players may choose which condition to prevent if there is more than one, including when safeguard is on a monster. Safeguard can prevent a figure from adding a curse card to their deck, but does not prevent a drawn curse card from taking effect.</span>
+<span class="pubcrawler"><img src="assets/icons/condition_safeguard.png" class="inline-condition"/> **Safeguard:** The next time a figure with Safeguard would gain one or more negative conditions, prevent one of the conditions, and safeguard is then removed. Players may choose which condition to prevent if there is more than one, including when safeguard is on a monster. Safeguard can prevent a figure from adding a curse token to their pool, but does not prevent one from taking effect.</span>
 
 #### Negative Conditions
 
