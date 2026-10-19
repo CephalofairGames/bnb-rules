@@ -682,6 +682,8 @@ Bless and Curse are conditions that function differently than others. The player
 
 <img src="assets/icons/condition_curse.png" class="inline-condition"/> **Curse:** Whenever a figure with curse tokens in their pool performs an attack, they also roll the bless/curse die. If the result of that die is equal to or less than the number of curse tokens the figure has in their pool, the value of the attack is set to zero after all other attack modifications, then one curse token is removed.
 
+In the case of advantage/disadvantage, the bless/curse die is rolled twice as well, and the best/worst result is evaluated. 
+
 ---
 
 <p align="right" class="page-anchor"><a href="#anchor_1">🔝</a>&nbsp; &nbsp;<a name="anchor_21" class="page-number">21</a></p>
